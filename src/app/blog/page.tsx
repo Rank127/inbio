@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -15,6 +16,8 @@ const blogPosts = [
       "Fast pyrolysis is counterintuitive until you see it run. You take organic waste, heat it extremely fast in a zero-oxygen environment, and in under two seconds it breaks apart into three products.",
     date: "2026-03-15",
     category: "Technology",
+    image: "/images/photo-1553621070-ef4cd7347074-768x327.jpg",
+    imageAlt: "Biomass being converted to biochar through charcoal production",
   },
   {
     slug: "biochar-vs-compost",
@@ -24,6 +27,8 @@ const blogPosts = [
       "Biochar and compost do fundamentally different things in soil. Here's our actual assessment — what each does well, where each falls short, and why we recommend using them together.",
     date: "2026-03-14",
     category: "Agriculture",
+    image: "/images/iStock-671710122-768x509.jpg",
+    imageAlt: "Young plant seedling growing in enriched soil",
   },
   {
     slug: "biochar-carbon-credits",
@@ -33,6 +38,8 @@ const blogPosts = [
       "A mid-size pyrolysis operation producing 500 tons of biochar a year could generate $180,000 to $210,000 in annual carbon credit revenue. Here's how the path from production to revenue actually works.",
     date: "2026-03-13",
     category: "Carbon Markets",
+    image: "/images/iStock-1312764772-1-768x400.jpg",
+    imageAlt: "Sustainable plant growth representing carbon sequestration",
   },
   {
     slug: "bio-oil-applications",
@@ -41,6 +48,8 @@ const blogPosts = [
       "Bio-oil keeps showing up as the answer for operations with a fossil fuel dependency and a waste stream to manage. Here are the five applications with the most traction.",
     date: "2026-03-12",
     category: "Biofuels",
+    image: "/images/20230810_123159-768x947.jpg",
+    imageAlt: "Bio-oil produced by iNBIO through fast pyrolysis",
   },
   {
     slug: "sustainable-aviation-fuel",
@@ -50,6 +59,8 @@ const blogPosts = [
       "The highest-value pathway for pyrolysis bio-oil is upgrading it into drop-in jet fuel. The bottleneck isn't refining technology — it's feedstock.",
     date: "2026-03-11",
     category: "Biofuels",
+    image: "/images/iStock-1345835865-1-768x409.jpg",
+    imageAlt: "Sustainable aviation fuel from biomass pyrolysis",
   },
   {
     slug: "biochar-stormwater",
@@ -59,6 +70,8 @@ const blogPosts = [
       "Stormwater engineers have been calling us more in the past two years than the previous five combined. Biochar is proving itself as a filter medium across the country.",
     date: "2026-03-10",
     category: "Water Management",
+    image: "/images/20230609_101115-768x1024.jpg",
+    imageAlt: "Engineered biochar granules for stormwater filtration",
   },
   {
     slug: "economics-pyrolysis",
@@ -67,6 +80,8 @@ const blogPosts = [
       "How much does it actually cost? Capital costs, revenue streams, ROI timelines — honest numbers for modular pyrolysis systems in the 5-75 TPD range.",
     date: "2026-03-09",
     category: "Business",
+    image: "/images/iStock-1185246772-768x512.jpg",
+    imageAlt: "Engineers inspecting a modular pyrolysis plant",
   },
   {
     slug: "usda-epa-incentives-2026",
@@ -75,6 +90,8 @@ const blogPosts = [
       "Federal programs that can offset pyrolysis and biochar project costs — REAP grants, EQIP, CSP, the Renewable Fuel Standard, and carbon credits explained.",
     date: "2026-03-08",
     category: "Policy",
+    image: "/images/iStock-1312764772-2-768x400.jpg",
+    imageAlt: "Sustainable biomass technology supported by federal programs",
   },
 ];
 
@@ -130,21 +147,15 @@ export default function BlogPage() {
                 key={post.slug}
                 className="flex flex-col bg-surface rounded-xl border border-border overflow-hidden hover:shadow-lg transition-shadow"
               >
-                {/* Card image placeholder */}
-                <div className="h-48 bg-surface-dark flex items-center justify-center">
-                  <svg
-                    className="w-12 h-12 text-text-lighter"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={1.5}
-                      d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"
-                    />
-                  </svg>
+                {/* Card image */}
+                <div className="relative h-48 overflow-hidden">
+                  <Image
+                    src={post.image}
+                    alt={post.imageAlt}
+                    width={768}
+                    height={400}
+                    className="w-full h-full object-cover"
+                  />
                 </div>
 
                 <div className="flex flex-col flex-1 p-6">
