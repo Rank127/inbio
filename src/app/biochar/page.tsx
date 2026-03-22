@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -120,18 +121,29 @@ export default function BiocharPage() {
       {/* Intro */}
       <section className="py-16 sm:py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-3xl sm:text-4xl font-bold text-text">
-              What Makes Our Biochar Different
-            </h2>
-            <p className="mt-6 text-text-light leading-relaxed">
-              Commodity biochar produced in open kilns or uncontrolled burns
-              varies widely in quality, contamination levels, and performance.
-              iNBIO&apos;s engineered biochar is a precision-manufactured product
-              with documented, repeatable characteristics -- produced at our
-              facility in Salisbury, Maryland, using fast pyrolysis of
-              sustainably sourced biomass.
-            </p>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div>
+              <h2 className="text-3xl sm:text-4xl font-bold text-text">
+                What Makes Our Biochar Different
+              </h2>
+              <p className="mt-6 text-text-light leading-relaxed">
+                Commodity biochar produced in open kilns or uncontrolled burns
+                varies widely in quality, contamination levels, and performance.
+                iNBIO&apos;s engineered biochar is a precision-manufactured product
+                with documented, repeatable characteristics -- produced at our
+                facility in Salisbury, Maryland, using fast pyrolysis of
+                sustainably sourced biomass.
+              </p>
+            </div>
+            <div className="relative w-full overflow-hidden rounded-xl">
+              <Image
+                src="/images/20230609_101115-768x1024.jpg"
+                alt="Close-up of iNBIO engineered biochar produced via fast pyrolysis"
+                width={768}
+                height={1024}
+                className="rounded-xl object-cover w-full"
+              />
+            </div>
           </div>
         </div>
       </section>

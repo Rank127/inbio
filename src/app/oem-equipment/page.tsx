@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -305,7 +306,17 @@ export default function OemEquipmentPage() {
             ))}
           </div>
 
-          <div className="mt-12 bg-surface-dark rounded-xl border border-border p-8 flex flex-col sm:flex-row items-start sm:items-center gap-6">
+          <div className="mt-12 relative w-full aspect-[16/9] overflow-hidden rounded-xl">
+            <Image
+              src="/images/iStock-1185246772-768x512.jpg"
+              alt="Modular pyrolysis equipment deployed at a biomass processing site"
+              width={768}
+              height={512}
+              className="rounded-xl object-cover w-full"
+            />
+          </div>
+
+          <div className="mt-8 bg-surface-dark rounded-xl border border-border p-8 flex flex-col sm:flex-row items-start sm:items-center gap-6">
             <div className="flex-1">
               <h3 className="text-lg font-bold text-text">
                 Need a Capacity Beyond 75 TPD?

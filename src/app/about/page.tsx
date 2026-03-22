@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -64,6 +65,15 @@ export default function AboutPage() {
             <h2 className="text-3xl sm:text-4xl font-bold text-text">
               Our Mission
             </h2>
+            <div className="mt-8 mb-8 relative w-full aspect-[2/1] overflow-hidden rounded-xl">
+              <Image
+                src="/images/iStock-1312764772-1-768x400.jpg"
+                alt="Sustainable biotech and clean energy vision at iNBIO International BioRefineries"
+                width={768}
+                height={400}
+                className="rounded-xl object-cover w-full"
+              />
+            </div>
             <p className="mt-6 text-text-light leading-relaxed">
               At International BioRefineries (iNBIO), we believe that waste
               biomass is not a problem to manage -- it is a resource waiting to

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -111,6 +112,15 @@ export default function BiofuelsPage() {
               <h2 className="text-3xl sm:text-4xl font-bold text-text">
                 What Is Bio-Oil?
               </h2>
+              <div className="mt-6 mb-6 relative w-full overflow-hidden rounded-xl">
+                <Image
+                  src="/images/20230810_123159.jpg"
+                  alt="Bio-oil being poured from a jar, produced by iNBIO via fast pyrolysis"
+                  width={830}
+                  height={1024}
+                  className="rounded-xl object-cover w-full"
+                />
+              </div>
               <p className="mt-4 text-text-light leading-relaxed">
                 Bio-oil is a dark, dense liquid produced through the rapid
                 thermal decomposition of biomass in the absence of oxygen.

@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -50,10 +51,15 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 shrink-0">
-            <span className="text-2xl font-bold text-primary">iNBIO</span>
-            <span className="hidden sm:inline text-sm text-text-light">
-              International BioRefineries
-            </span>
+            <Image
+              src="/images/IMG_20250624_1852251-300x72.png"
+              alt="iNBIO International BioRefineries logo"
+              width={120}
+              height={29}
+              className="h-auto"
+              priority
+            />
+            <span className="sr-only">International BioRefineries</span>
           </Link>
 
           {/* Desktop Nav */}

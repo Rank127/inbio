@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -55,6 +56,15 @@ export default function CarbonCredits() {
       {/* Why Biochar Credits */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="mb-10 relative w-full aspect-[2/1] overflow-hidden rounded-xl">
+            <Image
+              src="/images/iStock-1312764772-1-scaled.jpg"
+              alt="Plant seedling symbolizing carbon removal and biochar carbon credits"
+              width={2048}
+              height={1067}
+              className="rounded-xl object-cover w-full"
+            />
+          </div>
           <h2 className="text-3xl font-bold text-text">Why Buyers Pay a Premium for Biochar Credits</h2>
           <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {[

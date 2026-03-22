@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -59,6 +60,18 @@ export default function SustainableAviationFuelPost() {
       {/* Article Body */}
       <article className="py-12 sm:py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Featured image */}
+          <div className="mb-10 rounded-xl overflow-hidden">
+            <Image
+              src="/images/iStock-1345835865-1-scaled.jpg"
+              alt="Sustainable aviation fuel from biomass pyrolysis bio-oil"
+              width={1200}
+              height={630}
+              className="w-full h-auto object-cover rounded-xl"
+              priority
+            />
+          </div>
+
           <div className="space-y-6 text-lg text-text leading-relaxed">
             <p>
               When people ask us what bio-oil is actually used for, sustainable

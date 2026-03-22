@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -119,6 +120,16 @@ export default function BuildOperatePlantPage() {
             From initial feasibility through daily production, here is the path
             from biomass waste to operating plant.
           </p>
+
+          <div className="mt-10 mb-4 relative w-full aspect-[2/1] overflow-hidden rounded-xl">
+            <Image
+              src="/images/iStock-1185246772-scaled.jpg"
+              alt="Engineers at a pyrolysis plant site reviewing construction and deployment plans"
+              width={2048}
+              height={1365}
+              className="rounded-xl object-cover w-full"
+            />
+          </div>
 
           <div className="mt-14 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {steps.map((step, idx) => (

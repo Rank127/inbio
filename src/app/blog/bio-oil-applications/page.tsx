@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -54,11 +55,16 @@ export default function BioOilApplicationsPost() {
       {/* Article */}
       <article className="py-12 sm:py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Featured image placeholder */}
-          <div className="mb-10 rounded-xl bg-surface-dark border border-border h-64 sm:h-80 flex items-center justify-center">
-            <p className="text-text-lighter text-sm">
-              Featured image: Industrial bio-oil applications overview
-            </p>
+          {/* Featured image */}
+          <div className="mb-10 rounded-xl overflow-hidden">
+            <Image
+              src="/images/20230810_123159.jpg"
+              alt="Bio-oil produced by iNBIO through fast pyrolysis of biomass"
+              width={1200}
+              height={630}
+              className="w-full h-auto object-cover rounded-xl"
+              priority
+            />
           </div>
 
           <div className="prose prose-lg max-w-none">

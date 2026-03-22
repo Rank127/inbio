@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const serviceCards = [
@@ -199,6 +200,15 @@ export default function Home() {
               </Link>
             </div>
             <div className="bg-surface-dark rounded-xl p-8 border border-border">
+              <div className="relative w-full aspect-[4/3] mb-6 overflow-hidden rounded-lg">
+                <Image
+                  src="/images/iStock-1063777306-1-scaled.jpg"
+                  alt="Fast pyrolysis technology converting biomass into bio-oil, biochar, and syngas"
+                  width={1024}
+                  height={683}
+                  className="rounded-lg object-cover w-full"
+                />
+              </div>
               <h3 className="text-lg font-semibold text-text mb-4">
                 Feedstock Flexibility
               </h3>

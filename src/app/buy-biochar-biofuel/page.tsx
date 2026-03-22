@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -100,7 +101,18 @@ export default function BuyBiocharBiofuelPage() {
             with custom specs to match your application.
           </p>
 
-          <div className="mt-12 grid grid-cols-1 lg:grid-cols-2 gap-8">
+          <div className="mt-12 mb-12 relative w-full aspect-[2/1] overflow-hidden rounded-xl">
+            <Image
+              src="/images/iStock-1180272394-scaled.jpg"
+              alt="Biofuel barrels and renewable energy products from iNBIO"
+              width={2048}
+              height={1536}
+              className="rounded-xl object-cover w-full"
+              priority
+            />
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             {/* Biochar Card */}
             <div className="flex flex-col bg-surface rounded-xl border border-border p-8 hover:shadow-lg transition-shadow">
               <div className="w-14 h-14 rounded-lg bg-green-100 flex items-center justify-center mb-5">

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -188,6 +189,15 @@ export default function OurTechnologyPage() {
               <h2 className="text-3xl sm:text-4xl font-bold text-text">
                 Our Reactor Technology
               </h2>
+              <div className="mt-6 mb-6 relative w-full overflow-hidden rounded-xl">
+                <Image
+                  src="/images/iStock-1063777306-1-scaled.jpg"
+                  alt="Laboratory testing of bio-oil produced through fast pyrolysis"
+                  width={2048}
+                  height={1365}
+                  className="rounded-xl object-cover w-full"
+                />
+              </div>
               <p className="mt-4 text-text-light leading-relaxed">
                 iNBIO&apos;s reactor is built around a bubbling fluidized bed
                 design -- the same core technology used in the most successful

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -56,11 +57,16 @@ export default function BiocharVsCompostPost() {
       {/* Article */}
       <article className="py-12 sm:py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Featured image placeholder */}
-          <div className="mb-10 rounded-xl bg-surface-dark border border-border h-64 sm:h-80 flex items-center justify-center">
-            <p className="text-text-lighter text-sm">
-              Featured image: Biochar and compost side-by-side comparison
-            </p>
+          {/* Featured image */}
+          <div className="mb-10 rounded-xl overflow-hidden">
+            <Image
+              src="/images/iStock-671710122-scaled.jpg"
+              alt="Young plant seedling growing in enriched soil with biochar amendment"
+              width={1200}
+              height={630}
+              className="w-full h-auto object-cover rounded-xl"
+              priority
+            />
           </div>
 
           <div className="prose prose-lg max-w-none">
