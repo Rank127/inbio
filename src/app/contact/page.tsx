@@ -186,54 +186,6 @@ export default function ContactPage() {
                 </div>
               </div>
 
-              {/* Google Maps Embed Placeholder */}
-              <div className="mt-10 rounded-xl overflow-hidden border border-border">
-                {/*
-                  Google Maps Embed placeholder for:
-                  31901 Tri-County Way, Suite 102B, Salisbury, MD 21804
-
-                  Replace the div below with:
-                  <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!..."
-                    width="100%"
-                    height="300"
-                    style={{ border: 0 }}
-                    allowFullScreen
-                    loading="lazy"
-                    referrerPolicy="no-referrer-when-downgrade"
-                    title="iNBIO Office Location"
-                  />
-                */}
-                <div className="w-full h-[300px] bg-surface-dark flex items-center justify-center">
-                  <div className="text-center">
-                    <svg
-                      className="w-10 h-10 text-text-light mx-auto mb-2"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={1.5}
-                        d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-                      />
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={1.5}
-                        d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-                      />
-                    </svg>
-                    <p className="text-sm text-text-light">
-                      Google Maps Embed
-                    </p>
-                    <p className="text-xs text-text-lighter mt-1">
-                      31901 Tri-County Way, Salisbury, MD 21804
-                    </p>
-                  </div>
-                </div>
-              </div>
             </div>
 
             {/* Right Column -- Contact Form */}
@@ -453,7 +405,7 @@ export default function ContactPage() {
                 Buy Biochar &amp; Biofuel
               </h3>
               <p className="mt-2 text-sm text-text-light text-center">
-                Purchase biochar, bio-oil, syngas, renewable diesel, or SAF for
+                Purchase biochar, bio-oil, syngas, or renewable diesel for
                 your operations.
               </p>
             </Link>

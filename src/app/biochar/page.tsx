@@ -130,9 +130,8 @@ export default function BiocharPage() {
                 Commodity biochar produced in open kilns or uncontrolled burns
                 varies widely in quality, contamination levels, and performance.
                 iNBIO&apos;s engineered biochar is a precision-manufactured product
-                with documented, repeatable characteristics -- produced at our
-                facility in Salisbury, Maryland, using fast pyrolysis of
-                sustainably sourced biomass.
+                with documented, repeatable characteristics -- produced using
+                fast pyrolysis of sustainably sourced biomass.
               </p>
             </div>
             <div className="relative w-full overflow-hidden rounded-xl">

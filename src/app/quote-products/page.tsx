@@ -12,7 +12,6 @@ const PRODUCTS = [
   "Bio-Oil",
   "Syngas",
   "Renewable Diesel",
-  "SAF",
   "Other",
 ] as const;
 
@@ -144,8 +143,7 @@ export default function QuoteProductsPage() {
   const hasBiochar = form.products.includes("Biochar");
   const hasBioOil =
     form.products.includes("Bio-Oil") ||
-    form.products.includes("Renewable Diesel") ||
-    form.products.includes("SAF");
+    form.products.includes("Renewable Diesel");
 
   const applicationOptions = hasBiochar
     ? BIOCHAR_APPLICATIONS
