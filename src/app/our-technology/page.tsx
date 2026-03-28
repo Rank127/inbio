@@ -199,7 +199,7 @@ export default function OurTechnologyPage() {
                 />
               </div>
               <p className="mt-4 text-text-light leading-relaxed">
-                iNBIO&apos;s reactor is built around a bubbling fluidized bed
+                iNBIO&apos;s reactor is built around a fluidized bed
                 design -- the same core technology used in the most successful
                 commercial pyrolysis installations worldwide. A stream of hot
                 inert gas suspends a bed of sand particles, creating a
