@@ -36,6 +36,7 @@ const serviceLines = [
 ];
 
 const navLinks = [
+  { label: "Invest", href: "/invest" },
   { label: "Blog", href: "/blog" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },

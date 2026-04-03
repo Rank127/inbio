@@ -9,7 +9,8 @@
     "lint": "eslint",
     "generate-blog": "tsx scripts/generate-blog-post.ts",
     "generate-blog:topic": "tsx scripts/generate-blog-post.ts --topic",
-    "generate-blog:provider": "tsx scripts/generate-blog-post.ts --provider"
+    "generate-blog:provider": "tsx scripts/generate-blog-post.ts --provider",
+    "send-drip": "tsx scripts/send-drip.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
