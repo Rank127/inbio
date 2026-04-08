@@ -10,6 +10,17 @@ export const metadata: Metadata = {
 
 const blogPosts = [
   {
+    slug: "biochar-in-concrete",
+    title:
+      "Holcim Just Proved Biochar Concrete Works at Scale — Here's What It Means",
+    excerpt:
+      "Negative fourteen kilograms of CO₂ per cubic meter. That's the number Holcim posted from their Canary Wharf pours — concrete that stores more carbon than it emits, using biochar from coffee grounds.",
+    date: "2026-04-08",
+    category: "Technology",
+    image: "/images/iStock-1185246772-768x512.jpg",
+    imageAlt: "Industrial facility representing biochar production for construction",
+  },
+  {
     slug: "what-is-fast-pyrolysis",
     title: "What Is Fast Pyrolysis? How We Actually Turn Biomass into Fuel",
     excerpt:
