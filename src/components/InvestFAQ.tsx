@@ -4,28 +4,28 @@ import { useState } from "react";
 
 const faqs = [
   {
-    q: "What is Regulation Crowdfunding (Reg CF)?",
-    a: "Reg CF is a provision under the JOBS Act that allows everyday investors — not just accredited ones — to invest in early-stage companies. Offerings are made through SEC-registered platforms like WeFunder, with annual limits on how much each individual can invest based on income and net worth.",
+    q: "What type of offering is this?",
+    a: "iNBIO is raising capital through a Regulation D Rule 506(c) private round. This allows us to accept direct investments from accredited investors while we prepare for a broader public offering. The round is facilitated through WeFunder's private investment platform.",
   },
   {
-    q: "How much can I invest?",
-    a: "Under Reg CF rules, investment limits depend on your annual income and net worth. If both are below $124,000, you can invest the greater of $2,500 or 5% of the lesser of your income or net worth. If either exceeds $124,000, you can invest up to 10% of the lesser, with a maximum of $124,000 per year across all Reg CF offerings.",
+    q: "Who can invest?",
+    a: "This offering is currently open to accredited investors as defined by the SEC. Generally, this means individuals with a net worth exceeding $1 million (excluding primary residence) or annual income exceeding $200,000 ($300,000 with a spouse) for the past two years. Accreditation will be verified as part of the investment process.",
   },
   {
     q: "What are the risks?",
-    a: "Investing in early-stage companies carries significant risk, including the possible loss of your entire investment. iNBIO is a growth-stage company and there is no guarantee of returns or liquidity. You should only invest money you can afford to lose. We encourage you to read the full offering documents on WeFunder before making any investment decision.",
+    a: "Investing in early-stage companies carries significant risk, including the possible loss of your entire investment. iNBIO is a growth-stage company and there is no guarantee of returns or liquidity. You should only invest money you can afford to lose. We encourage you to read the full offering documents before making any investment decision.",
   },
   {
     q: "When will I see returns?",
-    a: "Returns on Reg CF investments are not guaranteed and the timeline is uncertain. Equity in private companies is illiquid — there is no public market to sell your shares. Returns may come through a future acquisition, IPO, or dividend distribution, but none of these outcomes are assured.",
+    a: "Returns are not guaranteed and the timeline is uncertain. Equity in private companies is illiquid — there is no public market to sell your shares. Returns may come through a future acquisition, IPO, or dividend distribution, but none of these outcomes are assured.",
   },
   {
-    q: "How is my investment protected?",
-    a: "All Reg CF offerings are filed with the SEC and conducted through registered funding portals. WeFunder holds funds in escrow until the minimum fundraising target is met. If the target is not reached, your money is returned. iNBIO provides audited financials and regular investor updates as required by SEC regulations.",
+    q: "How does the investment process work?",
+    a: "After requesting access, you will receive an invitation to our private round on WeFunder. There you can review offering details, financials, and use-of-funds plan. Once you complete the accreditation verification, you can invest directly through the platform.",
   },
   {
     q: "What will iNBIO use the funds for?",
-    a: "Funds raised will be used to scale our fast pyrolysis operations, including equipment procurement, facility buildout, feedstock supply chain development, and go-to-market activities for our biochar and biofuel product lines. Detailed use-of-funds breakdowns are available in our WeFunder offering documents.",
+    a: "Funds raised will be used to scale our fast pyrolysis operations, including equipment procurement, facility buildout, feedstock supply chain development, and go-to-market activities for our biochar and biofuel product lines. Detailed use-of-funds breakdowns are available in our offering documents.",
   },
 ];
 

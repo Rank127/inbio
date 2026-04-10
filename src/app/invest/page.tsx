@@ -4,9 +4,9 @@ import InvestEmailForm from "@/components/InvestEmailForm";
 import InvestFAQ from "@/components/InvestFAQ";
 
 export const metadata: Metadata = {
-  title: "Invest in iNBIO — Crowdfunding Clean Energy",
+  title: "Invest in iNBIO — Clean Energy Private Investment",
   description:
-    "Join the clean energy revolution. Invest in International BioRefineries through Regulation Crowdfunding on WeFunder. Convert biomass waste into bio-oil, biochar, and biofuels.",
+    "Invest directly in International BioRefineries. We're raising capital to scale fast pyrolysis technology that converts biomass waste into bio-oil, biochar, and biofuels.",
 };
 
 const whyInvestCards = [
@@ -55,21 +55,21 @@ const whyInvestCards = [
 const steps = [
   {
     number: "01",
-    title: "Sign Up on WeFunder",
+    title: "Request an Invitation",
     description:
-      "Create a free account on WeFunder and review our offering details, financials, and use-of-funds plan.",
+      "Sign up below or contact us to receive an invitation to our private investment round on WeFunder.",
   },
   {
     number: "02",
-    title: "Choose Your Investment",
+    title: "Review the Offering",
     description:
-      "Select your investment amount. Reg CF allows most investors to participate with as little as $100.",
+      "Access our offering details, financials, and use-of-funds plan. Ask questions directly with our team.",
   },
   {
     number: "03",
-    title: "Join the Mission",
+    title: "Invest Directly",
     description:
-      "Complete your investment and become part of the clean energy transition. Receive regular updates as we grow.",
+      "Complete your investment through WeFunder and become part of the clean energy transition. Receive regular updates as we grow.",
   },
 ];
 
@@ -89,7 +89,7 @@ export default function InvestPage() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
           <div className="max-w-3xl">
             <p className="text-accent-light font-semibold text-sm uppercase tracking-wider mb-3">
-              Regulation Crowdfunding
+              Private Investment Round
             </p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight">
               Invest in the Future
@@ -98,19 +98,14 @@ export default function InvestPage() {
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-white/85 max-w-2xl leading-relaxed">
               iNBIO is converting biomass waste into bio-oil, biochar, and renewable biofuels
-              through fast pyrolysis. Join our Reg CF raise and be part of the clean energy revolution.
+              through fast pyrolysis. We&apos;re raising capital to scale operations and are accepting direct investments from qualified investors.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <a
-                href="https://wefunder.com/investor-warmup"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="#updates"
                 className="inline-flex items-center justify-center px-6 py-3 text-base font-semibold bg-accent hover:bg-accent-light text-white rounded-lg transition-colors"
               >
-                Invest on WeFunder
-                <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                </svg>
+                Request Investment Details
               </a>
               <a
                 href="#updates"
@@ -177,7 +172,7 @@ export default function InvestPage() {
               How to Invest
             </h2>
             <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
-              Investing through Regulation Crowdfunding is straightforward. Here&apos;s how it works.
+              Investing in iNBIO is straightforward. Here&apos;s how it works.
             </p>
           </div>
 
@@ -201,15 +196,10 @@ export default function InvestPage() {
 
           <div className="text-center mt-12">
             <a
-              href="https://wefunder.com/investor-warmup"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#updates"
               className="inline-flex items-center justify-center px-8 py-3 text-base font-semibold bg-primary hover:bg-primary-dark text-white rounded-lg transition-colors"
             >
-              Start Investing Now
-              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-              </svg>
+              Get Started
             </a>
           </div>
         </div>
@@ -237,7 +227,7 @@ export default function InvestPage() {
               Frequently Asked Questions
             </h2>
             <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
-              Common questions about investing in iNBIO through Regulation Crowdfunding.
+              Common questions about investing in iNBIO.
             </p>
           </div>
           <InvestFAQ />
@@ -256,15 +246,10 @@ export default function InvestPage() {
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wefunder.com/investor-warmup"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#updates"
               className="inline-flex items-center justify-center px-8 py-3 text-base font-semibold bg-accent hover:bg-accent-light text-white rounded-lg transition-colors"
             >
-              Invest on WeFunder
-              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-              </svg>
+              Request Investment Details
             </a>
             <Link
               href="/contact"
@@ -276,8 +261,9 @@ export default function InvestPage() {
           <p className="mt-8 text-xs text-white/50 max-w-2xl mx-auto leading-relaxed">
             This page is for informational purposes only and does not constitute an offer to sell
             or a solicitation of an offer to buy any securities. Any such offer will only be made
-            through official offering documents filed with the SEC and available on WeFunder.
-            Investing in startups involves significant risk, including the potential loss of your
+            through official offering documents. This offering is made under Regulation D Rule 506(c)
+            and is available only to accredited investors as defined by the SEC. Investing in
+            early-stage companies involves significant risk, including the potential loss of your
             entire investment.
           </p>
         </div>

@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// iNBIO Crowdfunding Drip Campaign — Email Templates
+// iNBIO Investment Drip Campaign — Email Templates
 // ---------------------------------------------------------------------------
 // Each function returns a complete HTML email string using inline styles
 // and table-based layout for maximum email client compatibility.
@@ -126,21 +126,21 @@ export function welcomeEmail(firstName?: string): string {
 
     <p style="margin:0 0 16px;font-weight:600;">Here is what you can expect from us:</p>
     <ul style="margin:0 0 16px;padding-left:20px;color:${TEXT_PRIMARY};">
-      <li style="margin-bottom:6px;">Updates on our WeFunder crowdfunding campaign</li>
+      <li style="margin-bottom:6px;">Updates on our investment round and company milestones</li>
       <li style="margin-bottom:6px;">Behind-the-scenes looks at our technology and team</li>
       <li style="margin-bottom:6px;">Insights into the cleantech and renewable energy market</li>
     </ul>
 
     <p style="margin:0 0 16px;">
-      In the meantime, you can learn more about our offering on WeFunder:
+      In the meantime, you can learn more about our company and technology:
     </p>
 
-    ${ctaButton("View Our WeFunder Campaign")}
+    ${ctaButton("Learn More About iNBIO", WEBSITE_URL)}
 
     <p style="margin:0;color:${TEXT_SECONDARY};font-size:13px;">
       <em>This email is for informational purposes only and does not constitute an offer to sell or a
-      solicitation of an offer to buy any securities. Any such offer may only be made pursuant to the
-      official offering materials available on WeFunder.</em>
+      solicitation of an offer to buy any securities. This offering is made under Regulation D Rule
+      506(c) and is available only to accredited investors as defined by the SEC.</em>
     </p>`;
 
   return wrapLayout(body);
@@ -151,13 +151,13 @@ export function welcomeEmail(firstName?: string): string {
 // ---------------------------------------------------------------------------
 export function announcementEmail(firstName?: string): string {
   const body = `
-    <p style="margin:0 0 16px;font-size:17px;font-weight:700;color:${GREEN_DARK};">We Are Live on WeFunder!</p>
+    <p style="margin:0 0 16px;font-size:17px;font-weight:700;color:${GREEN_DARK};">iNBIO Is Now Accepting Investments</p>
 
     <p style="margin:0 0 16px;">${greeting(firstName)}</p>
 
     <p style="margin:0 0 16px;">
-      The moment we have been working toward is here &mdash; <strong>iNBIO's crowdfunding campaign is now
-      live on WeFunder!</strong>
+      The moment we have been working toward is here &mdash; <strong>iNBIO's private investment round is now
+      open to accredited investors.</strong>
     </p>
 
     <p style="margin:0 0 16px;">
@@ -166,7 +166,7 @@ export function announcementEmail(firstName?: string): string {
       and <strong>renewable energy production</strong>.
     </p>
 
-    <p style="margin:0 0 4px;font-weight:600;">Campaign highlights:</p>
+    <p style="margin:0 0 4px;font-weight:600;">Investment highlights:</p>
     <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 20px;width:100%;">
       <tr>
         <td style="padding:10px 16px;background-color:${BG_LIGHT};border-left:4px solid ${ORANGE};margin-bottom:8px;">
@@ -191,15 +191,15 @@ export function announcementEmail(firstName?: string): string {
     </table>
 
     <p style="margin:0 0 16px;">
-      Visit our WeFunder page to review the full offering details, financials, and team information.
+      Contact us to review the full offering details, financials, and team information.
     </p>
 
-    ${ctaButton("Invest Now on WeFunder")}
+    ${ctaButton("Request Investment Details", WEBSITE_URL + "/invest")}
 
     <p style="margin:0;color:${TEXT_SECONDARY};font-size:13px;">
-      <em>Investing in startups and early-stage companies involves risks, including illiquidity and loss of
-      capital. Please review the offering materials carefully and consider whether this investment is
-      appropriate for you.</em>
+      <em>This offering is made under Regulation D Rule 506(c) and is available only to accredited investors.
+      Investing in early-stage companies involves risks, including illiquidity and loss of capital.
+      Please review the offering materials carefully.</em>
     </p>`;
 
   return wrapLayout(body);
@@ -261,15 +261,15 @@ export function nurture1Email(firstName?: string): string {
     </p>
 
     <p style="margin:0 0 16px;">
-      Interested in learning more? Our WeFunder page includes detailed information about our technology,
+      Interested in learning more? Visit our website for detailed information about our technology,
       business model, and growth plans.
     </p>
 
-    ${ctaButton("Learn More on WeFunder")}
+    ${ctaButton("Learn More", WEBSITE_URL + "/our-technology")}
 
     <p style="margin:0;color:${TEXT_SECONDARY};font-size:13px;">
       <em>This communication is for informational purposes only and does not constitute investment advice.
-      Please review the full offering materials on WeFunder before making any investment decision.</em>
+      This offering is available only to accredited investors under Regulation D Rule 506(c).</em>
     </p>`;
 
   return wrapLayout(body);
@@ -325,10 +325,10 @@ export function nurture2Email(firstName?: string): string {
     </table>
 
     <p style="margin:0 0 16px;">
-      Visit our WeFunder page for detailed market analysis, financial projections, and our go-to-market strategy.
+      Contact us for detailed market analysis, financial projections, and our go-to-market strategy.
     </p>
 
-    ${ctaButton("See the Full Opportunity")}
+    ${ctaButton("See the Full Opportunity", WEBSITE_URL + "/invest")}
 
     <p style="margin:0;color:${TEXT_SECONDARY};font-size:13px;">
       <em>Market projections and trends discussed herein are based on publicly available data and do not
@@ -389,11 +389,11 @@ export function nurture3Email(firstName?: string): string {
     </p>
 
     <p style="margin:0 0 16px;">
-      Our WeFunder campaign is your chance to be part of this story. Visit our page to learn more
+      Our private investment round is your chance to be part of this story. Get in touch to learn more
       about the team, our technology, and how we plan to grow.
     </p>
 
-    ${ctaButton("Join Us on WeFunder")}
+    ${ctaButton("Learn More About Investing", WEBSITE_URL + "/invest")}
 
     <p style="margin:0;color:${TEXT_SECONDARY};font-size:13px;">
       <em>This email is for informational purposes only. Any investment decision should be based solely
@@ -408,12 +408,12 @@ export function nurture3Email(firstName?: string): string {
 // ---------------------------------------------------------------------------
 export function lastChanceEmail(firstName?: string): string {
   const body = `
-    <p style="margin:0 0 16px;font-size:17px;font-weight:700;color:${ORANGE};">Campaign Closing Soon</p>
+    <p style="margin:0 0 16px;font-size:17px;font-weight:700;color:${ORANGE};">Investment Round Closing Soon</p>
 
     <p style="margin:0 0 16px;">${greeting(firstName)}</p>
 
     <p style="margin:0 0 16px;">
-      We wanted to reach out one more time because <strong>iNBIO's WeFunder campaign is approaching its
+      We wanted to reach out one more time because <strong>iNBIO's private investment round is approaching its
       close</strong>. If you have been considering participating, now is the time to review the offering.
     </p>
 
@@ -423,7 +423,7 @@ export function lastChanceEmail(firstName?: string): string {
         <td style="padding:20px;background-color:#FFF3E0;border:2px solid ${ORANGE};border-radius:6px;text-align:center;">
           <p style="margin:0 0 8px;font-weight:700;color:${ORANGE};font-size:18px;">Time Is Running Out</p>
           <p style="margin:0;color:${TEXT_PRIMARY};font-size:14px;">
-            Once the campaign closes, this opportunity to invest through WeFunder will no longer be available.
+            Once the round closes, this opportunity to invest will no longer be available.
           </p>
         </td>
       </tr>
@@ -438,17 +438,16 @@ export function lastChanceEmail(firstName?: string): string {
     </ul>
 
     <p style="margin:0 0 16px;">
-      Do not miss your chance to review the offering. Visit our WeFunder page to see the full details,
-      financials, and team information before the campaign closes.
+      Do not miss your chance to review the offering before the round closes.
     </p>
 
-    ${ctaButton("Review the Offering Now")}
+    ${ctaButton("Review the Offering Now", WEBSITE_URL + "/invest")}
 
     <p style="margin:0;color:${TEXT_SECONDARY};font-size:13px;">
-      <em>This is a time-sensitive notice about the campaign timeline, not a solicitation to invest.
-      All investment decisions should be made based on a thorough review of the offering materials.
-      Investing in early-stage companies involves significant risk, including potential loss of your
-      entire investment.</em>
+      <em>This is a time-sensitive notice, not a solicitation to invest. This offering is available only
+      to accredited investors under Regulation D Rule 506(c). All investment decisions should be made
+      based on a thorough review of the offering materials. Investing in early-stage companies involves
+      significant risk, including potential loss of your entire investment.</em>
     </p>`;
 
   return wrapLayout(body);
