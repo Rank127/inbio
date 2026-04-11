@@ -1638,21 +1638,163 @@ Send to **5-10 trusted people** who will give honest feedback. Incorporate befor
 
 ## 4. Marketing Your Fundraise Post-Launch — 9 Emails
 
-*Post-launch email series once the round is officially open and accepting investments. For Reg D 506(c), the cadence applies once the private round is live.*
+*Post-launch email series from Soft Launch to Closing. For Reg D 506(c), these apply once the private round is live and accepting real investments.*
 
-**Note:** These supplement the TTW series above. Once you're past TTW and accepting real investments, switch to these.
+### IMPORTANT DISCLAIMER — What you CANNOT say outside WeFunder
 
-| Email | Timing | Subject | Content |
-|-------|--------|---------|---------|
-| 1 | Launch day | iNBIO's investment round is OPEN | Announcement + WeFunder link |
-| 2 | Day 3 | Early momentum: X investors in 72 hours | Social proof, progress update |
-| 3 | Week 1 | Here's what your investment funds | Specific equipment/milestones |
-| 4 | Week 2 | Industry validation: [news item] | Share relevant market news |
-| 5 | Week 3 | Investor spotlight or Q&A recap | Build community |
-| 6 | Week 4 | Halfway there: X% funded | Progress milestone |
-| 7 | Week 6 | Behind the scenes: [facility/product update] | Show progress |
-| 8 | Week 8 | 2 weeks left: closing soon | Urgency without desperation |
-| 9 | Final day | Last chance: round closes tonight | Final CTA |
+**Do NOT mention the terms of your campaign on channels outside of the WeFunder platform** (emails, social media, etc.). Terms include:
+
+1. **Amount of securities offered**
+2. **Nature of securities offered** (e.g., valuation cap)
+3. **Price of securities**
+4. **Closing date of offering period**
+5. **Planned use of proceeds**
+6. **Progress toward meeting the funding target**
+
+Keep terms on WeFunder only. In emails and social, you can share excitement, milestones, and mission — but not deal specifics.
+
+### Email #1: Pre-marketing
+
+> **Subject:** Become an owner in iNBIO!
+>
+> We've just launched our investment round — what does that mean?
+>
+> This means we're letting our customers and biggest supporters become investors in iNBIO. We decided to host our round on WeFunder to share the upside of our success with the people who know us best: our family, friends, and customers. You are our foundation.
+>
+> Our round is about building a network of people who share our mission and values. Whether or not you're an accredited investor — we want to become the best possible company for all of you.
+>
+> Keep an eye out for more details on how to get involved!
+>
+> Raj
+
+### Email #2: Pre-marketing (Why invest?)
+
+> **Subject:** Why you should consider investing in iNBIO
+>
+> Hello,
+>
+> We re-introduced you to the concept of our investment round, and invited you to learn more. Today let's get into it a bit more.
+>
+> **Why should you invest?** Investing is not just something for Wall Street. Through platforms like WeFunder, you can invest in companies you believe in. And honestly, you should know something: why we started iNBIO, what the business model is, why we think this is the right time.
+>
+> **What if I'm an international investor?** WeFunder accepts investors from most countries.
+>
+> We're going to be in touch with more as the round gets off the ground!
+>
+> Raj
+
+### Email #3: Initial CTA with VIP offer
+
+> **Subject:** iNBIO's round is live! You're invited.
+>
+> In the past year, iNBIO has achieved a lot:
+> - [Milestone #1]
+> - [Milestone #2]
+> - [Milestone #3]
+>
+> ...and we're so excited to do even more! We're really excited about the growth iNBIO has seen over the last few months. And we have even more exciting plans for continuing to ramp up our growth in the coming year, with your help!
+>
+> Here is a picture of us in action:
+> [TEAM PICTURE]
+>
+> Raj
+
+### Email #4: Live Call Invite
+
+> **Subject:** Sign up for our WeFunder investor seminar!
+>
+> As you know, we recently launched our round on WeFunder! We're really excited about the momentum we've been seeing, and wanted to make sure that you didn't miss out on this unique opportunity!
+>
+> We understand that most people are not familiar with how private investment rounds work, and that's why we've decided to host a live call for all prospective investors who may have more questions about our round, what the opportunity is, and how it works.
+>
+> Please join us on [DATE] at [URL] for the presentation of our campaign and a live Q&A. We look forward to seeing you and answering any questions you may have!
+>
+> If you haven't seen our WeFunder page yet, check it out here: [URL]
+>
+> Raj
+
+### Email #5: Call Recording (Consideration)
+
+> **Subject:** There's still time to invest in iNBIO's round.
+>
+> We're blown away by your support since we launched our round on WeFunder [a week ago].
+>
+> Whether you join us in this round or not, **thank you.** We're so grateful for all your support over the years and appreciate any help you can give, whether it be in writing a check or sharing our page with your friends.
+>
+> Space is running out to invest under our current terms, so don't wait and lose your chance at getting the most bang for your buck!
+>
+> Invest here: [URL]
+>
+> Raj
+
+### Email #6: Closing VIP Terms
+
+> **Subject:** Get in on our terms while you still can!
+>
+> Our WeFunder round is still going strong! We're so grateful to have already raised funds so quickly in such a short amount of time.
+>
+> Have you gotten involved yet? Once our current slots fill up, there won't be another chance to get this deal! We hope that you will join us in this round and help us achieve our goal!
+>
+> [Positive Investor Comment Screenshot]
+>
+> Raj
+>
+> P.S. Here's a quick video recording on how to open an account and make the investment: [URL]
+
+### Email #7: Progress Update
+
+> **Subject:** Invest in iNBIO's round!
+>
+> What a thrilling couple of [weeks/months] it has been. We are so grateful for the outpouring of support from people like you that has allowed us to get so close to our goal.
+>
+> If you haven't invested yet and want to see some more info, here is what we have been up to since we launched: *(please refrain from mentioning the terms of your campaign when updating investors)*
+> - [Update #1]
+> - [Update #2]
+> - [Update #3]
+>
+> At this stage, many of our investors are increasing their allocations. [Customer Testimonial]
+>
+> If you want to invest or increase your investment, take action now — our round is closing soon! [URL]
+>
+> Raj
+>
+> P.S. [Attach a quick video of Raj thanking everyone for the investments]
+
+### Email #8: Time is running out
+
+> **Subject:** Time is running out to invest in iNBIO!
+>
+> Help us close out our round with a bang!
+>
+> For the past [X days/months], we've been raising from our day-one supporters, fans, customers, community, and friends. This funding will help us build the next chapter of iNBIO — giving us the proper working capital to deploy our next production systems, lock feedstock agreements, and begin generating recurring revenue.
+>
+> If you've already invested in our campaign, thank you. We are so grateful for your support and contribution, no matter the check size. If you haven't invested yet, what are you waiting for? There's still room in this round to get involved.
+>
+> [Invest Now button/link]
+>
+> Raj
+>
+> P.S. [Attach a quick video of Raj thanking everyone]
+
+### Email #9: Closing soon
+
+> **Subject:** What a ride it has been.
+> **Pre-header:** Time is running out to invest in iNBIO!
+>
+> Well, here we are, at the end. It's been such an incredible journey so far, and watching our community show up to support us has been endlessly fulfilling. If you invested in this round, from the bottom of our hearts, **thank you.** Your contribution will be fundamental for iNBIO's continual growth and success as we work to convert biomass waste into clean energy at scale.
+>
+> Still not convinced? Check out what we've been up to during the course of this raise:
+> - [Company Update #1]
+> - [Company Update #2]
+> - [Company Update #3]
+>
+> We hope you'll be there with us at the finish line when we cross it!
+>
+> [Invest Now button/link]
+>
+> Raj
+>
+> P.S. [Attach a quick video of Raj thanking everyone]
 
 ---
 
