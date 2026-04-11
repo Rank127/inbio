@@ -1,251 +1,654 @@
-# iNBIO WeFunder Playbook — Ready to Paste
+# iNBIO WeFunder Fundraising Playbook
 
-*Copy each section directly into the corresponding WeFunder pitch page field.*
-
----
-
-## COMPANY TAGLINE
-
-We turn biomass waste into bio-oil, biochar, and syngas through fast pyrolysis — displacing fossil fuels and sequestering carbon.
+Structured to match WeFunder's 4-phase playbook at wefunder.com/playbook.
 
 ---
 
-## COMPANY DESCRIPTION (Short Paragraph)
+# PHASE ONE: Pre-Launch
 
-International BioRefineries (iNBIO) designs, builds, and operates modular fast pyrolysis systems that convert agricultural and forestry waste into three revenue-generating products: bio-oil, biochar, and syngas. Our systems process 5 to 75 tons of biomass per day, are factory-built in shipping container modules, and ship directly to site. We sell the products, we sell the equipment, and we build and operate plants at client locations. Biochar alone is a $970M market in 2026, growing at 13% annually — and 62% of high-quality supply is already locked up by repeat buyers.
+*Create your pitch, secure your lead investor, and decide your terms to set your launch up for success.*
 
 ---
 
-## HIGHLIGHTS (Key Metrics Strip)
+## 1. Create Content
 
-| Metric | Value |
-|--------|-------|
-| System Range | 5–75 tons per day |
+WeFunder says: Consistent content is the most powerful way to build trust before you raise a dollar. Post regularly about milestones, challenges, and progress so investors understand who you are before you ask for money.
+
+### iNBIO Content Strategy (Start NOW, before the round goes live)
+
+**LinkedIn (Raj's personal account — this is where cleantech investors live):**
+
+Post 2-3x per week. Mix of:
+
+- **Process posts:** "We ran 12 tons of pine residuals through the reactor yesterday. Here's what the bio-oil yield looked like..." [photo of product]
+- **Market signal posts:** "ICVCM just approved three biochar credit methodologies. Here's why that matters for anyone producing biochar..." [link to news]
+- **Behind-the-scenes posts:** "Most people don't realize our entire 25 TPD system fits in 4 shipping containers. Here's what it looks like on the truck..." [photo]
+- **Opinion posts:** "Everyone's talking about SAF. Here's the honest truth about where bio-oil-to-jet-fuel actually stands in 2026..."
+- **Customer story posts:** "A stormwater engineer called us last week asking if our biochar could hit spec for a municipal filter installation. Short answer: yes. Longer answer..."
+
+**WeFunder Updates (once the page is live):**
+Post weekly updates on the platform. These show directly on your raise page and email to followers. Topics:
+- Fundraise progress and milestones hit
+- New customer conversations or LOIs
+- Equipment fabrication progress
+- Industry news that validates the thesis
+- Team additions or advisory board news
+
+**Content Rules:**
+- No buzzwords. No "revolutionary." No "disrupting." Just describe what's real.
+- Include numbers. "$164/ton carbon credits" beats "growing carbon markets."
+- Show the product. Photos of biochar, bio-oil, the reactor, the container modules.
+- Be honest about what's hard. Investors trust founders who acknowledge challenges.
+
+---
+
+## 2. Write Your Elevator Pitch
+
+WeFunder says: Describe your company in 3-7 of the simplest words possible, such that a very smart ten-year-old would understand what you do.
+
+### iNBIO Elevator Pitch Options (pick one):
+
+**Option A (product-focused):**
+> We turn wood waste into fuel and carbon-storing charcoal.
+
+**Option B (business-focused):**
+> We build machines that convert biomass waste into three sellable products.
+
+**Option C (problem-focused):**
+> We make money from waste that everyone else pays to get rid of.
+
+**Extended version (10 seconds):**
+> iNBIO builds modular pyrolysis systems that convert agricultural and forestry waste into bio-oil, biochar, and syngas. We sell the products, sell the equipment, and build and operate plants at client sites.
+
+---
+
+## 3. Produce Your Video
+
+WeFunder says: A video is the single most impactful thing on your page. Even a simple 60-second phone recording of the founder speaking to camera outperforms a polished corporate video.
+
+### iNBIO Video Script (60-90 seconds, Raj to camera)
+
+**[Scene 1 — Raj standing next to biomass/wood chips, 15 sec]**
+
+"A billion tons of wood waste, crop residues, and forestry byproducts pile up in the U.S. every year. Most of it gets burned, buried, or left to rot. That's a massive amount of energy going to waste."
+
+**[Scene 2 — Walk toward reactor/equipment, 20 sec]**
+
+"At iNBIO, we built a modular fast pyrolysis system — it fits in shipping containers, ships to your site, and in under two seconds converts that waste into three products: bio-oil that replaces fossil fuel, biochar that sequesters carbon for centuries, and syngas that powers the process itself. No external energy needed."
+
+**[Scene 3 — Hold up biochar sample, show bio-oil, 15 sec]**
+
+"This biochar goes into farms, stormwater filters, and even concrete. And every ton we produce generates carbon removal credits worth $100 to $250. That's revenue on top of the product sale."
+
+**[Scene 4 — Raj direct to camera, 20 sec]**
+
+"We're not a science project. We have equipment, products, and customers. What we need is capital to build and deploy our next systems. The biochar market is supply-constrained and growing 13% a year. If you want to own a piece of what's next in clean energy — invest in iNBIO."
+
+**Production tips:**
+- Film at your facility or near equipment/product samples
+- Natural lighting, no need for studio
+- Horizontal orientation (landscape)
+- Keep it under 90 seconds
+- Subtitle it (many watch without sound)
+
+---
+
+## 4. Curate Your Highlights
+
+WeFunder says: Your metrics and stats get their moment to shine. Show the numbers that prove traction and market opportunity.
+
+### iNBIO Highlights (5-7 key stats for the top of your page):
+
+| Highlight | Value |
+|-----------|-------|
+| Biochar Market (2026) | $970M, growing 13%/yr |
+| Carbon Credit Avg Price | $164/ton CO2 (up 25% in 2 yrs) |
+| Supply Pre-Sold | 62% of capacity locked by repeat buyers |
+| System Range | 5-75 tons/day, modular |
 | Product Streams | 3 (bio-oil, biochar, syngas) |
-| Reactor Temperature | 450–550 C |
-| Reaction Time | Under 2 seconds |
-| Biochar Market (2026) | $970M, growing 13% CAGR |
-| Carbon Credit Price | $164/ton avg (up 25% in 2 years) |
-| Addressable Market | $50B+ (biochar + SAF + carbon credits) |
+| ICVCM-Approved Methods | 3 biochar credit methodologies |
+| Addressable Market | $50B+ across all product lines |
 
 ---
 
-## PROBLEM
+## 5. Create Your Pitch
 
-**Header:** Every year, 1 billion tons of agricultural and forestry waste in the U.S. is burned, landfilled, or left to decompose — releasing greenhouse gases and wasting embedded energy.
+WeFunder says: 8-12 slides, critical ones near the top. Slide types: Problem, Solution, Traction, Business Model, Opportunity Size, Team, Customer Testimonials, Press, Use of Funds, Game Plan, CTA.
 
-**Body:**
+### iNBIO Pitch Slides:
 
-Open burning of crop residues releases particulates, CO2, and methane. Landfilling costs money and generates methane for decades. Meanwhile, industries are paying premium prices for fossil-derived heating oil, activated carbon, and soil amendments that biochar and bio-oil can replace at competitive cost.
+**SLIDE 1 — PROBLEM**
 
-The problem isn't a lack of technology. Pyrolysis has been proven for decades. The problem is that nobody has built a commercially scalable, modular system that a sawmill operator, a municipality, or a poultry farmer can deploy at their site without a $50M capital project and a PhD in chemical engineering.
+*Header:* Every year, 1 billion tons of U.S. biomass waste is burned, buried, or left to rot — wasting embedded energy and releasing greenhouse gases.
 
-That's the gap we fill.
-
----
-
-## SOLUTION
-
-**Header:** Modular fast pyrolysis systems that convert your biomass waste into three sellable products — at your location, on your timeline.
-
-**Body:**
-
-Our bubbling fluidized bed reactor heats biomass to 450–550 degrees in the absence of oxygen. In under two seconds, the organic material breaks apart into:
-
-- **Bio-oil (40–70% yield)** — A dense liquid fuel that directly replaces #2 and #6 heating oil in industrial boilers. At its highest value, bio-oil is the feedstock for sustainable aviation fuel (SAF).
-
-- **Biochar (15–40% yield)** — A stable, carbon-rich solid with applications in agriculture, stormwater filtration, environmental remediation, and concrete. Every ton of biochar locks away 700–800 kg of CO2 for centuries — qualifying for carbon removal credits worth $100–250+ per ton.
-
-- **Syngas (7–20% yield)** — A combustible gas that we recycle back to heat the reactor, making the entire process thermally self-sufficient. No external fuel needed to run.
-
-Our systems are modular: factory-built in standard 40-foot shipping containers, trucked to site, and interconnected. A 5 TPD pilot system fits in a single container. A 75 TPD commercial plant uses 8 modules. Multiple units combine to exceed 200 TPD.
-
-This isn't a science project. This is industrial equipment that processes real waste into products with established buyers.
+*Body:* Open burning releases particulates and CO2. Landfilling costs money and generates methane. Meanwhile, industries pay premium prices for fossil heating oil, activated carbon, and soil amendments that bio-oil and biochar can replace. The problem isn't technology — pyrolysis has been proven for decades. The problem is nobody built a commercially scalable, modular system a sawmill or municipality can deploy without a $50M capital project.
 
 ---
 
-## TRACTION
+**SLIDE 2 — SOLUTION**
 
-**Header:** From R&D to revenue-generating operations with equipment, customers, and products in the market.
+*Header:* Modular fast pyrolysis systems that convert biomass waste into three sellable products — at your location, on your timeline.
 
-**Milestones:**
+*Body:*
+- **Bio-oil (40-70% yield)** — Replaces #2 and #6 heating oil. Highest-value upgrade: sustainable aviation fuel feedstock.
+- **Biochar (15-40% yield)** — Soil amendment, stormwater filter, concrete additive, carbon credit generator. Locks away 700-800 kg CO2 per ton for centuries.
+- **Syngas (7-20% yield)** — Recycled to heat the reactor. Makes the process thermally self-sufficient. No external fuel.
 
-1. **Company founded** — International BioRefineries, LLC established in Salisbury, MD on the Delmarva Peninsula, one of the most biomass-rich regions on the East Coast
+Systems are factory-built in 40-ft shipping containers. 5 TPD fits in one container. 75 TPD uses eight. Ship to site, interconnect, run.
 
-2. **Reactor technology developed** — Proprietary bubbling fluidized bed reactor designed and tested across woody biomass and agricultural residues. Achieved target yields: 40–70% bio-oil, 15–40% biochar, 7–20% syngas
-
-3. **Modular system architecture proven** — Developed factory-built container-based system in 5–75 TPD configurations. Designed for rapid site deployment without custom construction
-
-4. **Biochar product certified** — Biochar production meets IBI (International Biochar Initiative) and EBC (European Biochar Certificate) quality standards. Tunable properties: surface area, pH, particle size, fixed carbon content
-
-5. **Three service lines launched** — Product sales (biochar, bio-oil), Build + Operate (EPC at client sites), and OEM Equipment (modular systems for operators). Multiple engagement models: full-service, turnkey, build-train-transfer
-
-6. **Carbon credit pathway established** — ICVCM approved three biochar credit methodologies in 2026 (CAR, Isometric, Verra VM0044). Average credit price: $164/ton, up 25% in two years. 40% of 2026 credits already pre-sold industry-wide
+*[Include photo of modular container system + product samples]*
 
 ---
 
-## BUSINESS MODEL
+**SLIDE 3 — TRACTION**
 
-**Header:** Three distinct revenue streams from one integrated process — plus carbon credits on top.
+*Header:* From R&D to revenue-generating operations with certified products and three active service lines.
 
-**Body:**
+*Timeline:*
+1. Company founded in Salisbury, MD — Delmarva Peninsula, one of the most biomass-rich regions on the East Coast
+2. Proprietary reactor designed and tested — achieved target yields across woody biomass and agricultural residues
+3. Modular container architecture proven — 5-75 TPD, rapid site deployment
+4. Biochar certified to IBI/EBC standards — tunable surface area, pH, particle size, carbon content
+5. Three service lines launched — product sales, Build + Operate (EPC), OEM equipment
+6. Carbon credit market validation — ICVCM approved 3 biochar methodologies, credits at $164/ton avg
 
-We make money three ways, and each one stands on its own:
-
-**1. Product Sales — Biochar & Bio-oil**
-We sell engineered biochar to agriculture, stormwater, remediation, and construction customers. Bio-oil sells as a direct replacement for fossil heating oil or as feedstock for refinery upgrading. Both products have established pricing and existing buyer demand. The biochar market is supply-constrained — 62% of high-quality capacity is already locked into repeat buyer contracts.
-
-**2. Build + Operate — EPC Services**
-We design, build, and operate pyrolysis plants at client locations. Three engagement models:
-- Full-service: We build it, we run it. Revenue-share or tolling-fee structure.
-- Turnkey: We build and commission, client operates after handover.
-- Build-train-transfer: We build, train their operators, then hand over.
-
-Clients include sawmills, municipalities, agricultural operations, and waste processors who have biomass to dispose of and want revenue from it.
-
-**3. OEM Equipment Sales**
-We sell modular pyrolysis systems to operators who want to own and run their own plant. Systems range from $X (5 TPD pilot) to $X (75 TPD commercial). Includes installation support, operator training, and optional maintenance contracts.
-
-**Carbon Credits — The Fourth Revenue Layer**
-Every ton of biochar we produce or help our clients produce qualifies for carbon removal credits at $100–250/ton CO2. A 25 TPD system producing 6–10 tons of biochar daily could generate $200K–$400K annually in credit revenue alone. This revenue stacks on top of product sales.
+*[Add any revenue numbers, LOIs, customer contracts, or letters of interest if available]*
 
 ---
 
-## OPPORTUNITY SIZE
+**SLIDE 4 — BUSINESS MODEL**
 
-**Header:** Biochar alone is approaching $1B. Add SAF, carbon credits, and renewable fuels — the addressable market exceeds $50B.
+*Header:* Three revenue streams from one process, plus carbon credits as a fourth layer.
 
-**Body:**
+**Revenue Line 1 — Product Sales (Biochar & Bio-oil)**
+Sell engineered biochar into agriculture, stormwater, remediation, concrete. Bio-oil replaces fossil heating oil. Supply-constrained market: 62% of capacity locked by repeat buyers.
 
-**Biochar: $970M in 2026 → $3.1B by 2030**
-Growing at 13% CAGR. Agriculture drives 55% of demand, but stormwater filtration and construction are the fastest-growing segments. The EU Carbon Removal Certification Framework goes operational in 2026, accelerating European demand. Supply is the constraint, not demand.
+**Revenue Line 2 — Build + Operate (EPC)**
+Design, build, and operate pyrolysis plants at client sites. Three models: full-service (we run it), turnkey (client runs it), build-train-transfer. Clients: sawmills, municipalities, ag operations, waste processors.
 
-**Carbon Credits: $1.35B projected by 2030**
-Biochar Carbon Removal accounted for 89.4% of all durable CDR deliveries in 2025. Credits averaged $164/ton and are trending up. Microsoft, JP Morgan, and Shopify are active buyers. Three ICVCM-approved methodologies now exist — giving institutional buyers the credibility they need.
+**Revenue Line 3 — OEM Equipment**
+Sell modular systems to operators. 5 TPD (pilot) through 75 TPD (commercial). Installation support, operator training, maintenance contracts.
 
-**Sustainable Aviation Fuel: $15.7B in 2026 → $84B by 2035**
-SAF production was just 0.3% of global jet fuel in 2024. The DOE Grand Challenge targets 3 billion gallons by 2030. Bio-oil from pyrolysis is a feedstock for SAF production — the highest-value upgrade pathway for our primary liquid product.
-
-**Biochar in Concrete: Emerging, massive potential**
-Portland cement produces 8% of global CO2 emissions. Holcim just poured net-zero concrete at Canary Wharf using biochar, achieving -14 kgCO2/m3. If green building standards start requiring biochar concrete, this market could dwarf agriculture.
-
-These aren't hypothetical numbers. These are markets with existing buyers, established pricing, and supply constraints that favor producers who can scale now.
+**Revenue Line 4 — Carbon Credits**
+Every ton of biochar = ~0.7-0.8 tons CO2 sequestered = $100-250 in credit revenue. Stacks on top of product sales. A 25 TPD system could generate $200K-$400K/year in credit revenue alone.
 
 ---
 
-## TEAM
+**SLIDE 5 — OPPORTUNITY SIZE**
+
+*Header:* $50B+ across biochar, carbon credits, SAF, and renewable fuels.
+
+- **Biochar:** $970M in 2026 → $3.1B by 2030. Growing 13% CAGR. Agriculture 55%, stormwater and construction fastest-growing.
+- **Carbon Credits:** Biochar = 89.4% of durable CDR deliveries. $164/ton avg. $1.35B projected by 2030. Microsoft, JP Morgan, Shopify buying.
+- **SAF:** $15.7B in 2026 → $84B by 2035. DOE targets 3B gallons by 2030. Bio-oil is a feedstock.
+- **Concrete:** Portland cement = 8% of global CO2. Holcim just poured net-zero biochar concrete at Canary Wharf (-14 kgCO2/m3). Emerging but enormous.
+
+These aren't projections — these are markets with existing buyers, established pricing, and supply constraints.
+
+---
+
+**SLIDE 6 — TEAM**
+
+*Header:* Built by engineers who run the process, not consultants who study it.
 
 **Raj Kathuria — Founder & CEO**
+Decades in biotechnology, process engineering, and cleantech commercialization. Raj designed the reactor, characterized the feedstocks, and certified the products. He's an engineer who built a business, not a business guy who hired engineers.
 
-Decades of experience in biotechnology, process engineering, and cleantech commercialization. Raj built iNBIO from the ground up — from reactor design through product certification to customer delivery. He's not a finance guy who hired engineers; he's an engineer who understands the business.
+Direct experience: reactor thermodynamics, feedstock characterization, biochar quality control, carbon credit registration, and selling into agriculture, water management, and industrial energy markets.
 
-Raj's direct experience spans feedstock characterization, reactor thermodynamics, biochar quality control, and the commercial realities of selling into agriculture, water management, and industrial energy markets. He personally oversees every system design and feedstock assessment.
-
-*[Add headshot, education logos, previous company logos]*
-
-*[Add additional team members as applicable]*
+*[Add headshot, education, previous company logos, advisory board]*
 
 ---
 
-## CUSTOMER / USE CASE EXAMPLES
+**SLIDE 7 — USE CASES / TESTIMONIALS**
 
-**Sawmill Operator — Pacific Northwest**
-A mid-size sawmill producing 50+ tons/day of wood residuals (bark, fines, trim ends) needs to dispose of waste that currently costs money to haul. An iNBIO 25 TPD system converts that waste into ~7 tons of bio-oil and ~5 tons of biochar daily — turning a cost center into a revenue stream. Biochar sells to local nurseries and landscapers. Bio-oil displaces the sawmill's own heating fuel. Carbon credits add $150K+/year.
+*Header:* Real applications with real economics.
 
-**Municipal Stormwater Authority — Mid-Atlantic**
-A municipality facing tightened MS4 permit requirements for phosphorus and heavy metals in stormwater runoff. Biochar-sand filter media removes 80–90% of dissolved metals and 40–80% of phosphorus. iNBIO supplies engineered biochar graded to 0.5–4mm for stormwater blends. One installation removes an estimated 22,000 lbs of sediment, 202 lbs of nitrogen, and 50 lbs of phosphorus annually.
+**Sawmill Operator** — 50+ TPD of wood residuals currently costs money to haul away. Our 25 TPD system converts it into ~7 tons bio-oil + ~5 tons biochar daily. Cost center becomes revenue stream. Carbon credits add $150K+/year.
 
-**Agricultural Producer — Delmarva Peninsula**
-A poultry/crop operation managing thousands of tons of litter and residues annually. USDA EQIP covers biochar application under Practice 336 at up to $201/cubic yard. Biochar improves water retention by 15–20%, reduces fertilizer costs 10–30% over time, and qualifies for carbon credits. Payback starts in year one with NRCS cost-share.
+**Municipal Stormwater Authority** — Biochar-sand filter media removes 80-90% dissolved metals, 40-80% phosphorus. One Minnesota installation: 22,000 lbs sediment, 202 lbs nitrogen, 50 lbs phosphorus removed annually.
 
----
-
-## USE OF FUNDS
-
-**Header:** Scaling production capacity and building the sales pipeline to capture a supply-constrained market.
-
-**Allocation (adjust percentages to match actual raise targets):**
-
-| Category | % | Description |
-|----------|---|-------------|
-| Equipment & Manufacturing | 40% | Fabricate and deploy next modular pyrolysis system(s), reactor components, condensation train, balance-of-plant |
-| Facility & Site Development | 20% | Site preparation, utility connections, feedstock handling and storage infrastructure |
-| Feedstock Supply Chain | 15% | Secure supply agreements with forestry operations, sawmills, and agricultural producers; build logistics for consistent feedstock delivery |
-| Sales & Marketing | 15% | Expand commercial team, attend industry events (tcbiomass, US Biochar Initiative), build OEM equipment sales pipeline, investor communications |
-| Working Capital & Operations | 10% | Operator hiring and training, initial production runs, product testing and certification, carbon credit registration |
+**Agricultural Producer** — USDA EQIP pays up to $201/cubic yard for biochar application. Water retention +15-20%, fertilizer costs -10-30% over time. Payback in year one with NRCS cost-share.
 
 ---
 
-## GAME PLAN (Next 12–18 Months)
+**SLIDE 8 — USE OF FUNDS**
 
-**Header:** From fundraise to first commercial deployment — here's what happens next.
+*Header:* Scaling production to capture a supply-constrained market.
 
-1. **Q2 2026** — Close private round. Finalize equipment procurement and fabrication orders for next production system.
+| Category | % | What It Funds |
+|----------|---|---------------|
+| Equipment & Manufacturing | 40% | Next modular system(s), reactor, condensation train |
+| Facility & Site | 20% | Site prep, utilities, feedstock handling |
+| Feedstock Supply Chain | 15% | Agreements with forestry/ag operations, logistics |
+| Sales & Marketing | 15% | Commercial team, industry events, OEM pipeline |
+| Working Capital | 10% | Operators, production runs, certifications, credit registration |
 
-2. **Q3 2026** — Begin system fabrication. Secure 2–3 feedstock supply agreements with regional forestry and agricultural operations on the Delmarva Peninsula.
-
-3. **Q4 2026** — System delivery and site installation. Complete commissioning and first production runs. Register biochar production with Puro.earth or Verra for carbon credit issuance.
-
-4. **Q1 2027** — Achieve steady-state production. Begin biochar and bio-oil product shipments to contracted buyers. Generate first carbon removal credits.
-
-5. **Q2 2027** — Launch Build + Operate pipeline: sign first EPC engagement with an external client site. Begin engineering and feedstock assessment.
-
----
-
-## PRESS / MEDIA
-
-*[Add any press mentions, podcast appearances, conference presentations, or industry recognition here. If none yet, consider:]*
-
-- US Biochar Initiative member
-- tcbiomass conference participation
-- Local/regional media coverage of Salisbury operations
-- Industry association endorsements
+*[Adjust percentages to match actual raise target]*
 
 ---
 
-## CLOSING CTA
+**SLIDE 9 — GAME PLAN**
 
-You've read the numbers. The biochar market is supply-constrained and growing at 13% per year. Carbon credits are averaging $164/ton and climbing. The construction industry is starting to embed biochar in concrete. SAF mandates are creating demand for bio-oil. And 62% of high-quality biochar capacity is already spoken for.
+*Header:* From close to first commercial deployment in 12 months.
 
-iNBIO has the technology, the team, and the market position to capture this. What we need is capital to scale production. This round funds the next system deployment and puts us on the path to recurring revenue across all three product lines.
-
-If you believe waste is a resource — and that the companies who convert it will define the next decade of clean energy — we'd welcome you as an investor.
-
----
-
-## VIDEO SCRIPT (Optional — for campaign video)
-
-*Suggested 60–90 second script:*
-
-[Open on biomass waste pile — wood chips, forestry residues]
-
-"Every year, a billion tons of agricultural and forestry waste in the U.S. gets burned, buried, or left to rot. That's energy — wasted."
-
-[Cut to reactor / equipment footage]
-
-"At iNBIO, we built a modular fast pyrolysis system that converts that waste into three products: bio-oil that replaces fossil heating fuel, biochar that sequesters carbon for centuries, and syngas that powers the process itself."
-
-[Show biochar in hands, soil application, stormwater filter]
-
-"Our biochar goes into farms, stormwater filters, and even concrete. And every ton generates carbon removal credits worth $100 to $250."
-
-[Show modular container system]
-
-"Our systems ship in standard 40-foot containers. A sawmill, a municipality, a farm — if you have biomass waste, we can turn it into revenue at your site."
-
-[Raj to camera]
-
-"I'm Raj Kathuria, founder of iNBIO. We're raising capital to scale production and deploy our next systems. The market is buying faster than producers can build. If you want to be part of what's next in clean energy — join us."
+1. **Q2 2026** — Close round. Finalize equipment procurement.
+2. **Q3 2026** — Begin fabrication. Lock 2-3 feedstock supply agreements.
+3. **Q4 2026** — System delivery and commissioning. First production runs. Register with Puro.earth/Verra.
+4. **Q1 2027** — Steady-state production. Begin product shipments. First carbon credits issued.
+5. **Q2 2027** — Sign first external Build + Operate client. Begin EPC engagement.
 
 ---
 
-## NOTES FOR RAJ
+**SLIDE 10 — CTA**
 
-- WeFunder recommends 8–12 slides. The sections above map to their slide format.
-- Upload your actual product photos (biochar, bio-oil samples, reactor, container modules) — they make a huge difference vs. stock images.
-- If you have any revenue numbers, LOIs, or customer contracts you can reference, add them to the Traction section.
-- The Business Model section has placeholder "$X" for equipment pricing — fill in actual numbers.
-- Review the Use of Funds percentages and adjust to match your actual budget and raise target.
-- The Game Plan timeline assumes closing in Q2 2026 — adjust if the timeline shifts.
-- WeFunder strongly recommends a video. Even a simple 60-second phone recording of Raj speaking directly to camera outperforms a polished corporate video.
-- For a Reg D 506(c) round, the platform will verify accredited investor status. Make sure the pitch reflects this (no "invest with as little as $100" language).
+The biochar market is supply-constrained and growing 13% per year. Carbon credits are at $164/ton and climbing. Concrete is going carbon-negative with biochar. And 62% of supply is already spoken for.
+
+We have the technology, the products, and the market. What we need is capital to scale. This round funds the next system deployment and puts us on the path to recurring revenue across all three service lines.
+
+If you believe waste is a resource — invest in iNBIO.
+
+---
+
+## 6. Choose Your Cover Image
+
+WeFunder says: This is the first thing investors see. It should clearly communicate what your company does.
+
+### iNBIO Cover Image Options (in order of preference):
+
+1. **Best:** Photo of the modular container system being deployed or installed — shows the actual product at scale
+2. **Good:** Close-up of all three products side by side (bio-oil in a jar, biochar granules, syngas flame) with a biomass input pile — tells the story visually
+3. **Acceptable:** Reactor in operation or team at the facility — shows it's real, not theoretical
+
+**Avoid:** Stock images, abstract graphics, just a logo, or anything that looks like a PowerPoint slide.
+
+**Specs:** Landscape orientation, high resolution, well-lit. WeFunder displays it as a banner at the top of your page.
+
+---
+
+## 7. Onboard Your Lead Investor
+
+WeFunder says: A lead investor sets the terms and signals credibility. They should be someone with relevant expertise and a meaningful investment.
+
+### iNBIO Lead Investor Strategy:
+
+**Ideal lead investor profile:**
+- Cleantech/climate-tech investor with a track record
+- Someone in the biochar, biomass, or carbon credit space
+- An operator who understands industrial equipment economics
+- Ajay Tandon (T&C Capital) — already involved per email thread, could serve as lead
+
+**What the lead investor does:**
+- Sets or validates the valuation and terms
+- Makes the first investment (signals credibility)
+- May write a "why I invested" memo that goes on the page
+- Their name/logo appears prominently
+
+**Action items:**
+- [ ] Confirm with Ajay Tandon if he'll serve as lead investor
+- [ ] Align on valuation and terms
+- [ ] Get a 2-3 sentence "why I invested" quote for the page
+
+---
+
+# PHASE TWO: Soft Launch
+
+*Start collecting reservations and investments through 1:1 outreach to angel investors, friends, family, customers, and anyone who can help you reach 25%+ of your funding goal.*
+
+---
+
+## 1. How Soft Launch Works
+
+Soft launch = your page is live but not public. Only people you invite directly can see it and invest. The goal is to stack early checks so that when you go public, the page shows momentum. Investors invest where other investors are already investing.
+
+**iNBIO Soft Launch Target:** Raise 25-30% of goal through personal outreach before going public.
+
+---
+
+## 2. Craft Personal Outreach to Existing Angels (50+ people)
+
+### iNBIO Outreach List — Who to Contact:
+
+**Tier 1 — Highest likelihood (contact first):**
+- Ajay Tandon / T&C Capital
+- Any existing iNBIO advisors or board members
+- Friends and family who've expressed interest
+- Previous business partners of Raj
+
+**Tier 2 — Warm contacts:**
+- Cleantech and climate-tech angels (LinkedIn connections)
+- US Biochar Initiative contacts
+- Industry conference contacts (tcbiomass, etc.)
+- Local Delmarva business community
+- WeFunder's own angel network
+
+**Tier 3 — Warm-ish:**
+- LinkedIn followers engaged with Raj's content
+- People who signed up on /invest email list
+- Industry newsletter subscribers
+
+### Outreach Message Template (personalize for each):
+
+**Subject:** I'm raising capital for iNBIO — wanted you to hear first
+
+**Body:**
+
+Hi [Name],
+
+I'm reaching out because [specific reason — you know the space / we talked at X conference / you've followed our progress].
+
+iNBIO is raising a private round to scale our fast pyrolysis operations. We convert biomass waste into bio-oil, biochar, and syngas using modular systems that ship in containers. The biochar market alone is approaching $1B and 62% of supply is already locked up — this is a supply-constrained market.
+
+I'd love for you to take a look at our raise page before we go public: [WeFunder link]
+
+A few numbers that matter:
+- Biochar carbon credits averaging $164/ton (up 25% in 2 years)
+- ICVCM just approved 3 biochar credit methodologies
+- Our systems produce 3 revenue streams from a single process
+- Holcim just poured net-zero concrete with biochar at Canary Wharf
+
+Happy to jump on a 15-minute call if you have questions. Either way, I appreciate you taking a look.
+
+Best,
+Raj
+
+---
+
+## 3. Email Your Existing Mailing Lists
+
+### iNBIO Email to /invest Subscriber List:
+
+**Subject:** iNBIO is now accepting investments — early access for you
+
+**Body:**
+
+You signed up for investment updates from iNBIO, and I wanted you to be among the first to know: our private round is now open.
+
+We're raising capital to scale our fast pyrolysis operations — building and deploying the modular systems that convert biomass waste into bio-oil, biochar, and syngas.
+
+Here's what's happened since you signed up:
+- ICVCM approved 3 biochar carbon credit methodologies
+- Biochar credits averaging $164/ton, up 25% in 2 years
+- 62% of high-quality biochar supply is already locked by repeat buyers
+- Holcim poured net-zero concrete using biochar at Canary Wharf
+
+You can review the offering details here: [WeFunder link]
+
+This round is open to accredited investors under Reg D 506(c). If you have questions, reply to this email or book a call with me directly.
+
+— Raj Kathuria, Founder & CEO
+
+*[Use your Resend infrastructure to send this — you already have the API and subscriber list built]*
+
+---
+
+# PHASE THREE: Public Launch
+
+*Reach beyond your personal network using social media, ads, WeFunder's marketing perks, and other promotions. Aim to reach 65%+ of your funding goal before moving into Closing.*
+
+**Note:** For a Reg D 506(c), "public launch" means broader outreach to accredited investor channels — not mass consumer marketing. You CAN generally solicit, but all investors must be verified accredited.
+
+---
+
+## 1. Create a Media Kit
+
+### iNBIO Media Kit Contents:
+
+Package these in a shared Google Drive or Dropbox folder:
+
+- [ ] Company logo (PNG, SVG, white + dark backgrounds)
+- [ ] 3-5 product photos (biochar, bio-oil, reactor, container modules)
+- [ ] Raj headshot (professional)
+- [ ] 1-page company fact sheet (PDF)
+- [ ] 3 pre-written social media posts others can share
+- [ ] Key stats graphic (the Highlights from Phase 1)
+- [ ] WeFunder page link + UTM tracking links
+- [ ] Boilerplate company description (2-3 sentences)
+
+**Boilerplate:**
+International BioRefineries (iNBIO) designs, builds, and operates modular fast pyrolysis systems that convert agricultural and forestry waste into bio-oil, biochar, and syngas. Based in Salisbury, MD, iNBIO serves agriculture, stormwater, construction, and carbon credit markets with engineered biochar products. The company is currently raising capital through a private round on WeFunder.
+
+---
+
+## 2. Make a Huge Splash on Launch Day
+
+### iNBIO Launch Day Checklist:
+
+**Morning:**
+- [ ] Raj posts on LinkedIn: personal story + why he's raising + link
+- [ ] Email blast to full subscriber list (use Resend campaign API)
+- [ ] Text/WhatsApp message to 20 closest contacts asking them to share
+- [ ] Post on X/Twitter with key stat + link
+
+**Midday:**
+- [ ] Follow-up LinkedIn comment on the morning post with a specific data point
+- [ ] Share in any relevant LinkedIn groups (biochar, cleantech, climate investing)
+- [ ] Ask 5 people to comment on the LinkedIn post (engagement drives reach)
+
+**Evening:**
+- [ ] Thank anyone who invested or shared publicly
+- [ ] Post a "Day 1" update on WeFunder: "Here's where we stand after launch day..."
+
+**Pre-written LinkedIn post for Raj:**
+
+> I've spent years building fast pyrolysis technology that converts biomass waste into bio-oil, biochar, and syngas. Today I'm opening iNBIO's investment round to scale what we've built.
+>
+> A few things that convinced me the timing is right:
+> - The biochar market is approaching $1B and 62% of supply is locked up
+> - Carbon credits for biochar average $164/ton — up 25% in 2 years
+> - Holcim just poured net-zero concrete with biochar at Canary Wharf
+> - ICVCM approved 3 biochar credit methodologies this year
+>
+> We're not pitching a concept. We have equipment, certified products, and three service lines generating revenue. What we need is capital to build and deploy the next systems.
+>
+> If you're an accredited investor interested in clean energy infrastructure: [WeFunder link]
+>
+> Happy to answer any questions in the comments.
+
+---
+
+## 3. Publish Weekly Updates (12-Week Content Calendar)
+
+### iNBIO 12-Week Content Calendar:
+
+| Week | WeFunder Update Topic | LinkedIn Post Topic |
+|------|----------------------|-------------------|
+| 1 | Launch announcement + why now | Personal story: why I built iNBIO |
+| 2 | Fundraise progress: % raised, # investors | The biochar supply crunch (market data) |
+| 3 | Behind the scenes: reactor/equipment photos | "Here's what 25 tons of sawmill waste looks like..." |
+| 4 | Customer spotlight: who buys our biochar | Stormwater engineers calling more than ever |
+| 5 | Fundraise milestone update | Carbon credits at $164/ton — what that means for producers |
+| 6 | Industry news: share relevant development | Holcim's concrete breakthrough — what it means |
+| 7 | Use of funds update: what we'll do next | A day in the life of running a pyrolysis system |
+| 8 | Team spotlight or advisor introduction | Honest take: what's hard about this business |
+| 9 | Feedstock partnerships or LOI news | USDA is paying farmers to use biochar — here's how |
+| 10 | Investor Q&A responses | The economics of a 25 TPD system (real numbers) |
+| 11 | Progress toward milestones in Game Plan | Why modular beats custom-built for pyrolysis |
+| 12 | Final push: where we stand, what's next | Thank you post + what's ahead for iNBIO |
+
+---
+
+## 4. Run a Successful Live Founder Q&A
+
+### iNBIO Q&A Plan:
+
+**When:** Mid-campaign (around week 6-7). Wednesday or Thursday, 12pm-1pm ET.
+
+**Where:** WeFunder's built-in Q&A feature, or LinkedIn Live, or Zoom webinar linked from WeFunder.
+
+**Format:** 30-45 minutes. Raj opens with 5-minute overview, then open Q&A.
+
+**Prep — anticipate these questions:**
+- "What's your current revenue?" — Answer honestly. If pre-revenue, explain the pipeline.
+- "How does the carbon credit revenue actually work?" — Walk through Puro.earth/Verra registration, credit issuance, buyer market.
+- "Who are your competitors?" — Other pyrolysis companies. Be honest about differentiation: modular, EPC model, multiple engagement types.
+- "When do investors see returns?" — Equity is illiquid. Possible exit paths: acquisition, IPO, dividends. Don't promise timelines.
+- "What's the biggest risk?" — Feedstock supply consistency, scaling production, carbon credit market volatility. Naming risks builds trust.
+
+---
+
+## 5. Promote Your Raise on Social Media
+
+### iNBIO Social Media Plan:
+
+**LinkedIn (primary — this is where accredited investors are):**
+- 3x/week posts from Raj's personal account
+- Mix: 40% industry insights, 30% behind-the-scenes, 20% fundraise updates, 10% personal/founder story
+- Always include a photo or data visual
+- End posts with a soft CTA, not hard sell: "If you're interested in what we're building: [link in comments]"
+
+**X/Twitter (secondary):**
+- 2x/week, shorter format
+- Quote industry news with iNBIO's angle
+- Tag relevant accounts (@USBiochar, industry publications)
+
+**YouTube (if video produced):**
+- Upload pitch video
+- Post any facility tours or product demos
+
+---
+
+## 6. Use Paid Media
+
+### iNBIO Paid Media Strategy:
+
+**LinkedIn Ads (most relevant for Reg D 506c — targets professionals):**
+- Target: accredited investors, cleantech professionals, sustainability officers, ag industry executives
+- Budget: Start with $500-1,000/week, test 2-3 ad creatives
+- Creative: Product photo + key stat + "Now raising on WeFunder" CTA
+- Objective: Drive traffic to WeFunder page
+
+**Avoid:** Facebook/Instagram ads for a Reg D 506(c) round — wrong audience. LinkedIn is where accredited investors and industry decision-makers are.
+
+---
+
+# PHASE FOUR: Closing
+
+*The last 2 weeks before the fundraise ends. Reach back out to everyone you've contacted, ask people to invest again or increase commitments, and drive FOMO to get a final bump. Reach 100% of your goal.*
+
+---
+
+## How to Close Strong
+
+### iNBIO Closing Playbook:
+
+**2 weeks out:**
+- [ ] Email all investors who reserved but haven't completed: "Your reservation expires in 2 weeks — here's how to finalize"
+- [ ] Post WeFunder update: progress so far, what's left, what happens at close
+- [ ] Re-contact top 10 prospects who didn't invest during soft launch with a personal note
+
+**1 week out:**
+- [ ] "1 week left" email to full list (use the lastChanceEmail template already built in Resend)
+- [ ] LinkedIn post: "One week left in our round. Here's what we've accomplished so far..."
+- [ ] Personal texts/calls to warm contacts who haven't invested
+
+**Final 48 hours:**
+- [ ] "Closing tomorrow" email
+- [ ] LinkedIn post with final stats: "X investors, Y% of goal, closing tomorrow at midnight"
+- [ ] Direct outreach to anyone on the fence
+
+**After close:**
+- [ ] Thank you email to all investors
+- [ ] WeFunder update: final results + what happens next
+- [ ] LinkedIn post: gratitude + next milestones
+
+---
+
+# TEMPLATES
+
+---
+
+## 1. Validating Your Community Round
+
+Before going live, validate demand by reaching out to 10-20 people and asking:
+
+> "We're considering raising capital on WeFunder. If we did, would you invest? No commitment — I'm just trying to gauge interest before we build the page."
+
+Track responses. If 30%+ say yes, you have enough signal to proceed.
+
+**iNBIO validation targets:** Existing /invest email subscribers, LinkedIn connections who've engaged with Raj's posts, industry contacts.
+
+---
+
+## 2. Asking for Feedback on Your Pitch
+
+Before going live, send the WeFunder page to 5-10 trusted people and ask:
+
+> "I'd love your honest feedback on our investment page before we launch. What's confusing? What's missing? What would make you NOT invest? Here's the link: [WeFunder page]"
+
+Incorporate feedback before soft launch.
+
+---
+
+## 3. Marketing Your Fundraise in TTW — 9 Emails
+
+*TTW = Testing the Waters, the pre-filing phase where you gauge interest.*
+
+**Already built:** Your Resend email infrastructure + drip templates are in place at `site/src/lib/email-templates.ts`. The welcome, nurture 1/2/3, announcement, and last-chance emails have been updated for Reg D 506(c).
+
+**Additional TTW email sequence (supplement the existing drip):**
+
+| Email | Timing | Subject | Content |
+|-------|--------|---------|---------|
+| 1 | Day 0 | Something's coming from iNBIO | Teaser: we're preparing to raise capital. Sign up for early access. |
+| 2 | Day 3 | Why we're raising (and why now) | Market timing: $970M market, 62% supply locked, ICVCM approvals |
+| 3 | Day 7 | The technology behind iNBIO | Fast pyrolysis explainer, 3 products, modular systems |
+| 4 | Day 10 | The market opportunity in 3 charts | Biochar growth, carbon credit pricing, SAF demand |
+| 5 | Day 14 | Meet Raj Kathuria | Founder story, experience, vision |
+| 6 | Day 17 | How we make money (3+1 revenue streams) | Business model breakdown |
+| 7 | Day 21 | What we'll do with the capital | Use of funds, milestones |
+| 8 | Day 25 | Q&A: Your questions answered | Address common investor questions |
+| 9 | Day 28 | We're almost ready — are you in? | Final CTA before page goes live |
+
+---
+
+## 4. Marketing Your Fundraise Post-Form C — 9 Emails
+
+*Post-launch email series once the round is officially open.*
+
+**Note:** For Reg D 506(c), you don't file a Form C (that's Reg CF). But the email cadence still applies once the private round is live.
+
+| Email | Timing | Subject | Content |
+|-------|--------|---------|---------|
+| 1 | Launch day | iNBIO's investment round is OPEN | Announcement + WeFunder link |
+| 2 | Day 3 | Early momentum: X investors in 72 hours | Social proof, progress update |
+| 3 | Week 1 | Here's what your investment funds | Specific equipment/milestones |
+| 4 | Week 2 | Industry validation: [news item] | Share relevant market news |
+| 5 | Week 3 | Investor spotlight or Q&A recap | Build community |
+| 6 | Week 4 | Halfway there: X% funded | Progress milestone |
+| 7 | Week 6 | Behind the scenes: [facility/product update] | Show progress |
+| 8 | Week 8 | 2 weeks left: closing soon | Urgency without desperation |
+| 9 | Final day | Last chance: round closes tonight | Final CTA |
+
+---
+
+# ACTION ITEMS FOR RAJ
+
+**Before anything else:**
+- [ ] Set up private round page at https://wefunder.com/private-round
+- [ ] Watch the Loom walkthrough Read sent: https://www.loom.com/share/b0333bf60b4c4818bf3fa271674249ec
+- [ ] Confirm lead investor (Ajay Tandon?)
+- [ ] Align on valuation and raise target
+
+**Phase 1 deliverables to produce:**
+- [ ] Film 60-90 second video (use script above)
+- [ ] Gather product photos: biochar, bio-oil, reactor, container modules
+- [ ] Professional headshot
+- [ ] Fill in pitch slides on WeFunder (copy from above)
+- [ ] Fill in actual equipment pricing (marked $X in Business Model)
+- [ ] Add any revenue numbers, LOIs, or contracts to Traction slide
+
+**Phase 2 deliverables:**
+- [ ] Build outreach list of 50+ contacts (use tiers above)
+- [ ] Personalize outreach messages
+- [ ] Prepare mailing list email (use Resend infrastructure)
+
+**Phase 3 deliverables:**
+- [ ] Assemble media kit folder
+- [ ] Draft launch day LinkedIn post (template above)
+- [ ] Set up 12-week content calendar in a spreadsheet
+- [ ] Schedule Q&A session (week 6-7)
+
+**Phase 4:**
+- [ ] Prepare closing email sequence
+- [ ] Plan final push outreach
