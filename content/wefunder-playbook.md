@@ -644,15 +644,29 @@ Not relevant for iNBIO (this is for software companies).
 
 # PHASE TWO: Soft Launch
 
-*Start collecting reservations and investments through 1:1 outreach to angel investors, friends, family, customers, and anyone who can help you reach 25%+ of your funding goal.*
+*Start raising money from angel investors, friends and family, customers, and other supporters to build momentum.*
 
 ---
 
 ## 1. How Soft Launch Works
 
-Soft launch = your page is live but not public. Only people you invite directly can see it and invest. The goal is to stack early checks so that when you go public, the page shows momentum. Investors invest where other investors are already investing.
+**When does it start?** After you've set up your campaign, secured your Lead Investor, and you're ready to start raising. Soft Launch begins the moment you share your campaign link with your first potential investor.
 
-**iNBIO Soft Launch Target:** Raise 25-30% of goal through personal outreach before going public.
+**Key distinction:**
+- **Soft Launch = Private.** Your campaign is NOT listed on WeFunder's public Explore page. Only people you share the direct link with can see it. This is your chance to build momentum with your inner circle.
+- **Public Launch = Public.** Your campaign goes live on WeFunder's Explore page for anyone to discover.
+
+**Why 25%?** The goal of Soft Launch is to reach at least **25% of your funding goal** before going public. This is the threshold where social proof kicks in — new investors see existing momentum and feel confident following. People invest where other people are already investing.
+
+### The 5 basics of Soft Launch:
+
+1. **Start with your warmest contacts** — people who already know and support you
+2. **Use personal 1:1 outreach** — not mass emails, not social posts. Soft launch is individual conversations only.
+3. **Ask for specific amounts** — "Would you consider investing $500?" is far more effective than "Please check out my campaign"
+4. **Track everything** — use a CRM or spreadsheet to track who you've contacted, their response, and follow-ups
+5. **Target 25% funded** — don't go public until you hit this. The social proof makes everything after easier.
+
+**iNBIO Soft Launch Target:** Raise 25% of goal through personal 1:1 outreach before going public.
 
 ---
 
@@ -698,14 +712,41 @@ A few numbers that matter:
 - Our systems produce 3 revenue streams from a single process
 - Holcim just poured net-zero concrete with biochar at Canary Wharf
 
-Happy to jump on a 15-minute call if you have questions. Either way, I appreciate you taking a look.
+**Would you consider investing $[specific amount]?** I'd value having you as an early backer. Happy to jump on a 15-minute call to walk through the details.
 
 Best,
 Raj
 
+**Key tactic — ask for a specific amount.** WeFunder says "Would you consider investing $500?" is far more effective than "Please check out my campaign." Calibrate the ask to the person: $500-$1K for friends/family, $5K-$25K for angels, $10K+ for industry contacts.
+
 ---
 
-## 3. Email Your Existing Mailing Lists
+## 3. Track Your Outreach
+
+**WeFunder says: Track everything.** Use a CRM or spreadsheet with these columns:
+
+| Name | Contact | Tier | Date Contacted | Asked Amount | Response | Follow-up Date | Invested? |
+|------|---------|------|----------------|-------------|----------|---------------|-----------|
+| | | 1/2/3 | | $X | Yes/No/Maybe | | Y/N |
+
+- Follow up once after 3-5 days if no response
+- Don't follow up more than twice — respect the relationship
+- Update the tracker daily during soft launch
+- When you hit 25% funded, you're ready for Public Launch
+
+---
+
+# PHASE THREE: Public Launch
+
+*Reach beyond your personal network using social media, ads, WeFunder's marketing perks, and other promotions. Aim to reach 65%+ of your funding goal before moving into Closing.*
+
+**Note:** For a Reg D 506(c), "public launch" means broader outreach to accredited investor channels — not mass consumer marketing. You CAN generally solicit, but all investors must be verified accredited.
+
+---
+
+## 0. Email Your Existing Mailing Lists (Bridge from Soft to Public Launch)
+
+This is the first blast email — sent right as you transition from Soft to Public Launch. Your mailing list subscribers have been warming up; now they get the direct ask.
 
 ### iNBIO Email to /invest Subscriber List:
 
@@ -730,14 +771,6 @@ This round is open to accredited investors under Reg D 506(c). If you have quest
 — Raj Kathuria, Founder & CEO
 
 *[Use your Resend infrastructure to send this — you already have the API and subscriber list built]*
-
----
-
-# PHASE THREE: Public Launch
-
-*Reach beyond your personal network using social media, ads, WeFunder's marketing perks, and other promotions. Aim to reach 65%+ of your funding goal before moving into Closing.*
-
-**Note:** For a Reg D 506(c), "public launch" means broader outreach to accredited investor channels — not mass consumer marketing. You CAN generally solicit, but all investors must be verified accredited.
 
 ---
 
