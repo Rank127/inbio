@@ -1088,22 +1088,67 @@ It's an algorithmic game — **take time to engage** (reply to comments, thank s
 
 ## 3. Publish Weekly Updates (12-Week Content Calendar)
 
-### iNBIO 12-Week Content Calendar:
+**WeFunder says:** Fundraising is hands-on — there's no point where you "set it and forget it." You're responsible for holding the flag through the entire raise. The easiest way: show up, respond to questions, thank supporters, share how your raise is going.
 
-| Week | WeFunder Update Topic | LinkedIn Post Topic |
-|------|----------------------|-------------------|
-| 1 | Launch announcement + why now | Personal story: why I built iNBIO |
-| 2 | Fundraise progress: % raised, # investors | The biochar supply crunch (market data) |
-| 3 | Behind the scenes: reactor/equipment photos | "Here's what 25 tons of sawmill waste looks like..." |
-| 4 | Customer spotlight: who buys our biochar | Stormwater engineers calling more than ever |
-| 5 | Fundraise milestone update | Carbon credits at $164/ton — what that means for producers |
-| 6 | Industry news: share relevant development | Holcim's concrete breakthrough — what it means |
-| 7 | Use of funds update: what we'll do next | A day in the life of running a pyrolysis system |
-| 8 | Team spotlight or advisor introduction | Honest take: what's hard about this business |
-| 9 | Feedstock partnerships or LOI news | USDA is paying farmers to use biochar — here's how |
-| 10 | Investor Q&A responses | The economics of a 25 TPD system (real numbers) |
-| 11 | Progress toward milestones in Game Plan | Why modular beats custom-built for pyrolysis |
-| 12 | Final push: where we stand, what's next | Thank you post + what's ahead for iNBIO |
+**Why it matters:** Professional investors might invest on numbers alone, but many invest on their **connection to you and your mission**. Regular content keeps them engaged.
+
+**Who reads your updates?** People who visit your page but aren't ready to invest click "Watch for Updates" — they become **Followers** and automatically receive an email every time you post. These followers are **low-hanging fruit** — on the fence, waiting to track your progress before deciding.
+
+**Rules:**
+- **Post at least one update every week**
+- Give investors **one clear takeaway** per update — don't bundle 5 topics into one
+- Spread topics across weekly updates for consistency
+- Post updates from your campaign page nav bar → "Updates" → "Post"
+
+### WeFunder's 12-Week Calendar (with iNBIO content):
+
+**Week 1: Why we're raising**
+Recap your mission, what problem you're solving, and why you're raising from investors. Set the tone for the campaign.
+> *iNBIO: "A billion tons of biomass waste, three products from one machine, and a market that's buying faster than producers can build. Here's why we're raising capital now..."*
+
+**Week 2: Share an amazing customer story**
+A customer success story — why do they value iNBIO? What changed for them?
+> *iNBIO: A stormwater engineer's experience specifying our biochar, or a sawmill operator who turned a waste cost into revenue.*
+
+**Week 3: Give people a reason to believe**
+Go deeper on your market, competitive advantages, or answer "why now?" Teach the audience something they didn't know.
+> *iNBIO: "ICVCM just approved 3 biochar credit methodologies. Here's what that means for the economics of every pyrolysis operation in the country..."*
+
+**Week 4: Announce a company milestone**
+Product, hire, financial quarter, press, partnership. If you don't have one, host a webinar or live Q&A and publish the recap.
+> *iNBIO: New feedstock agreement, equipment fabrication progress, a key hire, or host a live Q&A with the Lead Investor.*
+
+**Week 5: Social proof**
+Share your favorite comments from investors in your "What People Say" section. Let investor enthusiasm speak for you.
+> *iNBIO: Quote 2-3 investor comments about why they invested — the more specific, the better.*
+
+**Week 6: Funding milestone**
+"We've raised $X so far! We're $Y away from our goal." Recap why you're raising and what the funds will do.
+> *iNBIO: "We've raised $[X] from [Y] investors. Here's exactly what the next $[Z] unlocks: [specific equipment/milestone]."*
+
+**Week 7: Founder story**
+Share a personal, relatable story from Raj about how iNBIO got to where it is today. The human journey, not the corporate timeline.
+> *iNBIO: How Raj went from biotechnology to building a reactor. The first feedstock test. The moment the economics clicked.*
+
+**Week 8: Press**
+Share excerpts from press, conference presentations, industry recognition, or podcast appearances.
+> *iNBIO: US Biochar Initiative features, tcbiomass participation, local media coverage, any industry mentions. If none yet, share a relevant industry article and add your perspective.*
+
+**Week 9: Behind-the-scenes**
+Show a day-in-the-life snapshot. Casual video, or a blog post with timestamps, photos, and multimedia. Immerse followers in your company's life.
+> *iNBIO: Walk through the facility. Show feedstock arriving, the reactor running, biochar being packaged. Use phone video — authentic beats polished.*
+
+**Week 10: Funding milestone (repeat)**
+Another progress update. "We've raised $X! We're $Y away." Recap why and what for.
+> *iNBIO: Update the numbers, highlight what's changed since Week 6, name a specific milestone the funds will hit.*
+
+**Week 11: Social proof (repeat)**
+Share more investor comments. New testimonials from customers or partners also work here.
+> *iNBIO: Fresh investor quotes, or a customer who just placed an order and is willing to share why.*
+
+**Week 12: A note from the founders**
+Recap progress since opening the round. Your favorite feedback. Company milestones achieved during the raise. A sincere final CTA to invest.
+> *iNBIO: "When we opened this round [X] weeks ago, we had [state]. Today we have [progress]. Here's what's next — and why we'd love to have you with us for the next chapter."*
 
 ---
 
