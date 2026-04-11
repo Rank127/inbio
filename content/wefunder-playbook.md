@@ -670,54 +670,120 @@ Not relevant for iNBIO (this is for software companies).
 
 ---
 
-## 2. Craft Personal Outreach to Existing Angels (50+ people)
+## 2. Craft Personal Outreach to Existing Angels
 
-### iNBIO Outreach List — Who to Contact:
+**WeFunder says:** Not a BCC, group chat, or social post. Take the time to send 1:1 outreach to existing angels and stack your first checks. This step takes the most time but compounds your momentum for everything that follows.
 
-**Tier 1 — Highest likelihood (contact first):**
+### Step 1: Set a goal for your personal outreach
+
+Answer these before you start:
+- How many personal messages will you send? **___** (target 50+)
+- How much investment volume are you targeting? **$___** (ideally at least 25% of funding goal)
+
+### Step 2: Prepare your calendar, pitch, and FAQs
+
+- Set up a **Calendly or scheduling link** — angels you're asking will want to meet
+- **Block time** in your days for investor meetings. Really try to **stack them** so you can get back to running the company
+- Practice your pitch with total confidence and conviction
+- Prepare follow-up materials: your deck, your WeFunder link, and answers to common questions
+
+### Step 3: Add 50+ people to a CRM
+
+Brainstorm everyone: family, friends, community members, early supporters, angel investors. List the check size you're targeting from each.
+
+**iNBIO contact tiers:**
+
+**Tier 1 — Inner circle (they know you and iNBIO well):**
 - Ajay Tandon / T&C Capital
-- Any existing iNBIO advisors or board members
+- Existing iNBIO advisors or board members
 - Friends and family who've expressed interest
 - Previous business partners of Raj
 
-**Tier 2 — Warm contacts:**
+**Tier 2 — Warm (they know you, may need a milestone refresher):**
 - Cleantech and climate-tech angels (LinkedIn connections)
 - US Biochar Initiative contacts
 - Industry conference contacts (tcbiomass, etc.)
 - Local Delmarva business community
-- WeFunder's own angel network
 
-**Tier 3 — Warm-ish:**
+**Tier 3 — Warm-ish (they may need a full refresher on iNBIO):**
 - LinkedIn followers engaged with Raj's content
 - People who signed up on /invest email list
+- WeFunder's own angel network
 - Industry newsletter subscribers
 
-### Outreach Message Template (personalize for each):
+### Step 4: Draft your personal outreach
 
-**Subject:** I'm raising capital for iNBIO — wanted you to hear first
+**Three templates based on how well they know you:**
 
-**Body:**
+---
 
-Hi [Name],
+**TEMPLATE A — Inner Circle** (they know you, your company, and recent milestones)
 
-I'm reaching out because [specific reason — you know the space / we talked at X conference / you've followed our progress].
+*Initial Outreach: SMS, DM, or Email*
 
-iNBIO is raising a private round to scale our fast pyrolysis operations. We convert biomass waste into bio-oil, biochar, and syngas using modular systems that ship in containers. The biochar market alone is approaching $1B and 62% of supply is already locked up — this is a supply-constrained market.
+> Hi [Name], [personal touch]. I'm opening a private investment round for iNBIO and would love to have you join as an early investor. We've soft launched here: [WeFunder link]. Would you be free to chat about it this week? Would you consider investing $[amount]?
 
-I'd love for you to take a look at our raise page before we go public: [WeFunder link]
+*Follow-up (3-5 days later): SMS, DM, or Email*
 
-A few numbers that matter:
-- Biochar carbon credits averaging $164/ton (up 25% in 2 years)
-- ICVCM just approved 3 biochar credit methodologies
-- Our systems produce 3 revenue streams from a single process
-- Holcim just poured net-zero concrete with biochar at Canary Wharf
+> Hi [Name], wanted to follow up on this. Let me know if you'd be open to investing early in our round — you can do so here: [WeFunder link]. Happy to discuss more: [Calendly link]. Thanks!
 
-**Would you consider investing $[specific amount]?** I'd value having you as an early backer. Happy to jump on a 15-minute call to walk through the details.
+---
 
-Best,
-Raj
+**TEMPLATE B — Needs Milestone Refresher** (they know you but need an update on progress)
 
-**Key tactic — ask for a specific amount.** WeFunder says "Would you consider investing $500?" is far more effective than "Please check out my campaign." Calibrate the ask to the person: $500-$1K for friends/family, $5K-$25K for angels, $10K+ for industry contacts.
+*Initial Outreach: Email*
+
+> Hi [Name],
+>
+> [Personal touch]
+>
+> As you may know, iNBIO recently achieved [milestone — e.g., IBI/EBC biochar certification / ICVCM credit methodology approval / new customer engagement]. We're opening a private investment round of $[goal] to [deploy our next production system and begin generating recurring revenue].
+>
+> Would you be interested in investing early? I'm also happy to share more on a 15-minute call: [Calendly link]
+>
+> Thanks so much.
+> Raj
+
+*Follow-up: Email*
+
+> Hi [Name],
+>
+> Following up on my last message. Would you be interested in joining our round as an early investor? We're currently at [X%] of our goal and growing fast. Invest here: [WeFunder link]
+
+---
+
+**TEMPLATE C — Needs Full Refresher** (they know you but not iNBIO specifically)
+
+*Initial Outreach: Email*
+
+> Hi [Name],
+>
+> [Personal touch]
+>
+> I'm the founder of iNBIO. We turn wood waste into clean fuel and carbon-storing charcoal using modular systems that ship in containers.
+>
+> I wanted to reach out because [relevant connection — e.g., we met at tcbiomass / you work in cleantech / we share an interest in carbon markets]. We're raising a private round on WeFunder to scale production — the biochar market is approaching $1B and 62% of supply is already locked up.
+>
+> Would love to have you as an investor. See the details: [WeFunder link]
+>
+> Happy to chat more: [Calendly link]
+>
+> Raj
+
+**Key tactic — ask for a specific amount.** "Would you consider investing $500?" is far more effective than "Please check out my campaign." Calibrate: $500-$1K for friends/family, $5K-$25K for angels, $10K+ for industry contacts.
+
+### Step 5: Update your CRM and be persistent!
+
+After sending your first batch, track responses in your CRM. Follow up with anyone who hasn't responded within **3-5 days**.
+
+**Persistence matters.** Most investors won't invest on the first ask. Plan for **2-3 follow-ups** with each contact.
+
+**Key metrics to track:**
+- Messages sent
+- Responses received
+- Meetings booked
+- Investments committed
+- Follow-ups needed
 
 ---
 
