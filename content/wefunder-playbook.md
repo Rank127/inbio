@@ -4,21 +4,108 @@ Structured to match WeFunder's 4-phase playbook at wefunder.com/playbook.
 
 ---
 
-# PHASE ONE: Pre-Launch
+# PHASE ZERO: Create Content (Start BEFORE Pre-Launch)
 
-*Create your pitch, secure your lead investor, and decide your terms to set your launch up for success.*
+*WeFunder positions content creation before everything else. Content lays the foundation — it warms up your audience, creates familiarity, and gives early supporters a reason to care. Start this NOW, weeks before the round goes live.*
 
 ---
 
-## 1. Create Content
+## WeFunder's 4 Principles of Good Founder Content
 
-WeFunder says: Consistent content is the most powerful way to build trust before you raise a dollar. Post regularly about milestones, challenges, and progress so investors understand who you are before you ask for money.
+### 1. Be human, not corporate
+Investors want to hear from Raj, not a polished brand voice. Speak plainly. Share real experiences. Let people see your personality and process.
 
-### iNBIO Content Strategy (Start NOW, before the round goes live)
+- **Do:** A genuine quote about why you started iNBIO — builds trust and emotional connection
+- **Don't:** Generic slogans like "Changing the world, one step at a time" — vague platitudes tell investors nothing meaningful
 
-**LinkedIn (Raj's personal account — this is where cleantech investors live):**
+### 2. Show your work every week
+Momentum is more credible when it's visible. Your job isn't to deliver a massive update every time — it's to stay present.
 
-Post 2-3x per week. Mix of:
+- **Do:** A quick photo of equipment testing with one sentence of context — natural, authentic, tied to real work
+- **Don't:** Stock photos unrelated to iNBIO — feels artificial and erodes credibility
+
+### 3. Focus on one idea at a time
+The best posts are simple. One story. One metric. One insight. When in doubt, shorten it.
+
+- **Do:** "We reduced reactor heat-up time by 30% after redesigning the fluidization nozzles." — specific, actionable progress
+- **Don't:** "Big things coming soon..." — teasers without context feel empty and don't demonstrate execution
+
+### 4. Make it visual
+Photos, screenshots, diagrams, and short videos outperform text alone. Phone is fine — just use natural light, steady framing, clean background.
+
+- **Do:** A simple photo or short video showing what you're working on — biochar samples, reactor components, a customer visiting, behind-the-scenes at the facility
+- **Don't:** Overly polished graphics, stock images, AI-generated visuals, or busy visuals full of text — these feel artificial and won't get approved for Spotlights
+
+---
+
+## Updates: Your Core Visibility Tool on WeFunder
+
+Updates are the single most important content feature on WeFunder. Every time you post an update, it automatically distributes across THREE channels:
+
+1. **Following Feed** — followers and investors see your progress in real time
+2. **Email to all followers and investors** — reaches people even if they're not browsing WeFunder
+3. **Added to your campaign page** — creates a visible track record that compounds trust over time
+
+Updates are the backbone of your WeFunder presence. They don't have to be long or formal — just **consistent and real**. Each one is a snapshot: what you shipped, what you learned, what changed, what's happening behind the scenes.
+
+### iNBIO Update Topics (post weekly once the page is live):
+
+- "We ran our first batch of forestry residuals from a new supplier this week. Yield data looked like..." [photo]
+- "Spoke with a concrete batch plant about biochar specs. Here's what they need..." 
+- "Carbon credit pricing update: Puro.earth CORCs just traded at $X. What this means for producers..."
+- "Equipment fabrication update — reactor vessel is 60% complete. Photos from the shop floor..."
+- "A stormwater engineer asked us to spec biochar for a municipal filter project. Here's the conversation..."
+- Fundraise progress and milestones
+- Industry news (ICVCM approvals, USDA funding, Holcim concrete breakthrough)
+- Team additions, advisory board, or partnership news
+
+---
+
+## Spotlights: Your High-Visibility Moment on WeFunder
+
+**This is a major visibility tool we originally missed.**
+
+While Updates reach your existing followers, **Spotlights introduce you to thousands of potential investors across the entire WeFunder community**. They're featured on the WeFunder homepage carousel.
+
+**How Spotlights work:**
+- WeFunder posts a new prompt each week (a thought-provoking question)
+- You write an honest, personal response connecting to the prompt
+- Your answer gets featured across the platform, including the homepage
+- **They go through manual approval** — follow the prompt closely
+
+**What makes a good Spotlight response:**
+- Why you're building iNBIO — the mission, the spark, the motivation
+- Why it matters NOW — market timing, the supply constraint, ICVCM approvals
+- Key decisions you've made — choosing modular over fixed, the 3-service-line model, which markets to target first
+- Personal stories — the first feedstock test that worked, a customer call that changed your thinking, a hard lesson from scaling
+- Lessons from failures or hard-won wins — honesty builds trust faster than polish
+
+**What will get REJECTED:**
+- Vague slogans or "we're changing the world" messages
+- AI-generated or overly polished marketing graphics
+- Generic corporate messaging that doesn't connect to the prompt
+- These feel hollow and won't get approved
+
+**Video format Spotlights are the most engaging.** Even a 30-second phone recording of Raj answering the weekly prompt authentically will outperform a written response.
+
+### iNBIO Spotlight Response Examples:
+
+**Prompt: "Why did you start your company?"**
+> "I spent years watching sawmills pay to haul away wood waste that had more energy in it than the diesel they burned to move it. The economics were backwards. I started iNBIO because I knew there was a way to capture that energy — and biochar turned out to be even more valuable than the fuel."
+
+**Prompt: "What's the hardest decision you've made as a founder?"**
+> "Choosing to go modular instead of building a single large plant. Everyone in this space builds big. We chose to build small, containerized systems that ship to the feedstock instead of trucking feedstock to the plant. It took longer to get right, but now we can deploy anywhere without a $50M construction project."
+
+**Prompt: "What keeps you going?"**
+> "The math. Every ton of biochar we produce locks away 700-800 kg of CO2 for centuries and generates $100-250 in carbon credits. That's on top of the product revenue. When the economics and the climate impact point in the same direction, you don't need external motivation."
+
+---
+
+## LinkedIn Content Strategy (Start NOW, in parallel with WeFunder)
+
+**Raj's personal account is where cleantech investors live.** Post 2-3x per week. One idea per post. Always include a photo or visual.
+
+### Post types with iNBIO examples:
 
 - **Process posts:** "We ran 12 tons of pine residuals through the reactor yesterday. Here's what the bio-oil yield looked like..." [photo of product]
 - **Market signal posts:** "ICVCM just approved three biochar credit methodologies. Here's why that matters for anyone producing biochar..." [link to news]
@@ -26,19 +113,23 @@ Post 2-3x per week. Mix of:
 - **Opinion posts:** "Everyone's talking about SAF. Here's the honest truth about where bio-oil-to-jet-fuel actually stands in 2026..."
 - **Customer story posts:** "A stormwater engineer called us last week asking if our biochar could hit spec for a municipal filter installation. Short answer: yes. Longer answer..."
 
-**WeFunder Updates (once the page is live):**
-Post weekly updates on the platform. These show directly on your raise page and email to followers. Topics:
-- Fundraise progress and milestones hit
-- New customer conversations or LOIs
-- Equipment fabrication progress
-- Industry news that validates the thesis
-- Team additions or advisory board news
+---
 
-**Content Rules:**
+## Content Rules (across all channels)
+
 - No buzzwords. No "revolutionary." No "disrupting." Just describe what's real.
 - Include numbers. "$164/ton carbon credits" beats "growing carbon markets."
-- Show the product. Photos of biochar, bio-oil, the reactor, the container modules.
+- Show the product. Real photos of biochar, bio-oil, the reactor, the container modules. NO stock images.
 - Be honest about what's hard. Investors trust founders who acknowledge challenges.
+- No AI-generated graphics or polished marketing visuals — WeFunder will reject them from Spotlights and they hurt trust.
+- One idea per post. Don't try to cover everything at once.
+- Phone photos with natural light > professional shoots that feel corporate.
+
+---
+
+# PHASE ONE: Pre-Launch
+
+*Create your pitch, secure your lead investor, and decide your terms to set your launch up for success.*
 
 ---
 
