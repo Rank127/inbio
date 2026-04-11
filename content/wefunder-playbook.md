@@ -190,32 +190,85 @@ While Updates reach your existing followers, **Spotlights introduce you to thous
 
 ## 3. Produce Your Video
 
-WeFunder says: A video is the single most impactful thing on your page. Even a simple 60-second phone recording of the founder speaking to camera outperforms a polished corporate video.
+**WeFunder says:** Your video builds trust and connection. Investors are signing up to be part of your journey — they want to know who they're partnering with. **The most important part of your video is you — the founder.** If it's just Raj pitching directly to camera, that's perfectly fine. Don't skip the fundamentals.
 
-### iNBIO Video Script (60-90 seconds, Raj to camera)
+**Specs:**
+- Length: **1-3 minutes**
+- Aspect ratio: Landscape (16:9)
+- Resolution: 1080p or higher
+- **Must have captions** — 60-90% of people watch without sound. Use Descript, Veed, or Kapwing to auto-caption.
 
-**[Scene 1 — Raj standing next to biomass/wood chips, 15 sec]**
+### Start with these 4 questions (from YC):
 
-"A billion tons of wood waste, crop residues, and forestry byproducts pile up in the U.S. every year. Most of it gets burned, buried, or left to rot. That's a massive amount of energy going to waste."
+Before writing your script, answer these — they'll structure the whole pitch:
 
-**[Scene 2 — Walk toward reactor/equipment, 20 sec]**
+1. **What are we building and for whom?** Modular systems that turn wood waste into fuel, charcoal, and gas — for sawmills, farms, and municipalities.
+2. **Why hasn't this been done before?** People have tried big, custom plants. Nobody built small, containerized systems that ship to the feedstock.
+3. **Why is it hard to do what we're doing?** Getting consistent yields from variable feedstocks in a modular format. That's reactor engineering, not theory.
+4. **Why is this an opportunity not to be missed?** Biochar market is supply-constrained, carbon credits at $164/ton, concrete going carbon-negative. The market is buying faster than producers can scale.
 
-"At iNBIO, we built a modular fast pyrolysis system — it fits in shipping containers, ships to your site, and in under two seconds converts that waste into three products: bio-oil that replaces fossil fuel, biochar that sequesters carbon for centuries, and syngas that powers the process itself. No external energy needed."
+### WeFunder Script Template (fill in the blanks):
 
-**[Scene 3 — Hold up biochar sample, show bio-oil, 15 sec]**
+> Hi, I'm **Raj Kathuria** and I'm the founder of **iNBIO**. We **turn wood waste into clean fuel and carbon-storing charcoal**.
+>
+> We're building **modular systems** for **sawmills, farms, and municipalities** to solve **the billion-ton waste problem — wood and crop residues that get burned, buried, or left to rot**.
+>
+> Today, **these operations** need to **get rid of waste** by **paying to haul it to landfills or burning it in the open**.
+>
+> With **our systems**, **they** will be able to **convert that waste on-site into three sellable products — bio-oil, biochar, and syngas**, achieving **new revenue streams plus carbon credits worth $100-250 per ton**.
+>
+> I've spent **decades in biotechnology and process engineering**, and I **designed this reactor from the ground up, tested it across dozens of feedstocks, and certified the products to international standards**.
+>
+> We're raising money on WeFunder because **we need capital to build and deploy our next systems. The biochar market is growing 13% a year and 62% of supply is already spoken for — the window to scale is now**.
+>
+> This round of funding will allow us to **fabricate our next production system, lock feedstock supply agreements, and begin generating recurring revenue from product sales and carbon credits**.
+>
+> We hope you'll join us in our journey. Invest in iNBIO today.
 
-"This biochar goes into farms, stormwater filters, and even concrete. And every ton we produce generates carbon removal credits worth $100 to $250. That's revenue on top of the product sale."
+### iNBIO Custom Script (alternative — more natural, less template)
 
-**[Scene 4 — Raj direct to camera, 20 sec]**
+**[Scene 1 — Raj standing next to wood chips or feedstock pile, 20 sec]**
 
-"We're not a science project. We have equipment, products, and customers. What we need is capital to build and deploy our next systems. The biochar market is supply-constrained and growing 13% a year. If you want to own a piece of what's next in clean energy — invest in iNBIO."
+"A billion tons of wood waste, crop residues, and forestry byproducts pile up in the U.S. every year. Most of it gets burned, buried, or left to rot. That's a massive amount of energy — wasted."
 
-**Production tips:**
-- Film at your facility or near equipment/product samples
-- Natural lighting, no need for studio
-- Horizontal orientation (landscape)
-- Keep it under 90 seconds
-- Subtitle it (many watch without sound)
+**[Scene 2 — Walking through facility or toward equipment, 25 sec]**
+
+"At iNBIO, we built a modular system that converts that waste into three products: bio-oil that replaces fossil heating fuel, biochar that sequesters carbon for centuries, and syngas that powers the process itself. The whole thing fits in shipping containers and ships to your site."
+
+**[Scene 3 — Holding biochar sample, showing bio-oil jar, 25 sec]**
+
+"This is our biochar. It goes into farms, stormwater filters, and even concrete. Every ton we produce generates carbon removal credits worth $100 to $250. Holcim just used biochar to pour net-zero concrete at Canary Wharf. The market is real and it's growing 13% a year."
+
+**[Scene 4 — Raj direct to camera, 25 sec]**
+
+"We're not a science project. We have equipment, certified products, and three ways to make money — selling products, building plants at client sites, and selling the equipment itself. What we need is capital to scale. 62% of biochar supply is already locked up by repeat buyers. If you want to own a piece of what's next in clean energy — invest in iNBIO."
+
+### Shoot in an intentional location
+
+Don't sit at a random desk. Film somewhere that tells the story:
+- **Best:** Standing next to the reactor or container modules — shows it's real industrial equipment
+- **Good:** In the facility with product samples visible — biochar, bio-oil jars on a table
+- **Also good:** Walking through a feedstock yard or wood waste pile — shows the problem
+- WeFunder example: Earth Rides founder stands in front of a Tesla. Unity Wellness founders walk their production facility perimeter.
+
+### Extra footage to splice in (if you have time):
+
+Beyond the talking-head pitch, consider splicing in:
+1. Footage of biochar being produced — product being made
+2. Close-up of the three products side by side
+3. The modular container system on a truck or being deployed
+4. B-roll of the facility, warehouse, or reactor
+5. Team members talking about the mission
+6. A customer or engineer examining the biochar
+
+**Do NOT use:** Stock videos, stock photos, cartoon animations, or overly polished corporate graphics. Unless a clip adds to investors' understanding of your actual company, don't include it.
+
+### Production checklist:
+- [ ] Film in landscape (16:9), 1080p+
+- [ ] Natural lighting — no studio needed, phone is fine
+- [ ] 1-3 minutes total
+- [ ] Caption with Descript, Veed, or Kapwing (~$15 to export without watermark)
+- [ ] Show confidence and passion — "if you seem bored or angry, your chance of winning them over is next to zero" (Geoff Ralston)
 
 ---
 
