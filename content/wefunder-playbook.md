@@ -542,19 +542,56 @@ If you believe waste shouldn't be wasted — invest in iNBIO.
 
 ---
 
-## 6. Choose Your Cover Image
+## 6. Choose Your Cover Image (Main Image)
 
-WeFunder says: This is the first thing investors see. It should clearly communicate what your company does.
+**WeFunder says:** Your main image is the very first thing investors see — in the Discover feed, on your campaign page, in social media cards, and in newsletter features. It has to do the heavy lifting of a first impression. It needs to stop the scroll and make someone curious enough to click.
 
-### iNBIO Cover Image Options (in order of preference):
+**It appears at different sizes** — from a small card in the browse feed to a full-width banner — so it needs to read well at both scales.
 
-1. **Best:** Photo of the modular container system being deployed or installed — shows the actual product at scale
-2. **Good:** Close-up of all three products side by side (bio-oil in a jar, biochar granules, syngas flame) with a biomass input pile — tells the story visually
-3. **Acceptable:** Reactor in operation or team at the facility — shows it's real, not theoretical
+### Choose an image that:
+1. **Stops the scroll** — stands out visually
+2. **Creates an emotional reaction** — not just informational
+3. **Communicates what you do instantly** — one glance should tell the story
+4. **Makes people want to click and learn more**
 
-**Avoid:** Stock images, abstract graphics, just a logo, or anything that looks like a PowerPoint slide.
+"The best images are authentic, high-quality, and tell a story about your company in a single frame."
 
-**Specs:** Landscape orientation, high resolution, well-lit. WeFunder displays it as a banner at the top of your page.
+### WeFunder's 6 image categories (with iNBIO recommendations):
+
+**1. You and your product (BEST for iNBIO)**
+Raj holding biochar, standing next to the reactor, or demonstrating the product. Combines the human element with what you're building. This is WeFunder's strongest category.
+> *Example: Raj holding a handful of biochar with the modular container system behind him*
+
+**2. A user with your product**
+A customer or engineer using iNBIO biochar — applying it to soil, examining it in a lab, pouring it into a stormwater filter. Creates aspirational appeal.
+
+**3. Just your product**
+A beautiful shot of the three products: bio-oil jar, biochar granules, syngas flame. Works well for physical products with strong visual appeal.
+
+**4. Just your team**
+Group photo at the facility showing energy and chemistry. Works well if the team is the story.
+
+**5. A symbolic photo**
+A powerful image representing the mission — wood waste being transformed, or a before/after of waste vs. products. Best for cause-driven framing.
+
+**6. A meaningful mockup or screenshot**
+Not relevant for iNBIO (this is for software companies).
+
+### Restrictions — MUST follow:
+
+- **No text overlays** — your company name and tagline already appear on the campaign card. Adding text creates visual clutter.
+- **No logos** — same reason, your logo is already displayed.
+- **High resolution** — blurry or pixelated images immediately reduce credibility.
+- **Landscape orientation** — the campaign card is wider than tall, so landscape images work best.
+
+### iNBIO recommendation (updated priority):
+
+1. **Best:** Raj holding biochar or standing with the reactor/container system — human + product in one frame
+2. **Strong:** The three products arranged together (bio-oil jar, biochar, flame) — tells the whole story visually
+3. **Good:** Modular container system being deployed — shows industrial scale
+4. **Acceptable:** Team at the facility — shows it's real, not theoretical
+
+**Avoid:** Stock images, abstract graphics, logo-only, PowerPoint-style slides, or any image with text burned into it.
 
 ---
 
