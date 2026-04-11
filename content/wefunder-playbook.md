@@ -1154,13 +1154,35 @@ Recap progress since opening the round. Your favorite feedback. Company mileston
 
 ## 4. Run a Successful Live Founder Q&A
 
-### iNBIO Q&A Plan:
+**WeFunder says:** When raising a community round, hosting a Q&A is an effective way to build relationships with current investors and connect with potential ones. A typical event is 30-60 minutes — the founder presents their pitch, followed by 10-15 minutes of audience questions. Including key guests (like your lead investor) makes it even more valuable.
 
-**When:** Mid-campaign (around week 6-7). Wednesday or Thursday, 12pm-1pm ET.
+### Step 1: Set a date & time
 
-**Where:** WeFunder's built-in Q&A feature, or LinkedIn Live, or Zoom webinar linked from WeFunder.
+- **Mid-weeks are best** — Wednesday or Thursday
+- **Best times:** 10am-12pm PST (1pm-3pm ET)
+- **Duration:** No longer than 45 minutes
+- Set it and stick to it
+- **iNBIO target:** Week 6-7 of the campaign
 
-**Format:** 30-45 minutes. Raj opens with 5-minute overview, then open Q&A.
+### Step 2: Choose a platform
+
+- **lu.ma** — highly recommended for collecting signups (auto-sends reminders)
+- **Zoom** — good for smaller groups, most people know how to use it
+- **Sequel** ($650/month) — best if you want to host the presentation on inbio.net (helps with retargeting)
+- Google Meet or Zoho — free alternatives for small groups
+
+### Step 3: Create an agenda
+
+Share the agenda with attendees beforehand so they can prepare questions. Two successful formats:
+
+**Option A — Pitch + Q&A (recommended for iNBIO):**
+- 20-25 min: Raj pitches the business (technology, products, market, financials)
+- 10-15 min: Open audience Q&A
+
+**Option B — Lead Investor Perspective:**
+- 15-20 min: Raj pitches the business
+- 10-15 min: Lead investor gives a personal account of why they invested
+- 5-10 min: Open Q&A
 
 **Prep — anticipate these questions:**
 - "What's your current revenue?" — Answer honestly. If pre-revenue, explain the pipeline.
@@ -1168,6 +1190,41 @@ Recap progress since opening the round. Your favorite feedback. Company mileston
 - "Who are your competitors?" — Other pyrolysis companies. Be honest about differentiation: modular, EPC model, multiple engagement types.
 - "When do investors see returns?" — Equity is illiquid. Possible exit paths: acquisition, IPO, dividends. Don't promise timelines.
 - "What's the biggest risk?" — Feedstock supply consistency, scaling production, carbon credit market volatility. Naming risks builds trust.
+
+### Step 4: Promote the Q&A
+
+- Post an **update on your WeFunder page** with a summary and registration link
+- Email your subscriber list with the registration link
+- Post on LinkedIn and X with eye-catching graphics
+- Send **reminder emails** leading up to the event (lu.ma handles this automatically)
+
+### Step 5: Conduct the live Q&A
+
+- Test your equipment and **start on time**
+- Stick to the agenda and engage with attendees
+- Be **personable, enthusiastic, and confident**
+- Have a **facilitator** (someone other than Raj) whose sole job is to keep tabs on the chat and waiting room
+- Drop **2-3 resources in the chat** during the session — links, images, polls — to keep the audience engaged
+
+### Step 6: Follow up with attendees
+
+Send a follow-up email the next day:
+
+> Subject: Thanks for joining our live Q&A!
+>
+> Hey [Name],
+>
+> Thanks for joining our live Q&A yesterday. It was great to connect and share more about iNBIO.
+>
+> As promised, here are some resources:
+> - [Recording of the Q&A]
+> - [Our WeFunder campaign page]
+> - [Our pitch deck / one-pager]
+>
+> If you have any more questions, feel free to reply to this email. And if you're ready to invest, you can do so here: [WeFunder link]
+>
+> Thanks again,
+> Raj
 
 ---
 
