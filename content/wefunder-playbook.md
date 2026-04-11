@@ -1294,15 +1294,58 @@ Send a follow-up email the next day:
 
 ## 6. Use Paid Media
 
-### iNBIO Paid Media Strategy:
+**WeFunder says:** Paid ads can amplify your raise, but they should **supplement — not replace — organic promotion.**
 
-**LinkedIn Ads (most relevant for Reg D 506c — targets professionals):**
+**IMPORTANT: SEC regulations require specific disclaimers on paid ads** for investment offerings. Consult your WeFunder fundraising advisor before running any paid ads.
+
+### How to Use Paid Ads
+
+**LinkedIn Ads (BEST for iNBIO's Reg D 506c — where accredited investors are):**
 - Target: accredited investors, cleantech professionals, sustainability officers, ag industry executives
-- Budget: Start with $500-1,000/week, test 2-3 ad creatives
-- Creative: Product photo + key stat + "Now raising on WeFunder" CTA
+- Budget: Start with $500-1,000 over the raise, test 2-3 ad creatives
+- Creative: Product photo + key stat + "Now raising" CTA
 - Objective: Drive traffic to WeFunder page
 
-**Avoid:** Facebook/Instagram ads for a Reg D 506(c) round — wrong audience. LinkedIn is where accredited investors and industry decision-makers are.
+**Facebook/Instagram Ads:**
+- Target lookalike audiences based on existing customers or website visitors
+- Budget: $500-2,000 over your raise
+- Note: Less relevant for Reg D 506(c) since investors must be accredited, but can build awareness
+
+**Twitter/X Ads:**
+- Promote your launch tweet — good for reaching startup/investor audiences
+
+**Google Ads:**
+- Target keywords related to investing in your industry (e.g., "invest in biochar," "cleantech investment," "carbon credit company")
+
+### How Publishers Work
+
+Publishers are media outlets or newsletters that feature your raise to their audience:
+
+- **Startup newsletters** — many feature community rounds for free or for a fee
+- **Industry publications** — write a press release about your raise. For iNBIO: target cleantech, biochar, renewable energy publications
+- **Podcast appearances** — pitch Raj as a guest to discuss biomass-to-energy, biochar markets, or the carbon credit opportunity
+
+The best PR is often organic: **a genuine story about why you're letting your community invest.**
+
+### How Content Partners Work
+
+Content Partners are creators and influencers who produce content about your raise in exchange for compensation or equity:
+
+- Video reviews or features
+- Blog posts or newsletter features
+- Social media posts to their audience
+
+**Choose someone whose audience aligns with your target investor demographic.** For iNBIO: cleantech influencers, sustainability creators, climate-tech newsletter authors. Authenticity matters — their audience should trust their recommendations.
+
+### Campaign Managers and Strategists
+
+Some founders hire specialists to help with their raise:
+
+- **Crowdfunding marketing agencies** — handle your entire marketing campaign
+- **Content creators** — create videos, graphics, and copy for your campaign
+- **Fundraising consultants** — advise on strategy and help with outreach
+
+**WeFunder can recommend vetted partners.** Ask your fundraising advisor for introductions. iNBIO also has MKT Chemistry as an existing distribution/marketing partner — coordinate with them on paid media strategy.
 
 ---
 
