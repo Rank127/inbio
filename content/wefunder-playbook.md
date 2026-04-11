@@ -274,19 +274,67 @@ Beyond the talking-head pitch, consider splicing in:
 
 ## 4. Curate Your Highlights
 
-WeFunder says: Your metrics and stats get their moment to shine. Show the numbers that prove traction and market opportunity.
+**WeFunder says:** Highlights are the **3-8 most investable facts about YOUR company** — displayed prominently on your campaign page. They make you stand out, cause investors to stop scrolling, and pique curiosity enough to click.
 
-### iNBIO Highlights (5-7 key stats for the top of your page):
+**Think about what a sharp investor wants to know:**
+1. **Traction** → What have you accomplished with limited resources? What evidence shows your product is working?
+2. **Team** → What are your team's unfair advantages?
+3. **Why now?** → Best evidence that your vision's timing is right
+4. **What makes your company special?** → Product differentiation, IP, partnerships, moonshot mission, founding story
 
-| Highlight | Value |
-|-----------|-------|
-| Biochar Market (2026) | $970M, growing 13%/yr |
-| Carbon Credit Avg Price | $164/ton CO2 (up 25% in 2 yrs) |
-| Supply Pre-Sold | 62% of capacity locked by repeat buyers |
-| System Range | 5-75 tons/day, modular |
-| Product Streams | 3 (bio-oil, biochar, syngas) |
-| ICVCM-Approved Methods | 3 biochar credit methodologies |
-| Addressable Market | $50B+ across all product lines |
+**Michael Seibel (YC):** *"What is the ratio between what you've done and how long you've been working on it?"*
+
+### What to include (WeFunder's priority ranking):
+
+1. **Growth** (most powerful) — especially organic
+2. **Revenue**
+3. **Retention**
+4. **Customers**
+5. **Social Proof** (least powerful but still valuable)
+
+### iNBIO Highlights — Choose 5-8 of these:
+
+**Traction highlights (use as many as apply):**
+- 3 revenue streams from a single integrated process (bio-oil, biochar, syngas)
+- 3 service lines launched: product sales, Build + Operate (EPC), OEM equipment
+- Biochar certified to IBI and EBC international standards
+- Reactor tested across multiple feedstocks with target yields achieved
+- [ADD if available: $ revenue to date, # of customers, # of tons processed, LOIs signed]
+
+**Team highlights:**
+- Founder designed the reactor, characterized the feedstocks, and certified the products — engineer-turned-CEO, not the other way around
+- Decades of experience in biotechnology, process engineering, and cleantech commercialization
+- [ADD: any previous exits, notable employers, university affiliations, advisory board members]
+
+**Why now highlights:**
+- ICVCM approved 3 biochar credit methodologies in 2026 — institutional credibility unlocked
+- Biochar carbon credits averaging $164/ton, up 25% in 2 years
+- 62% of high-quality biochar supply locked by repeat buyers — supply-constrained market
+- EU Carbon Removal Certification Framework operational in 2026
+
+**What makes iNBIO special highlights:**
+- Modular systems factory-built in 40-ft shipping containers — deploy anywhere without a $50M construction project
+- Thermally self-sufficient: syngas recycles to heat the reactor, no external fuel needed
+- Only company offering all three models: full-service, turnkey, and build-train-transfer
+
+**Market size highlight (use sparingly — WeFunder says traction > market stats):**
+- $50B+ addressable market across biochar, SAF, carbon credits, and renewable fuels
+
+### What NOT to put in highlights:
+
+- Generic market stats without tying them to your company
+- Vague claims ("proven technology") — use specific numbers
+- Anything an investor can't verify or that sounds like marketing copy
+- Don't just list features — show accomplishments and evidence
+
+### Example formats that work well:
+
+- "3 product streams, 3 service lines, 1 integrated process"
+- "Biochar certified to IBI/EBC standards — ready for agriculture, stormwater, and construction"
+- "Reactor designed, tested, and proven across forestry and agricultural feedstocks"
+- "$164/ton carbon credits — and ICVCM just approved 3 biochar methodologies"
+- "[X] tons processed to date" ← *this is the most powerful if you have it*
+- "[X] customers or LOIs signed" ← *second most powerful*
 
 ---
 
