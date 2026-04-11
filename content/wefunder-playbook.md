@@ -340,140 +340,205 @@ Beyond the talking-head pitch, consider splicing in:
 
 ## 5. Create Your Pitch
 
-WeFunder says: 8-12 slides, critical ones near the top. Slide types: Problem, Solution, Traction, Business Model, Opportunity Size, Team, Customer Testimonials, Press, Use of Funds, Game Plan, CTA.
+**WeFunder says:** Your pitch is the full story of your company told through slides — a series of images and text that persuades investors to believe in your company and invest. Think of it like a pitch deck in a VC meeting, but on a web page for a broader audience.
+
+**Your pitch should:**
+- Tell a complete, easy-to-follow story
+- Be visually compelling and scannable
+- Use simple language anyone can understand
+- Include data, evidence, and social proof wherever possible
+
+### How to create clear slides:
+
+- **Use large text** — the most important thing on the slide should be the biggest
+- **Include a visual** — charts, screenshots, photos, and icons help investors process information faster
+- **Be direct** — if you can cut a word, cut it
+- **Avoid walls of text** — if a slide has more than 5 lines of body text, break it up or move details to a separate slide
+
+### Narrative arc (follow this order):
+
+The best pitches follow a story, not a list of facts:
+
+1. **Hook** — Start with something that grabs attention
+2. **Problem** — Show the pain point
+3. **Solution** — Introduce your product
+4. **Proof** — Show it's working (traction)
+5. **Vision** — Paint the picture of the future
+6. **Team** — Show you can execute
+7. **The Ask** — What you're raising and why
+
+---
 
 ### iNBIO Pitch Slides:
 
-**SLIDE 1 — PROBLEM**
+**SLIDE 1 — HOOK**
 
-*Header:* Every year, 1 billion tons of U.S. biomass waste is burned, buried, or left to rot — wasting embedded energy and releasing greenhouse gases.
+*Header (large text):* 1 billion tons of wood waste. 3 products. Zero fossil fuel needed.
 
-*Body:* Open burning releases particulates and CO2. Landfilling costs money and generates methane. Meanwhile, industries pay premium prices for fossil heating oil, activated carbon, and soil amendments that bio-oil and biochar can replace. The problem isn't technology — pyrolysis has been proven for decades. The problem is nobody built a commercially scalable, modular system a sawmill or municipality can deploy without a $50M capital project.
+*Visual:* Split image — wood waste pile on left, three products (bio-oil jar, biochar granules, syngas flame) on right
 
----
-
-**SLIDE 2 — SOLUTION**
-
-*Header:* Modular fast pyrolysis systems that convert biomass waste into three sellable products — at your location, on your timeline.
-
-*Body:*
-- **Bio-oil (40-70% yield)** — Replaces #2 and #6 heating oil. Highest-value upgrade: sustainable aviation fuel feedstock.
-- **Biochar (15-40% yield)** — Soil amendment, stormwater filter, concrete additive, carbon credit generator. Locks away 700-800 kg CO2 per ton for centuries.
-- **Syngas (7-20% yield)** — Recycled to heat the reactor. Makes the process thermally self-sufficient. No external fuel.
-
-Systems are factory-built in 40-ft shipping containers. 5 TPD fits in one container. 75 TPD uses eight. Ship to site, interconnect, run.
-
-*[Include photo of modular container system + product samples]*
+*Body (max 3 lines):* Every year, a billion tons of U.S. farm and forestry waste gets burned or buried. We built machines that turn it into fuel, charcoal, and gas — in under 2 seconds.
 
 ---
 
-**SLIDE 3 — TRACTION**
+**SLIDE 2 — PROBLEM**
 
-*Header:* From R&D to revenue-generating operations with certified products and three active service lines.
+*Header (large text):* A billion tons of waste. Burning it costs money and pollutes the air.
 
-*Timeline:*
-1. Company founded in Salisbury, MD — Delmarva Peninsula, one of the most biomass-rich regions on the East Coast
-2. Proprietary reactor designed and tested — achieved target yields across woody biomass and agricultural residues
-3. Modular container architecture proven — 5-75 TPD, rapid site deployment
-4. Biochar certified to IBI/EBC standards — tunable surface area, pH, particle size, carbon content
-5. Three service lines launched — product sales, Build + Operate (EPC), OEM equipment
-6. Carbon credit market validation — ICVCM approved 3 biochar methodologies, credits at $164/ton avg
+*Visual:* Photo of open burning or waste piles, or a simple chart showing waste volume vs. current disposal methods
 
-*[Add any revenue numbers, LOIs, customer contracts, or letters of interest if available]*
+*Body (max 5 lines):*
+Sawmills pay to haul waste. Farmers burn crop residues in the open. Municipalities landfill wood debris. All of it releases CO2 and methane. Meanwhile, industries pay premium prices for heating oil, soil amendments, and carbon offsets that this waste could produce.
+
+The technology to convert waste exists. What didn't exist was a modular, affordable system a sawmill or farm could actually deploy.
 
 ---
 
-**SLIDE 4 — BUSINESS MODEL**
+**SLIDE 3 — SOLUTION**
 
-*Header:* Three revenue streams from one process, plus carbon credits as a fourth layer.
+*Header (large text):* 3 products from 1 machine. Ships in containers.
 
-**Revenue Line 1 — Product Sales (Biochar & Bio-oil)**
-Sell engineered biochar into agriculture, stormwater, remediation, concrete. Bio-oil replaces fossil heating oil. Supply-constrained market: 62% of capacity locked by repeat buyers.
+*Visual:* Photo of modular container system + product samples side by side
 
-**Revenue Line 2 — Build + Operate (EPC)**
-Design, build, and operate pyrolysis plants at client sites. Three models: full-service (we run it), turnkey (client runs it), build-train-transfer. Clients: sawmills, municipalities, ag operations, waste processors.
+*Body (max 5 lines):*
+- **Bio-oil (40-70%)** — Replaces fossil heating oil. SAF feedstock.
+- **Biochar (15-40%)** — Farms, stormwater filters, concrete. Carbon credits at $100-250/ton.
+- **Syngas (7-20%)** — Powers the reactor. No external fuel needed.
 
-**Revenue Line 3 — OEM Equipment**
-Sell modular systems to operators. 5 TPD (pilot) through 75 TPD (commercial). Installation support, operator training, maintenance contracts.
-
-**Revenue Line 4 — Carbon Credits**
-Every ton of biochar = ~0.7-0.8 tons CO2 sequestered = $100-250 in credit revenue. Stacks on top of product sales. A 25 TPD system could generate $200K-$400K/year in credit revenue alone.
+5 TPD fits in one container. 75 TPD uses eight. Ship to site. Interconnect. Run.
 
 ---
 
-**SLIDE 5 — OPPORTUNITY SIZE**
+**SLIDE 4 — PROOF (TRACTION)**
 
-*Header:* $50B+ across biochar, carbon credits, SAF, and renewable fuels.
+*Header (large text):* Designed, built, tested, certified.
 
-- **Biochar:** $970M in 2026 → $3.1B by 2030. Growing 13% CAGR. Agriculture 55%, stormwater and construction fastest-growing.
-- **Carbon Credits:** Biochar = 89.4% of durable CDR deliveries. $164/ton avg. $1.35B projected by 2030. Microsoft, JP Morgan, Shopify buying.
-- **SAF:** $15.7B in 2026 → $84B by 2035. DOE targets 3B gallons by 2030. Bio-oil is a feedstock.
-- **Concrete:** Portland cement = 8% of global CO2. Holcim just poured net-zero biochar concrete at Canary Wharf (-14 kgCO2/m3). Emerging but enormous.
+*Visual:* Timeline graphic or milestone chart. If available, a revenue/growth chart.
 
-These aren't projections — these are markets with existing buyers, established pricing, and supply constraints.
+*Body (max 5 lines):*
+1. Proprietary reactor — target yields achieved across forestry and ag feedstocks
+2. Modular architecture — 5 to 75 TPD, factory-built in shipping containers
+3. Biochar certified to IBI/EBC international standards
+4. 3 service lines live: product sales, Build + Operate, OEM equipment
+5. [ADD: revenue, tons processed, customers, LOIs — the more specific the better]
 
 ---
 
-**SLIDE 6 — TEAM**
+**SLIDE 5 — BUSINESS MODEL**
 
-*Header:* Built by engineers who run the process, not consultants who study it.
+*Header (large text):* 3 ways to make money. Plus carbon credits on top.
+
+*Visual:* Simple diagram showing the 3 revenue lines, or a pie chart of revenue mix
+
+*Body (max 5 lines):*
+1. **Sell products** — biochar + bio-oil to farms, cities, and industry
+2. **Build + operate plants** — EPC at client sites (full-service, turnkey, or train-and-transfer)
+3. **Sell equipment** — modular systems (5-75 TPD) to operators
+4. **Carbon credits** — every ton of biochar = $100-250 in credit revenue, stacked on top
+
+---
+
+**SLIDE 6 — OPPORTUNITY SIZE**
+
+*Header (large text):* $50B+ market. Supply can't keep up with demand.
+
+*Visual:* TAM/SAM/SOM breakdown or market size chart with growth arrows
+
+*Body (max 5 lines):*
+- Biochar: $970M → $3.1B by 2030 (13% CAGR). 62% of supply already locked.
+- Carbon credits: $164/ton avg. Microsoft, JP Morgan buying. $1.35B by 2030.
+- SAF: $84B by 2035. Bio-oil is a feedstock.
+- Concrete: Holcim poured net-zero concrete with biochar at Canary Wharf.
+
+---
+
+**SLIDE 7 — TEAM**
+
+*Header (large text):* Built by the engineer who designed the reactor.
+
+*Visual:* Raj's headshot + education/company logos. Add any advisors or team members.
+
+*Body (1-2 credentials per person, max 5 lines):*
 
 **Raj Kathuria — Founder & CEO**
-Decades in biotechnology, process engineering, and cleantech commercialization. Raj designed the reactor, characterized the feedstocks, and certified the products. He's an engineer who built a business, not a business guy who hired engineers.
+Decades in biotech and process engineering. Designed the reactor, characterized feedstocks, certified the products. Engineer-turned-CEO, not the other way around.
 
-Direct experience: reactor thermodynamics, feedstock characterization, biochar quality control, carbon credit registration, and selling into agriculture, water management, and industrial energy markets.
-
-*[Add headshot, education, previous company logos, advisory board]*
+*[Add: education, previous companies, advisory board, any notable logos]*
 
 ---
 
-**SLIDE 7 — USE CASES / TESTIMONIALS**
+**SLIDE 8 — CUSTOMER TESTIMONIALS**
 
-*Header:* Real applications with real economics.
+*Header (large text):* What our customers say.
 
-**Sawmill Operator** — 50+ TPD of wood residuals currently costs money to haul away. Our 25 TPD system converts it into ~7 tons bio-oil + ~5 tons biochar daily. Cost center becomes revenue stream. Carbon credits add $150K+/year.
+*Visual:* Customer photos with quote overlays. Real names and companies.
 
-**Municipal Stormwater Authority** — Biochar-sand filter media removes 80-90% dissolved metals, 40-80% phosphorus. One Minnesota installation: 22,000 lbs sediment, 202 lbs nitrogen, 50 lbs phosphorus removed annually.
+WeFunder says: Let your customers speak for you. Real quotes from real people are incredibly persuasive. Include name, photo, and a short quote.
 
-**Agricultural Producer** — USDA EQIP pays up to $201/cubic yard for biochar application. Water retention +15-20%, fertilizer costs -10-30% over time. Payback in year one with NRCS cost-share.
+*[Raj needs to provide actual customer quotes. If not available yet, use these use-case scenarios as placeholders and replace with real testimonials ASAP:]*
 
----
-
-**SLIDE 8 — USE OF FUNDS**
-
-*Header:* Scaling production to capture a supply-constrained market.
-
-| Category | % | What It Funds |
-|----------|---|---------------|
-| Equipment & Manufacturing | 40% | Next modular system(s), reactor, condensation train |
-| Facility & Site | 20% | Site prep, utilities, feedstock handling |
-| Feedstock Supply Chain | 15% | Agreements with forestry/ag operations, logistics |
-| Sales & Marketing | 15% | Commercial team, industry events, OEM pipeline |
-| Working Capital | 10% | Operators, production runs, certifications, credit registration |
-
-*[Adjust percentages to match actual raise target]*
+- **Sawmill operator:** "We were paying $X/ton to haul waste. Now it's a revenue stream."
+- **Stormwater engineer:** "The biochar hit spec on the first test. Removal rates exceeded what we modeled."
+- **Farmer:** "Soil moisture improved in the first season. I'm ordering more."
 
 ---
 
-**SLIDE 9 — GAME PLAN**
+**SLIDE 9 — PRESS**
 
-*Header:* From close to first commercial deployment in 12 months.
+*Header (large text):* In the news.
 
-1. **Q2 2026** — Close round. Finalize equipment procurement.
-2. **Q3 2026** — Begin fabrication. Lock 2-3 feedstock supply agreements.
-3. **Q4 2026** — System delivery and commissioning. First production runs. Register with Puro.earth/Verra.
-4. **Q1 2027** — Steady-state production. Begin product shipments. First carbon credits issued.
-5. **Q2 2027** — Sign first external Build + Operate client. Begin EPC engagement.
+*Visual:* Press outlet logos + quote snippets
+
+WeFunder says: If you've been featured in press, show it. Logos and quotes add credibility and social proof.
+
+*[Add any: press mentions, podcast appearances, conference presentations, US Biochar Initiative features, local media coverage. If none yet, skip this slide — don't fabricate.]*
 
 ---
 
-**SLIDE 10 — CTA**
+**SLIDE 10 — USE OF FUNDS**
 
-The biochar market is supply-constrained and growing 13% per year. Carbon credits are at $164/ton and climbing. Concrete is going carbon-negative with biochar. And 62% of supply is already spoken for.
+*Header (large text):* Here's how we'll use your investment.
 
-We have the technology, the products, and the market. What we need is capital to scale. This round funds the next system deployment and puts us on the path to recurring revenue across all three service lines.
+*Visual:* **Pie chart or bar chart** — WeFunder specifically says these work great here. Be specific about categories and percentages.
 
-If you believe waste is a resource — invest in iNBIO.
+| Category | % |
+|----------|---|
+| Equipment & Manufacturing | 40% |
+| Facility & Site Development | 20% |
+| Feedstock Supply Chain | 15% |
+| Sales & Marketing | 15% |
+| Working Capital & Operations | 10% |
+
+*[Create a clean pie chart with these categories. Adjust percentages to match actual raise target.]*
+
+---
+
+**SLIDE 11 — GAME PLAN (VISION)**
+
+*Header (large text):* From this round to recurring revenue in 12 months.
+
+*Visual:* Timeline graphic with milestone markers
+
+1. **Q2 2026** — Close round. Equipment procurement.
+2. **Q3 2026** — Fabrication. Lock feedstock agreements.
+3. **Q4 2026** — Deploy and commission. First production.
+4. **Q1 2027** — Steady-state. Product shipments. First carbon credits.
+5. **Q2 2027** — First Build + Operate client signed.
+
+---
+
+**SLIDE 12 — CTA (End on a sincere ask)**
+
+*Header (large text):* Waste is a resource. Help us prove it at scale.
+
+WeFunder says: Your last slide should be a clear, compelling call to action. Tell investors exactly how to invest, and close with a **personal note about why this matters to you**.
+
+*Body (max 5 lines):*
+62% of biochar supply is locked up. Carbon credits are at $164/ton. The market is buying faster than producers can build. We have the technology and the products. This round funds our next deployment.
+
+If you believe waste shouldn't be wasted — invest in iNBIO.
+
+*[Include the "Invest" button link]*
 
 ---
 
