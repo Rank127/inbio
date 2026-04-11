@@ -1357,27 +1357,78 @@ Some founders hire specialists to help with their raise:
 
 ## How to Close Strong
 
-### iNBIO Closing Playbook:
+**WeFunder says:** Reach back out to everyone asking them to invest or increase their investment, update every day, and emphasize the closing date!
 
-**2 weeks out:**
-- [ ] Email all investors who reserved but haven't completed: "Your reservation expires in 2 weeks — here's how to finalize"
-- [ ] Post WeFunder update: progress so far, what's left, what happens at close
-- [ ] Re-contact top 10 prospects who didn't invest during soft launch with a personal note
+### When does Closing start?
+
+When you've reached at least **65% of your goal**, plan a date and time **1-2 weeks out** to end your round. Work with your WeFunder Account Manager to put a **countdown clock** on your campaign page while you prepare for the final bump.
+
+### Post an update EVERY DAY
+
+Campaigns see their biggest spikes at the very beginning (launch day) and at the end. Take advantage by **posting every day to your channels and following up with every 1:1 contact that ever expressed interest.**
+
+In every communication, celebrate the success of your campaign. Use this template across your campaign Updates:
+
+> **Subject:** {X days} left to invest in iNBIO's round!
+>
+> Our round closes in {X days} on {date}! Invest before we close: [WeFunder link]
+>
+> If you invested in this round, from the bottom of our hearts, **thank you.** Your contribution will be fundamental for iNBIO's continual growth and success as we work to convert biomass waste into clean energy at scale.
+
+**Each day, add a blurb on ONE of the following to mix it up:**
+1. Key accomplishments in the past month or quarter
+2. Key plans in the next month or quarter
+3. Notable investors in your round
+4. Market trends in your favor (biochar market growth, carbon credit pricing, ICVCM approvals)
+5. A sincere note of gratitude
+6. A recap of your mission
+7. A final call to invest
+
+### Text every investor who ever expressed interest
+
+Make time to follow up with **everyone you reached out to 1:1** during your round — not just your top 10. Send a text to any larger investors that expressed interest but haven't invested yet. Make sure they know the campaign is wrapping up. Make time to chat with them.
+
+### Ramp up your promotions
+
+If you've already set up paid ads, **activate and ramp up what's working** in this last 1-2 weeks. Increase budget on your best-performing ad creative.
+
+### Go all out (again) on the last day
+
+On the final day, **cycle back through ALL channels** with one last reminder that this is it:
+- [ ] Final WeFunder update: "Closing tonight. Here's where we stand..."
+- [ ] Email blast: last chance (use the lastChanceEmail template in Resend)
+- [ ] LinkedIn post with final stats: "[X] investors, [Y]% of goal, closing tonight"
+- [ ] X/Twitter post
+- [ ] Personal texts to anyone on the fence
+- [ ] Ask supporters to share one more time
+
+### iNBIO Closing Checklist:
+
+**2 weeks out (hitting 65%+):**
+- [ ] Set closing date and time with WeFunder Account Manager
+- [ ] Request countdown clock on campaign page
+- [ ] Email reserved-but-not-completed investors: "Your reservation expires — here's how to finalize"
+- [ ] Start posting daily updates on WeFunder (rotate through the 7 blurbs above)
 
 **1 week out:**
-- [ ] "1 week left" email to full list (use the lastChanceEmail template already built in Resend)
-- [ ] LinkedIn post: "One week left in our round. Here's what we've accomplished so far..."
-- [ ] Personal texts/calls to warm contacts who haven't invested
+- [ ] "1 week left" email to full list (Resend lastChanceEmail template)
+- [ ] LinkedIn post: "One week left. Here's what we've accomplished..."
+- [ ] Text/call every 1:1 contact who expressed interest but hasn't invested
+- [ ] Ramp up paid ads
 
 **Final 48 hours:**
 - [ ] "Closing tomorrow" email
-- [ ] LinkedIn post with final stats: "X investors, Y% of goal, closing tomorrow at midnight"
-- [ ] Direct outreach to anyone on the fence
+- [ ] LinkedIn post: "[X] investors, [Y]% of goal, closing tomorrow"
+- [ ] Personal outreach to anyone on the fence
+
+**Final day:**
+- [ ] Go all out — cycle through every channel one last time (see above)
 
 **After close:**
 - [ ] Thank you email to all investors
 - [ ] WeFunder update: final results + what happens next
 - [ ] LinkedIn post: gratitude + next milestones
+- [ ] Begin executing on the Game Plan milestones
 
 ---
 
