@@ -787,7 +787,87 @@ After sending your first batch, track responses in your CRM. Follow up with anyo
 
 ---
 
-## 3. Track Your Outreach
+## 3. Email Your Existing Mailing Lists
+
+**WeFunder says:** This is different from personal outreach. Personal outreach is 1:1, intimate, and asks for a specific commitment. Your mailing list announcement is a **1-to-many invitation** — letting your community know about an exciting opportunity. The tone is more "exciting news" than "would you invest $500?"
+
+### Step 1: Draft a 3-part email series
+
+Rather than sending a single email, WeFunder recommends a **3-part series**:
+
+**Email 1: The Tease** (sent 2-3 days before soft launch)
+
+- Subject: "Something big is coming from iNBIO"
+- Build anticipation without revealing everything
+- Hint at the opportunity
+
+> Subject: Something big is coming
+>
+> Hi [Name],
+>
+> We've been building something at iNBIO for a long time, and we're about to take a major step forward. In the next few days, I'll be sharing an opportunity for you to be part of it.
+>
+> Stay tuned — more details coming soon.
+>
+> — Raj
+
+**Email 2: The Announcement** (soft launch day)
+
+- Subject: "You can now invest in iNBIO"
+- Explain what the round is
+- Share your why
+- Clear CTA to invest
+- **Keep it under 300 words**
+
+> Subject: You can now invest in iNBIO
+>
+> Hi [Name],
+>
+> I'm opening iNBIO's private investment round — and I wanted you to be among the first to know.
+>
+> We turn wood waste into three products: bio-oil (replaces fossil fuel), biochar (sequesters carbon for centuries), and syngas (powers the process itself). Our systems are modular, ship in containers, and deploy at the customer's site.
+>
+> Why now? The biochar market is approaching $1B and 62% of supply is already locked up. Carbon credits average $164/ton. ICVCM just approved three biochar credit methodologies. The market is ready — we need capital to scale production.
+>
+> You can review the details and invest here: [WeFunder link]
+>
+> This round is open to accredited investors. If you have questions, reply to this email or book a call: [Calendly link]
+>
+> — Raj Kathuria, Founder & CEO
+
+**Email 3: The Follow-Up** (3-5 days after launch)
+
+- Subject: "We've already raised $X from Y investors"
+- Share early momentum
+- Social proof from early investors
+- Reminder to invest
+
+> Subject: iNBIO has raised $[X] from [Y] investors — and we're just getting started
+>
+> Hi [Name],
+>
+> A quick update: since opening our round [X] days ago, [Y] investors have committed $[X]. The momentum has been incredible.
+>
+> If you've been considering getting involved, now is the time — early investors are already in, and the round won't stay open forever.
+>
+> Invest here: [WeFunder link]
+>
+> — Raj
+
+*[Use your Resend infrastructure — you already have the API and subscriber list built]*
+
+### Step 2: Take note of feedback and adjust
+
+Pay attention to:
+- **Open rates and click rates** — are people engaging?
+- **Questions people reply with** — what's confusing?
+- **Common objections or confusion** — what's holding people back?
+
+Use this feedback to **refine your campaign before going public**. If people are confused about something, add clarity to your pitch slides.
+
+---
+
+## 4. Track Your Outreach
 
 **WeFunder says: Track everything.** Use a CRM or spreadsheet with these columns:
 
@@ -807,36 +887,6 @@ After sending your first batch, track responses in your CRM. Follow up with anyo
 *Reach beyond your personal network using social media, ads, WeFunder's marketing perks, and other promotions. Aim to reach 65%+ of your funding goal before moving into Closing.*
 
 **Note:** For a Reg D 506(c), "public launch" means broader outreach to accredited investor channels — not mass consumer marketing. You CAN generally solicit, but all investors must be verified accredited.
-
----
-
-## 0. Email Your Existing Mailing Lists (Bridge from Soft to Public Launch)
-
-This is the first blast email — sent right as you transition from Soft to Public Launch. Your mailing list subscribers have been warming up; now they get the direct ask.
-
-### iNBIO Email to /invest Subscriber List:
-
-**Subject:** iNBIO is now accepting investments — early access for you
-
-**Body:**
-
-You signed up for investment updates from iNBIO, and I wanted you to be among the first to know: our private round is now open.
-
-We're raising capital to scale our fast pyrolysis operations — building and deploying the modular systems that convert biomass waste into bio-oil, biochar, and syngas.
-
-Here's what's happened since you signed up:
-- ICVCM approved 3 biochar carbon credit methodologies
-- Biochar credits averaging $164/ton, up 25% in 2 years
-- 62% of high-quality biochar supply is already locked by repeat buyers
-- Holcim poured net-zero concrete using biochar at Canary Wharf
-
-You can review the offering details here: [WeFunder link]
-
-This round is open to accredited investors under Reg D 506(c). If you have questions, reply to this email or book a call with me directly.
-
-— Raj Kathuria, Founder & CEO
-
-*[Use your Resend infrastructure to send this — you already have the API and subscriber list built]*
 
 ---
 
