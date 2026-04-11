@@ -1230,22 +1230,65 @@ Send a follow-up email the next day:
 
 ## 5. Promote Your Raise on Social Media
 
-### iNBIO Social Media Plan:
+**WeFunder says:** Spread the word about your round to every platform where you have an audience.
 
-**LinkedIn (primary — this is where accredited investors are):**
-- 3x/week posts from Raj's personal account
-- Mix: 40% industry insights, 30% behind-the-scenes, 20% fundraise updates, 10% personal/founder story
+**CRITICAL RULE: Do NOT mention the terms of your campaign** (valuation, share price, minimum investment amounts, etc.) **on channels outside the WeFunder platform** — not in emails, not on social media. Terms live on WeFunder only.
+
+### 3-phase posting cadence:
+
+**Phase 1 — Launch (week of public launch):**
+- Tease the launch **a week out**, **a few days out**, and **on the day of**
+- Recap who you are, why you exist, and why you're opening a round
+- Cadence: daily during launch week
+
+**Phase 2 — In the middle (weeks 2-10):**
+- Update followers on milestones, behind-the-scenes, and your journey so far
+- Suggested cadence: **2-4 times a month**
+- Share: investor testimonials (screenshot from "What People Say"), customer stories, product progress, industry news
+
+**Phase 3 — Closing (final 2 weeks):**
+- Thank your investors and emphasize your mission and goals
+- Drive urgency and gratitude — not desperation
+- Cadence: increase to 2-3x/week
+
+### Post types with iNBIO examples:
+
+**Launch posts:**
+- **Tease (1 week out):** "We've been building something at iNBIO for a long time. Next week, I'm sharing an opportunity for you to be part of it. Stay tuned."
+- **Tease (2 days out):** "In 48 hours, I'm opening iNBIO's investment round. Here's why the timing matters..." [one key stat + photo]
+- **Launch day:** Full announcement post (use the LinkedIn post from Phase 3 Launch Day section). Put link in first comment.
+
+**Update posts (mid-campaign):**
+- Behind-the-scenes reel or photos: feedstock arriving, reactor running, products being packaged
+- Screenshot an investor testimonial from your WeFunder "What People Say" section
+- Share a customer testimonial over product footage
+- Quote industry news and add iNBIO's angle
+
+**Closing posts:**
+- Milestone update: "We've crossed $[X] from [Y] investors. $[Z] left to hit our goal."
+- Gratitude post: recap the journey since launch, thank investors, share what's next
+- Final CTA: "Round closes [date]. Last chance to join: [link in comments]"
+
+### Platform strategy:
+
+**LinkedIn (primary — where accredited investors and industry decision-makers are):**
+- Raj's personal account is the main channel
 - Always include a photo or data visual
-- End posts with a soft CTA, not hard sell: "If you're interested in what we're building: [link in comments]"
+- Put external links in the **first comment** (better algorithm reach)
+- End with a soft CTA: "If you're interested in what we're building — link in comments"
 
 **X/Twitter (secondary):**
-- 2x/week, shorter format
-- Quote industry news with iNBIO's angle
+- Shorter format, quote industry news with iNBIO's angle
 - Tag relevant accounts (@USBiochar, industry publications)
+- Retweet/quote-tweet your own WeFunder updates
 
-**YouTube (if video produced):**
+**Instagram (if applicable):**
+- Stories: screenshot your WeFunder campaign progress
+- Reels: behind-the-scenes facility footage, product shots
+
+**YouTube:**
 - Upload pitch video
-- Post any facility tours or product demos
+- Post facility tours or product demos
 
 ---
 
