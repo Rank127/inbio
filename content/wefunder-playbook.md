@@ -892,21 +892,100 @@ Use this feedback to **refine your campaign before going public**. If people are
 
 ## 1. Create a Media Kit
 
-### iNBIO Media Kit Contents:
+**WeFunder says:** A media kit helps your community help YOU. Your supporters want to spread the word — **but they might not actually know how.** Prepare all copy-and-paste copy, downloadable assets, handles to tag, links, and specific asks ahead of time. In simplest form, this can be a 1-pager on Google Docs.
 
-Package these in a shared Google Drive or Dropbox folder:
+### Email to send to supporters asking for help:
+
+> Subject: Help spread the word about iNBIO's investment round!
+>
+> Hey [Name],
+>
+> As you know, iNBIO is launching our private investment round on [date]. Our goal is to raise $[goal]. To do that, we're hoping to make a big splash on launch day and hit $[day 1 goal] on day 1. This will be a huge help building momentum.
+>
+> I know you're busy, but if you have time on [launch date] within the 4-hour window of [start time] to [end time], I would appreciate any help spreading the word.
+>
+> Here are a few ways you can help:
+> 1. Like, Comment on, or Share our launch posts on LinkedIn and X — links in the attached doc will go live at [start time]
+> 2. Create a native post on LinkedIn using the copy and assets in the doc
+>
+> Thank you so much for your help!
+> — Raj
+
+### iNBIO Media Kit — Google Doc Template
+
+Create a Google Doc with this structure and share it with your supporters:
+
+---
+
+**How to share iNBIO's Investment Round Launch**
+
+tl;dr: Toolkit of copy and assets to share our investment round announcement
+
+**Campaign Link:** [insert WeFunder link]
+
+---
+
+**Announcement Links**
+
+Instructions: During [time window] on [date], would appreciate any amplification on these posts:
+1. [Raj's LinkedIn post link]: Like, comment, share
+2. [X/Twitter post link]: Like, retweet, comment
+3. [WeFunder page link]: Share
+
+---
+
+**Copy Snippets**
+
+Copy and paste these if you need to describe what iNBIO is:
+
+**The short version:**
+iNBIO builds modular systems that convert wood waste into clean fuel, carbon-storing charcoal, and renewable gas.
+
+**The long version:**
+International BioRefineries (iNBIO) designs, builds, and operates modular fast pyrolysis systems that convert agricultural and forestry waste into bio-oil, biochar, and syngas. Based in Salisbury, MD, iNBIO serves agriculture, stormwater, construction, and carbon credit markets with engineered biochar products.
+
+**CTA:**
+iNBIO just opened their investment round and is looking to raise $[goal]. The biochar market is approaching $1B and 62% of supply is locked up. Learn more and invest: [WeFunder link]
+
+---
+
+**Assets**
+
+Instructions: Download any of these from this folder to post natively: [Google Drive / Dropbox link]
+
+**Video:**
+- 9x16 (Stories/Reels): [link]
+- 1x1 (Square — LinkedIn/Instagram): [link]
+- 16x9 (Landscape — YouTube/LinkedIn): [link]
+
+**Images:** Choose from below:
+- Raj with biochar/equipment: [link]
+- Three products shot: [link]
+- Modular container system: [link]
+- Key stats graphic: [link]
+
+---
+
+**Tag these people in your post:**
+- @[Raj's LinkedIn handle]
+- @[iNBIO company page]
+- @[any advisors or partners with public profiles]
+
+**Hashtags:**
+#biochar #cleanenergy #pyrolysis #carboncredits #climatetech #biomass #sustainability #investing #wefunder
+
+---
+
+### Asset checklist:
 
 - [ ] Company logo (PNG, SVG, white + dark backgrounds)
 - [ ] 3-5 product photos (biochar, bio-oil, reactor, container modules)
-- [ ] Raj headshot (professional)
-- [ ] 1-page company fact sheet (PDF)
-- [ ] 3 pre-written social media posts others can share
-- [ ] Key stats graphic (the Highlights from Phase 1)
-- [ ] WeFunder page link + UTM tracking links
-- [ ] Boilerplate company description (2-3 sentences)
+- [ ] Raj headshot
+- [ ] Pitch video in 3 formats (9x16, 1x1, 16x9)
+- [ ] Key stats graphic
+- [ ] Google Doc media kit created and shareable
 
-**Boilerplate:**
-International BioRefineries (iNBIO) designs, builds, and operates modular fast pyrolysis systems that convert agricultural and forestry waste into bio-oil, biochar, and syngas. Based in Salisbury, MD, iNBIO serves agriculture, stormwater, construction, and carbon credit markets with engineered biochar products. The company is currently raising capital through a private round on WeFunder.
+**Once people start helping, set aside time to engage and say thank you.** If others are spreading the word, make sure to thank them and keep the conversation going.
 
 ---
 
