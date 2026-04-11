@@ -991,24 +991,51 @@ Instructions: Download any of these from this folder to post natively: [Google D
 
 ## 2. Make a Huge Splash on Launch Day
 
-### iNBIO Launch Day Checklist:
+**WeFunder says:** Your Public Launch is your official launch into the world — to WeFunder's audience, Google's search indexing, and anyone who stumbles upon your page. This is different from Soft Launch, which was your inner circle only.
 
-**Morning:**
-- [ ] Raj posts on LinkedIn: personal story + why he's raising + link
-- [ ] Email blast to full subscriber list (use Resend campaign API)
-- [ ] Text/WhatsApp message to 20 closest contacts asking them to share
-- [ ] Post on X/Twitter with key stat + link
+### Step 1: Draft your public announcement email
 
-**Midday:**
-- [ ] Follow-up LinkedIn comment on the morning post with a specific data point
-- [ ] Share in any relevant LinkedIn groups (biochar, cleantech, climate investing)
-- [ ] Ask 5 people to comment on the LinkedIn post (engagement drives reach)
+> Subject: iNBIO's investment round is now open to the public
+>
+> Exciting news: our private round is now open!
+>
+> As you may know, we opened our investment round [X weeks ago] to let early supporters invest in iNBIO and our mission to convert biomass waste into clean energy products.
+>
+> Today we're opening the round more broadly to accredited investors.
+>
+> In the past [X months], iNBIO has:
+> - [Impressive metric — e.g., "Processed X tons of feedstock"]
+> - [Big accomplishment — e.g., "Certified biochar to IBI/EBC standards"]
+> - [Another milestone — e.g., "Raised $X from Y early investors"]
+>
+> We're raising capital to deploy our next production systems and begin generating recurring revenue from biochar sales, bio-oil contracts, and carbon credits.
+>
+> Interested in investing? See the full details: [WeFunder link]
+>
+> Or help us spread the word by forwarding this email, sharing [this post], or giving us likes and comments on LinkedIn and X.
+>
+> Thank you for supporting us.
+>
+> — Raj Kathuria, Founder & CEO
 
-**Evening:**
-- [ ] Thank anyone who invested or shared publicly
-- [ ] Post a "Day 1" update on WeFunder: "Here's where we stand after launch day..."
+### Step 2: Tailor and publish across ALL channels
 
-**Pre-written LinkedIn post for Raj:**
+Draft a version for every platform. **Put links in the first comment on LinkedIn and Facebook** (not in the post itself) — this gets better algorithmic reach. If you BCC an email list, **exclude investors you already contacted personally**.
+
+**Post wherever iNBIO has a digital audience:**
+- [ ] Company email list (Resend)
+- [ ] Company LinkedIn page
+- [ ] Company X/Twitter
+- [ ] Company website — add announcement bar or banner (see extras below)
+- [ ] Company blog
+
+**Post wherever Raj personally has an audience:**
+- [ ] Personal LinkedIn (this is the big one)
+- [ ] Personal X/Twitter
+- [ ] Personal Facebook
+- [ ] Any other personal social
+
+**Pre-written LinkedIn post for Raj (personal account):**
 
 > I've spent years building fast pyrolysis technology that converts biomass waste into bio-oil, biochar, and syngas. Today I'm opening iNBIO's investment round to scale what we've built.
 >
@@ -1018,11 +1045,44 @@ Instructions: Download any of these from this folder to post natively: [Google D
 > - Holcim just poured net-zero concrete with biochar at Canary Wharf
 > - ICVCM approved 3 biochar credit methodologies this year
 >
-> We're not pitching a concept. We have equipment, certified products, and three service lines generating revenue. What we need is capital to build and deploy the next systems.
+> We're not pitching a concept. We have equipment, certified products, and three service lines. What we need is capital to build and deploy the next systems.
 >
-> If you're an accredited investor interested in clean energy infrastructure: [WeFunder link]
+> If you're an accredited investor interested in clean energy infrastructure — link in comments.
 >
-> Happy to answer any questions in the comments.
+> Happy to answer any questions below.
+
+*[Put the WeFunder link in the first comment, not the post body]*
+
+### Step 3: Publish everything in one go, then engage
+
+To save time, **batch-publish everything at once** — all channels, same morning. Then schedule time to engage with email replies, comments, and shares that come in.
+
+It's an algorithmic game — **take time to engage** (reply to comments, thank sharers) to push your posts to greater visibility.
+
+### iNBIO Launch Day Checklist:
+
+**Morning (publish everything):**
+- [ ] Raj posts on personal LinkedIn (link in first comment)
+- [ ] Email blast to full subscriber list (Resend campaign API)
+- [ ] Post on X/Twitter with key stat
+- [ ] Text/WhatsApp to 20 closest contacts asking them to share
+- [ ] Send media kit doc to supporters who agreed to amplify
+
+**Midday (engage):**
+- [ ] Reply to every comment on LinkedIn post
+- [ ] Follow-up comment with a specific data point
+- [ ] Share in relevant LinkedIn groups (biochar, cleantech, climate investing)
+- [ ] Thank anyone who shared publicly
+
+**Evening (update):**
+- [ ] Post "Day 1" update on WeFunder: "Here's where we stand..."
+- [ ] Thank amplifiers individually
+
+### 3 extra measures for Public Launch:
+
+1. **Add an announcement bar to inbio.net** — a banner at the top of the website announcing the round with a link to WeFunder
+2. **Add a snippet and link to Raj's email signature** — "Now raising on WeFunder: [link]"
+3. **Update social bios** — add the WeFunder link to iNBIO's and Raj's LinkedIn/X bios
 
 ---
 
