@@ -135,21 +135,56 @@ While Updates reach your existing followers, **Spotlights introduce you to thous
 
 ## 2. Write Your Elevator Pitch
 
-WeFunder says: Describe your company in 3-7 of the simplest words possible, such that a very smart ten-year-old would understand what you do.
+**WeFunder requirements:**
+- **3-7 words, maximum 80 characters**
+- A very smart ten-year-old should understand it immediately
+- Simplest language possible — "your elevator pitch should be like baby food" (Michael Seibel)
+- Don't include your company name (it already shows on your card)
+- No jargon: avoid words like "pyrolysis," "biomass," "thermochemical"
+- Aim for 7th grade readability or below (test at readable.com)
+
+**WeFunder examples for reference:**
+- "Flying cars. Seriously." (Terrafugia)
+- "Banking stack for startups" (Mercury)
+- "Oakland's first cidery" (Crooked City Cider)
+- "Book rooms with locals rather than hotels" (Airbnb)
 
 ### iNBIO Elevator Pitch Options (pick one):
 
-**Option A (product-focused):**
-> We turn wood waste into fuel and carbon-storing charcoal.
+**Option A (strongest — simple, specific):**
+> Turning wood waste into fuel and charcoal
 
-**Option B (business-focused):**
-> We build machines that convert biomass waste into three sellable products.
+*6 words, 42 chars. Everyone knows wood waste, fuel, and charcoal. No jargon. Says exactly what we do.*
 
-**Option C (problem-focused):**
-> We make money from waste that everyone else pays to get rid of.
+**Option B (outcome-focused):**
+> Making money from waste no one wants
 
-**Extended version (10 seconds):**
-> iNBIO builds modular pyrolysis systems that convert agricultural and forestry waste into bio-oil, biochar, and syngas. We sell the products, sell the equipment, and build and operate plants at client sites.
+*7 words, 36 chars. Intriguing, business-oriented. Makes people want to learn more.*
+
+**Option C (product-focused):**
+> Clean fuel and carbon credits from wood waste
+
+*8 words, 46 chars. Slightly longer but captures both product and carbon credit revenue.*
+
+**Option D (ultra-simple):**
+> Wood waste to fuel and fertilizer
+
+*6 words, 33 chars. "Fertilizer" is simpler than "biochar" for a general audience.*
+
+### Check for these 5 mistakes before finalizing:
+
+1. **Could you simplify further?** Keep iterating until you can't replace a word with something clearer.
+2. **Industry jargon?** "Biomass," "pyrolysis," "syngas" — none of these belong in the elevator pitch. If your mom can't repeat it, simplify.
+3. **Say it out loud.** Would you say this to someone at a bar? Nix words like *disrupting, revolutionizing, groundbreaking, innovative*.
+4. **Test readability.** Paste it into readable.com. Aim for 7th grade level or below.
+5. **Remove your company name.** "iNBIO turns wood waste into fuel" wastes characters — the name shows automatically.
+
+### Test it with real people:
+
+1. Say your pitch out loud to 5-10 people who don't work in cleantech
+2. Ask them to repeat back what they think iNBIO does
+3. If they can't explain it clearly, simplify further
+4. Your pitch is ready when a stranger can hear it once and explain your company to someone else
 
 ---
 
