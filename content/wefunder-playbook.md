@@ -597,26 +597,48 @@ Not relevant for iNBIO (this is for software companies).
 
 ## 7. Onboard Your Lead Investor
 
-WeFunder says: A lead investor sets the terms and signals credibility. They should be someone with relevant expertise and a meaningful investment.
+**WeFunder says:** Your lead investor is the first person to invest in your round. They set or validate the terms, and their investment is a **public-facing signal of confidence** to every investor who follows. On WeFunder, your lead is the public face backing your company from day one — not behind closed doors like a VC deal.
 
-### iNBIO Lead Investor Strategy:
+### What the lead investor actually does:
 
-**Ideal lead investor profile:**
+- **Holds the sole voting right for the SPV** — votes on behalf of all WeFunder investors when the company needs shareholder approval (new financing, acquisition, dissolution)
+- **Sets or validates the valuation and terms** — most of the work happens before launch
+- **Invests first** — their check is the visible signal that someone credible has already committed
+- **Day-to-day time commitment is minimal** — mostly pre-launch review and terms alignment
+
+### Requirements:
+
+**Minimum investment:** At least **$5,000**, but WeFunder strongly recommends **$10,000 or 5-15% of your funding goal**. If investors see the lead didn't put in $10K, they'll be unlikely to put in $15K themselves.
+
+**Who CANNOT be your lead investor:**
+- A founder or officer of the company (Raj cannot be lead)
+- A direct family member of a founder (spouse, parent, sibling, child)
+- Anyone employed by or compensated by the company
+- The lead must be an **independent voice** representing investor community interests
+
+**Risk mitigation:** If you don't meet your minimum funding goal, the lead investor's money is returned along with everyone else's. No obligation to invest more or fund the gap.
+
+### How to choose the right lead:
+
+**First and foremost: make sure you trust them.** They hold voting power for your Community Round and might be in your business for the next ten years.
+
+**Signal social proof with a trusted name.** WeFunder says: "If that person is investing $100K as a lead, then I'm a lot more confident investing my $2,000." Biotechs have chosen doctors and research scientists. Tech companies have chosen VCs and angels. You don't need a celebrity — just someone whose name makes others feel confident following.
+
+### iNBIO lead investor candidates:
+
+**Ideal profile for iNBIO:**
 - Cleantech/climate-tech investor with a track record
 - Someone in the biochar, biomass, or carbon credit space
 - An operator who understands industrial equipment economics
 - Ajay Tandon (T&C Capital) — already involved per email thread, could serve as lead
 
-**What the lead investor does:**
-- Sets or validates the valuation and terms
-- Makes the first investment (signals credibility)
-- May write a "why I invested" memo that goes on the page
-- Their name/logo appears prominently
+### Action items:
 
-**Action items:**
-- [ ] Confirm with Ajay Tandon if he'll serve as lead investor
-- [ ] Align on valuation and terms
+- [ ] Confirm lead investor candidate (Ajay Tandon or other — must NOT be Raj, family, or employee)
+- [ ] Align on valuation, terms, and their investment amount (minimum $5K, ideally $10K+)
+- [ ] Have the lead review the campaign page before launch
 - [ ] Get a 2-3 sentence "why I invested" quote for the page
+- [ ] Confirm they understand the SPV voting responsibility
 
 ---
 
