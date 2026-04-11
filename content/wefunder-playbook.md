@@ -1438,53 +1438,209 @@ On the final day, **cycle back through ALL channels** with one last reminder tha
 
 ## 1. Validating Your Community Round
 
-Before going live, validate demand by reaching out to 10-20 people and asking:
+**WeFunder template — "Ask for feedback while priming the pump":**
 
-> "We're considering raising capital on WeFunder. If we did, would you invest? No commitment — I'm just trying to gauge interest before we build the page."
+> Subject: Would you join our community of investors?
+> Pre-header: We're considering a private round!
+>
+> Hi [Name],
+>
+> iNBIO is at an exciting stage. We're considering opening a private investment round on WeFunder — giving our supporters and industry contacts the chance to invest in our growth.
+>
+> Before we commit, I'd love your honest feedback:
+>
+> 1. Would you personally be interested in investing?
+> 2. If so, roughly how much would you consider? ($5,000-$50,000+)
+> 3. Do you know others who might be interested?
+>
+> Your input will directly shape whether and how we move forward with this.
+> Thanks for being part of our journey.
+>
+> Raj Kathuria
+> iNBIO
 
-Track responses. If 30%+ say yes, you have enough signal to proceed.
+**Track responses.** If 30%+ say yes, you have enough signal to proceed.
 
-**iNBIO validation targets:** Existing /invest email subscribers, LinkedIn connections who've engaged with Raj's posts, industry contacts.
+**iNBIO validation targets:** Existing /invest email subscribers, LinkedIn connections who've engaged with Raj's posts, industry contacts, cleantech angels.
 
 ---
 
 ## 2. Asking for Feedback on Your Pitch
 
-Before going live, send the WeFunder page to 5-10 trusted people and ask:
+**WeFunder template:**
 
-> "I'd love your honest feedback on our investment page before we launch. What's confusing? What's missing? What would make you NOT invest? Here's the link: [WeFunder page]"
+> Subject: Feedback on our pitch?
+>
+> Hey [Name],
+>
+> [Some personalization]
+>
+> Exciting news — I'm going to be launching a private investment round on WeFunder. Before I go live, I'd love your sharp eyes on our pitch.
+>
+> Here's a preview link: [WeFunder page link]
+>
+> Would love your thoughts on:
+> - Is the story clear and compelling?
+> - Anything confusing or missing?
+> - Would you invest? (No pressure!)
+>
+> Your feedback would mean a lot. And if you do want to invest, you'll get first access before we go public.
+>
+> Thanks!
+> Raj
 
-Incorporate feedback before soft launch.
-
----
-
-## 3. Marketing Your Fundraise in TTW — 9 Emails
-
-*TTW = Testing the Waters, the pre-filing phase where you gauge interest.*
-
-**Already built:** Your Resend email infrastructure + drip templates are in place at `site/src/lib/email-templates.ts`. The welcome, nurture 1/2/3, announcement, and last-chance emails have been updated for Reg D 506(c).
-
-**Additional TTW email sequence (supplement the existing drip):**
-
-| Email | Timing | Subject | Content |
-|-------|--------|---------|---------|
-| 1 | Day 0 | Something's coming from iNBIO | Teaser: we're preparing to raise capital. Sign up for early access. |
-| 2 | Day 3 | Why we're raising (and why now) | Market timing: $970M market, 62% supply locked, ICVCM approvals |
-| 3 | Day 7 | The technology behind iNBIO | Fast pyrolysis explainer, 3 products, modular systems |
-| 4 | Day 10 | The market opportunity in 3 charts | Biochar growth, carbon credit pricing, SAF demand |
-| 5 | Day 14 | Meet Raj Kathuria | Founder story, experience, vision |
-| 6 | Day 17 | How we make money (3+1 revenue streams) | Business model breakdown |
-| 7 | Day 21 | What we'll do with the capital | Use of funds, milestones |
-| 8 | Day 25 | Q&A: Your questions answered | Address common investor questions |
-| 9 | Day 28 | We're almost ready — are you in? | Final CTA before page goes live |
+Send to **5-10 trusted people** who will give honest feedback. Incorporate before soft launch.
 
 ---
 
-## 4. Marketing Your Fundraise Post-Form C — 9 Emails
+## 3. Marketing Your Fundraise in TTW — 8 Emails
 
-*Post-launch email series once the round is officially open.*
+*TTW = Testing the Waters. For Reg D 506(c), the exact TTW disclosure language may differ from Reg CF — consult your WeFunder advisor. The email cadence and strategy still apply.*
 
-**Note:** For Reg D 506(c), you don't file a Form C (that's Reg CF). But the email cadence still applies once the private round is live.
+**Already built:** Your Resend email infrastructure + drip templates are in place at `site/src/lib/email-templates.ts`.
+
+### REQUIRED: TTW Disclosure
+
+**EVERY TTW email must include this disclosure at the bottom** (adapt for Reg D 506(c)):
+
+> *International BioRefineries, LLC is "testing the waters" to gauge investor interest in an offering. No money or other consideration is being solicited. If sent, it will not be accepted. No offer to buy securities will be accepted. Any indication of interest involves no obligation or commitment of any kind.*
+
+### Email #1: Pre-marketing
+
+> **Subject:** Become an investor in iNBIO
+>
+> We're about to launch a private investment round for iNBIO on WeFunder — giving our supporters and community the chance to invest in our growth.
+>
+> This means we're letting our biggest supporters become early investors in iNBIO. At this stage, we are "testing the waters" to gauge investor interest. No money or other consideration is being solicited.
+>
+> We're launching on [DATE]. Will you join us?
+>
+> Keep an eye out tomorrow for details on how to get involved!
+>
+> [TTW Disclosure]
+
+### Email #2: Initial CTA with VIP offer
+
+> **Subject:** iNBIO's Private Round is Live!
+>
+> Our private round is now live! You're invited to join our **exclusive early round** during our testing the waters phase. We're giving our biggest supporters an opportunity to get in first.
+>
+> In the past year, iNBIO has:
+> - Designed and tested our proprietary fast pyrolysis reactor
+> - Certified biochar to IBI/EBC international standards
+> - Launched 3 service lines: product sales, Build + Operate, OEM equipment
+>
+> This round of funding will allow us to:
+> - Deploy our next production system
+> - Lock feedstock supply agreements
+> - Begin generating recurring revenue from biochar, bio-oil, and carbon credits
+>
+> Check out our WeFunder page and make a reservation: [URL]
+>
+> [TTW Disclosure]
+
+### Email #3: Live Call Invite
+
+> **Subject:** Sign up for our iNBIO investor seminar!
+>
+> We're excited about the momentum we've been seeing — $[X] in reservations so far! We wanted to make sure you didn't miss out.
+>
+> We're hosting a live call for all prospective supporters who may have questions about our round, what the opportunity is, and how it works.
+>
+> Join us on [DATE] at [URL] for our presentation and a live Q&A session.
+>
+> [TTW Disclosure]
+
+### Email #4: Call Recording
+
+> **Subject:** Only $[X] left in our early round!
+>
+> We've been blown away by the support since we launched. We've received $[XX,XXX] in reservations!
+>
+> Whether you join us in this round or not, **thank you.** We're grateful for all your support.
+>
+> Space is running out to make a reservation, so don't wait! For this limited time, we're offering investors [INSERT TERMS].
+>
+> Make a reservation here: [URL]
+>
+> [TTW Disclosure]
+
+### Email #5: Closing VIP Terms
+
+> **Subject:** Only $[X] left before our early offer expires!
+>
+> Our round is still going strong! We're so grateful to have already received $[XX,XXX] in reservations.
+>
+> Have you gotten involved yet? Over [X] people have already made reservations, and there's only $[X] left before our early offer fills up. Once this allotment is filled, there won't be another chance to get this deal!
+>
+> [Positive Investor Comment Screenshot]
+>
+> [TTW Disclosure]
+
+### Email #6: Progress Update
+
+> **Subject:** Only $[X] left before our round sells out!
+>
+> What a thrilling couple of [weeks/months] it has been. We are so grateful for the outpouring of support that has allowed us to get so close to our goal.
+>
+> Here is what we've been up to since we launched:
+> - [Update #1]
+> - [Update #2]
+> - [Update #3]
+>
+> At this stage, many of our reservation holders are increasing their allocations. [Customer Testimonial]
+>
+> If you want to invest or increase your reservation, take action now — our round is closing soon! [URL]
+>
+> P.S. [Attach a quick video of Raj thanking everyone for the investments]
+>
+> [TTW Disclosure]
+
+### Email #7: 48 Hours Left
+
+> **Subject:** 48 hours left to invest!
+>
+> Help us close out our round with a bang!
+>
+> In the last [X time], we've received $[XXX,XXX] in reservations from our day-one supporters, customers, community, and friends. This funding will help us build the next chapter of iNBIO — giving us the capital to deploy our next production systems and scale biochar and bio-oil revenue.
+>
+> If you've already made a reservation, **thank you.** If you haven't, what are you waiting for? There's still room in this round.
+>
+> [Invest Now button/link]
+>
+> P.S. [Attach a quick video of Raj thanking everyone]
+>
+> [TTW Disclosure]
+
+### Email #8: 12 Hours Left
+
+> **Subject:** 12 hours before closing! Closing at [TIME]
+> **Pre-header:** This time we mean it... LAST CHANCE TO INVEST IN iNBIO!
+>
+> Well, here we are, at the end. It's been such an incredible journey so far, and watching our community show up to support us has been endlessly fulfilling. If you made a reservation in this round, from the bottom of our hearts, **thank you.** Your contribution will be fundamental for iNBIO's continual growth as we work to convert biomass waste into clean energy at scale.
+>
+> If you haven't made a reservation yet, we probably don't have to remind you that this is your last chance... but we're going to anyways. This is your last chance!
+>
+> Still not convinced? Check out what we've been up to:
+> - [Company Update #1]
+> - [Company Update #2]
+> - [Company Update #3]
+>
+> We're almost at the finish line, and we hope you'll be there with us when we cross it!
+>
+> [Invest Now button/link]
+>
+> P.S. [Attach a quick video of Raj thanking everyone]
+>
+> [TTW Disclosure]
+
+---
+
+## 4. Marketing Your Fundraise Post-Launch — 9 Emails
+
+*Post-launch email series once the round is officially open and accepting investments. For Reg D 506(c), the cadence applies once the private round is live.*
+
+**Note:** These supplement the TTW series above. Once you're past TTW and accepting real investments, switch to these.
 
 | Email | Timing | Subject | Content |
 |-------|--------|---------|---------|
