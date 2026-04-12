@@ -66,10 +66,8 @@ Thermally self-sufficient — syngas powers the reactor, no outside fuel
 
 **Slot 8:**
 ```
-3 ways to make money: sell products, build plants, sell equipment
+75 TPD reactor designed through ENERGYWERX grant — ready to scale
 ```
-
-*(If Raj has revenue, customers, or tons processed — replace slot 8 with that. Real traction numbers beat everything.)*
 
 ---
 
@@ -89,8 +87,9 @@ Once Ajay Tandon (or whoever the lead is) invests, add them here with a short qu
 *(Click into his profile and update the bio. Replace whatever is there with:)*
 
 ```
-Designed iNBIO's fast pyrolysis reactor from the ground up. Decades of experience in biotechnology, process engineering, and cleantech commercialization. Personally characterized feedstocks, optimized yields, and certified biochar to international standards. Engineer who built a business, not a business guy who hired engineers.
+Designed iNBIO's fast pyrolysis reactor. Decades in biotech, process engineering, and cleantech. Characterized feedstocks, optimized yields, certified biochar to IBI/EBC standards. Engineer who built a business, not a business guy who hired engineers.
 ```
+*(251 characters — fits 255 limit)*
 
 ## Phil Badger — VP, CTO
 *(Click into his profile and update the bio. Replace with something like:)*
@@ -120,13 +119,13 @@ The technology to convert waste into valuable products has existed for decades. 
 
 **Our Solution**
 
-We built one. iNBIO's fast pyrolysis reactor heats biomass to 450-550 degrees in the absence of oxygen. In under two seconds, it breaks apart into three products:
+We built one. iNBIO's fast pyrolysis reactor heats biomass to 450-550°C in the absence of oxygen. In under two seconds, it breaks apart into three products:
 
 - **Bio-oil (40-70% of input)** — A dense liquid fuel that directly replaces fossil heating oil. At its highest value, bio-oil is the feedstock for sustainable aviation fuel.
 - **Biochar (15-40% of input)** — A stable, carbon-rich solid used in agriculture, stormwater filtration, environmental remediation, and concrete. Every ton locks away 700-800 kg of CO2 for centuries, qualifying for carbon removal credits worth $100-250 per ton.
 - **Syngas (7-20% of input)** — A combustible gas we recycle back to heat the reactor. No external fuel needed. The process runs itself.
 
-Our systems are modular: factory-built in standard 40-foot shipping containers, trucked to site, and interconnected. A 5-ton-per-day pilot fits in one container. A 75-ton-per-day commercial plant uses eight.
+Our systems are modular: factory-built in standard 40-foot shipping containers, trucked to site, and interconnected. A 6-ton-per-day demonstration plant is currently under construction — this round funds its completion. A 75-ton-per-day commercial reactor has already been designed through an ENERGYWERX grant, positioning us for rapid scale-up once the demonstration plant is operational.
 
 **How We Make Money**
 
