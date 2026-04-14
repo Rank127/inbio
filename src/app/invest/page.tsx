@@ -74,10 +74,10 @@ const steps = [
 ];
 
 const stats = [
-  { value: "3", label: "Product Streams" },
-  { value: "$50B+", label: "Addressable Market" },
-  { value: "5–75", label: "TPD System Range" },
-  { value: "100%", label: "Biomass Utilization" },
+  { value: "$3M", label: "Raising Now" },
+  { value: "6 TPD", label: "Demo Plant Under Construction" },
+  { value: "75 TPD", label: "Commercial Reactor Designed" },
+  { value: "3", label: "Revenue Streams" },
 ];
 
 export default function InvestPage() {
@@ -97,8 +97,9 @@ export default function InvestPage() {
               <span className="text-accent-light">of Clean Energy</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-white/85 max-w-2xl leading-relaxed">
-              iNBIO is converting biomass waste into bio-oil, biochar, and renewable biofuels
-              through fast pyrolysis. We&apos;re raising capital to scale operations and are accepting direct investments from qualified investors.
+              iNBIO is raising $3M via convertible note to complete our 6 TPD demonstration
+              plant and prove the economics of converting biomass waste into bio-oil, biochar,
+              and syngas. Our 75 TPD commercial reactor is already designed through an ENERGYWERX grant.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <a
@@ -216,6 +217,54 @@ export default function InvestPage() {
             Be the first to know when we hit our funding goals.
           </p>
           <InvestEmailForm />
+        </div>
+      </section>
+
+      {/* Deal Terms */}
+      <section className="py-16 sm:py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl sm:text-4xl font-bold text-text">
+              Deal Terms
+            </h2>
+            <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
+              We&apos;re raising $3M via convertible note to complete our demonstration plant
+              and position for commercial scale-up.
+            </p>
+          </div>
+          <div className="max-w-3xl mx-auto">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+              <div className="p-6 bg-surface rounded-xl border border-border">
+                <p className="text-sm text-text-lighter uppercase tracking-wider font-semibold">Instrument</p>
+                <p className="mt-1 text-lg font-bold text-text">Convertible Note</p>
+              </div>
+              <div className="p-6 bg-surface rounded-xl border border-border">
+                <p className="text-sm text-text-lighter uppercase tracking-wider font-semibold">Raise Amount</p>
+                <p className="mt-1 text-lg font-bold text-text">$3,000,000</p>
+              </div>
+              <div className="p-6 bg-surface rounded-xl border border-border">
+                <p className="text-sm text-text-lighter uppercase tracking-wider font-semibold">Interest Rate</p>
+                <p className="mt-1 text-lg font-bold text-text">7% per annum</p>
+              </div>
+              <div className="p-6 bg-surface rounded-xl border border-border">
+                <p className="text-sm text-text-lighter uppercase tracking-wider font-semibold">Maturity</p>
+                <p className="mt-1 text-lg font-bold text-text">2 years</p>
+              </div>
+              <div className="p-6 bg-surface rounded-xl border border-border sm:col-span-2">
+                <p className="text-sm text-text-lighter uppercase tracking-wider font-semibold">Conversion Discount</p>
+                <p className="mt-1 text-lg font-bold text-text">20% discount to next qualified financing round</p>
+              </div>
+            </div>
+            <div className="mt-8 p-6 bg-primary-dark/5 rounded-xl border border-primary/20">
+              <p className="text-sm font-semibold text-primary mb-3">Use of Funds</p>
+              <ul className="space-y-2 text-sm text-text-light">
+                <li className="flex justify-between"><span>Repay existing bank note</span><span className="font-semibold text-text">$1,400,000</span></li>
+                <li className="flex justify-between"><span>Complete 6 TPD demonstration plant</span><span className="font-semibold text-text">$1,100,000</span></li>
+                <li className="flex justify-between"><span>Commissioning &amp; first production runs</span><span className="font-semibold text-text">$250,000</span></li>
+                <li className="flex justify-between"><span>Working capital</span><span className="font-semibold text-text">$250,000</span></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </section>
 
