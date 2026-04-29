@@ -1,19 +1,20 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import InvestEmailForm from "@/components/InvestEmailForm";
 import InvestFAQ from "@/components/InvestFAQ";
 
 export const metadata: Metadata = {
-  title: "Invest in iNBIO — Clean Energy Private Investment",
+  title: "Invest in iNBIO — $25/ton Waste to $615/ton Revenue",
   description:
-    "Invest directly in International BioRefineries. We're raising capital to scale fast pyrolysis technology that converts biomass waste into bio-oil, biochar, and biofuels.",
+    "iNBIO converts a ton of biomass waste into 103 gal of bio-oil + 400 lbs of biochar + federal 45Z credits + carbon credits — $615 in revenue per ton. Patented fast pyrolysis. Pilot commissioning Q4 2026. Raising $3M under Reg D 506(c).",
 };
 
 const whyInvestCards = [
   {
-    title: "Massive Market Opportunity",
+    title: "Unit Economics That Stand Up",
     description:
-      "The global biochar market alone is projected to reach $3.1B by 2030. Add sustainable aviation fuel, renewable diesel, and carbon credits — and the addressable market exceeds $50B.",
+      "One ton of biomass ($25 feedstock) yields 103 gal of bio-oil ($412) + 400 lbs of biochar ($70) + 45Z federal credits ($103) + carbon credits ($30) = $615 of revenue per ton — a 24× input-to-output ratio before operating costs.",
     icon: (
       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -21,9 +22,9 @@ const whyInvestCards = [
     ),
   },
   {
-    title: "Proven Pyrolysis Technology",
+    title: "Patented Fast Pyrolysis",
     description:
-      "Our fast pyrolysis systems convert 100% of dry biomass into three revenue streams — bio-oil, biochar, and syngas — with reaction times under 2 seconds at 500+ °C.",
+      "U.S. Patent 9,121,644 and Canadian Patent 2,832,550 cover our moving-bed thermal reactor. A U.S. utility application (18/672,256) is pending on the full fast pyrolysis system.",
     icon: (
       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
@@ -31,9 +32,9 @@ const whyInvestCards = [
     ),
   },
   {
-    title: "Multiple Revenue Streams",
+    title: "Customers Already in Place",
     description:
-      "We don't depend on a single product. Biochar sales, bio-oil contracts, biofuel offtake agreements, carbon credits, and EPC services create diversified income.",
+      "Signed supply agreement with a Baltimore fuel distributor for municipal boiler use. Confidential LOI from a carbon-credit buyer using bio-oil to plug depleted oil wells. Feedstock supply contracted.",
     icon: (
       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -41,9 +42,9 @@ const whyInvestCards = [
     ),
   },
   {
-    title: "Experienced Leadership",
+    title: "150+ Years of Plant Execution",
     description:
-      "Led by Raj Kathuria, a seasoned biotech entrepreneur with deep expertise in biomass conversion, process engineering, and cleantech commercialization.",
+      "CEO Raj Kathuria and CTO Phil Badger — inventor of the patented reactor — lead iNBIO, supported by an eight-person engineering services team across process, mechanical, electrical, instrumentation, piping, civil, and rotary disciplines.",
     icon: (
       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -75,9 +76,9 @@ const steps = [
 
 const stats = [
   { value: "$3M", label: "Raising Now" },
-  { value: "6 TPD", label: "Demo Plant Under Construction" },
-  { value: "75 TPD", label: "Commercial Reactor Designed" },
-  { value: "3", label: "Revenue Streams" },
+  { value: "24×", label: "Revenue-to-Feedstock Ratio" },
+  { value: "Q4 2026", label: "Pilot Commissioning" },
+  { value: "75 TPD", label: "Commercial Plant Engineered" },
 ];
 
 export default function InvestPage() {
@@ -92,14 +93,15 @@ export default function InvestPage() {
               Private Investment Round
             </p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight">
-              Invest in the Future
+              $25 of Waste.
               <br />
-              <span className="text-accent-light">of Clean Energy</span>
+              <span className="text-accent-light">$615 of Revenue per Ton.</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-white/85 max-w-2xl leading-relaxed">
-              iNBIO is raising $3M via convertible note to complete our 6 TPD demonstration
-              plant and prove the economics of converting biomass waste into bio-oil, biochar,
-              and syngas. Our 75 TPD commercial reactor is already designed through an ENERGYWERX grant.
+              iNBIO is raising $3M via convertible note under Regulation D 506(c) to install
+              our patented fast-pyrolysis pilot plant (commissioning Q4 2026) and complete
+              engineering on our 75 TPD commercial unit. Equipment is already purchased.
+              First customer agreement and LOI are already in hand.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <a
@@ -109,11 +111,107 @@ export default function InvestPage() {
                 Request Investment Details
               </a>
               <a
-                href="#updates"
+                href="#pitch-deck"
                 className="inline-flex items-center justify-center px-6 py-3 text-base font-semibold border-2 border-white/30 hover:border-white/60 text-white rounded-lg transition-colors"
               >
-                Get Investor Updates
+                View Pitch Deck
               </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Pitch Deck */}
+      <section id="pitch-deck" className="py-16 sm:py-20 bg-surface scroll-mt-20">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10">
+            <p className="text-accent font-semibold text-sm uppercase tracking-wider mb-3">
+              Investor Materials
+            </p>
+            <h2 className="text-3xl sm:text-4xl font-bold text-text">
+              Investor Pitch Deck
+            </h2>
+            <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
+              Twelve slides covering our patented fast pyrolysis technology, 24× input-to-output
+              economics, $3.25M+ in non-dilutive grants secured, signed customer agreements,
+              and modeled investor returns.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-5 gap-8 lg:gap-12 items-center">
+            <div className="lg:col-span-3">
+              <a
+                href="/docs/pitch-deck.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block relative group rounded-xl overflow-hidden border border-border shadow-lg hover:shadow-xl transition-shadow"
+                aria-label="Open the iNBIO investor pitch deck in a new tab"
+              >
+                <Image
+                  src="/images/pitch-cover.png"
+                  alt="iNBIO investor pitch deck cover slide"
+                  width={2560}
+                  height={1440}
+                  className="w-full h-auto"
+                  priority={false}
+                />
+                <div className="absolute inset-0 bg-primary-dark/0 group-hover:bg-primary-dark/30 transition-colors flex items-center justify-center">
+                  <span className="opacity-0 group-hover:opacity-100 transition-opacity bg-white text-primary-dark px-6 py-3 rounded-lg font-semibold shadow-lg">
+                    Open Deck →
+                  </span>
+                </div>
+              </a>
+            </div>
+
+            <div className="lg:col-span-2 space-y-3">
+              <a
+                href="/docs/pitch-deck.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-between w-full px-6 py-4 bg-primary-dark hover:bg-primary text-white rounded-lg transition-colors"
+              >
+                <span className="flex items-center gap-3">
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14 3h7v7m0-7L10 14m-3 7h-2a2 2 0 01-2-2V5a2 2 0 012-2h2" />
+                  </svg>
+                  <span className="font-semibold">View Online</span>
+                </span>
+                <span className="text-sm text-white/70">Full deck</span>
+              </a>
+
+              <a
+                href="/docs/pitch-deck.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-between w-full px-6 py-4 bg-white hover:bg-surface border border-border hover:border-primary text-text rounded-lg transition-colors"
+              >
+                <span className="flex items-center gap-3">
+                  <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                  </svg>
+                  <span className="font-semibold">Download PDF</span>
+                </span>
+                <span className="text-sm text-text-light">~255 KB</span>
+              </a>
+
+              <a
+                href="/docs/pitch-deck.pptx"
+                className="flex items-center justify-between w-full px-6 py-4 bg-white hover:bg-surface border border-border hover:border-primary text-text rounded-lg transition-colors"
+              >
+                <span className="flex items-center gap-3">
+                  <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                  </svg>
+                  <span className="font-semibold">Download PowerPoint</span>
+                </span>
+                <span className="text-sm text-text-light">2.6 MB</span>
+              </a>
+
+              <p className="text-xs text-text-lighter pt-3 leading-relaxed">
+                Reg D 506(c) · Accredited investors only. Forward-looking statements
+                in this deck are subject to risks and uncertainties. See full offering
+                documents before making any investment decision.
+              </p>
             </div>
           </div>
         </div>
@@ -127,8 +225,8 @@ export default function InvestPage() {
               Why Invest in iNBIO?
             </h2>
             <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
-              We&apos;re building scalable clean energy infrastructure with proven technology
-              and multiple paths to revenue.
+              We are not selling the future. Equipment is bought. Patents are issued.
+              First customer is signed. This round finishes the plant.
             </p>
           </div>
 
@@ -228,8 +326,8 @@ export default function InvestPage() {
               Deal Terms
             </h2>
             <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
-              We&apos;re raising $3M via convertible note to complete our demonstration plant
-              and position for commercial scale-up.
+              $3M convertible note to install the pilot plant, fund first operations,
+              complete engineering on the 75 TPD commercial unit, and retire existing debt.
             </p>
           </div>
           <div className="max-w-3xl mx-auto">
@@ -287,11 +385,11 @@ export default function InvestPage() {
       <section className="py-16 bg-primary-dark">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold text-white">
-            Ready to Invest in Clean Energy?
+            Equipment Bought. Customer Signed. Patents Issued.
           </h2>
           <p className="mt-4 text-lg text-white/80 max-w-xl mx-auto">
-            Join investors who believe in turning waste into value. Every investment
-            helps build a cleaner, more sustainable future.
+            $3M closes the gap between a warehoused pilot and a revenue-generating plant.
+            Accredited investors welcome.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
             <a

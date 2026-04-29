@@ -1,0 +1,14 @@
+{
+  "name": "inbio-pitch-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:pptx": "node build-pptx.mjs",
+    "build:pdf": "node build-pdf-and-cover.mjs",
+    "publish": "node publish.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0",
+    "puppeteer-core": "^23.0.0"
+  }
+}

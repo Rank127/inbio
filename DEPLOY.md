@@ -11,7 +11,7 @@ cd site/
 git init
 git add .
 git commit -m "Initial commit: iNBIO Next.js site"
-git remote add origin https://github.com/RajKathuria/inbio.git
+git remote add origin git@github.com:Rank127/inbio.git
 git push -u origin main
 ```
 
@@ -29,7 +29,7 @@ git push -u origin main
 
 1. In the Node.js app settings, click **Connect to GitHub**.
 2. Authorize Hostinger to access the repository.
-3. Select the **RajKathuria/inbio** repository.
+3. Select the **Rank127/inbio** repository.
 4. Set the root directory to `/site` (the Next.js project lives inside the site subdirectory).
 
 ---

@@ -1,0 +1,4 @@
+# Build artifacts — regenerate with: npm run publish
+node_modules/
+.pptx-tmp/
+pitch-deck.pptx
