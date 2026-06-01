@@ -1,0 +1,66 @@
+// ARCHIVED 2026-06-01 — original /invest page written for a Reg D 506(c) PUBLIC raise.
+// Pulled from production because the live round is 506(b) (private; no general solicitation),
+// which makes a public soliciting page non-compliant. Restore this (and re-enable
+// InvestEmailForm / InvestFAQ) only if/when a 506(c) or Reg CF phase becomes available.
+// Verify all financial/patent/cert claims against current offering docs before reuse.
+// Companion components still in repo: src/components/InvestFAQ.tsx, src/components/InvestEmailForm.tsx
+// =============================================================================
+
+import type { Metadata } from "next";
+import Image from "next/image";
+import Link from "next/link";
+import InvestEmailForm from "@/components/InvestEmailForm";
+import InvestFAQ from "@/components/InvestFAQ";
+
+export const metadata: Metadata = {
+  title: "Invest in iNBIO — $25/ton Waste to $615/ton Revenue",
+  description:
+    "iNBIO converts a ton of biomass waste into 103 gal of bio-oil + 400 lbs of biochar + federal 45Z credits + carbon credits — $615 in revenue per ton. Patented fast pyrolysis. Pilot commissioning Q4 2026. Raising $3M under Reg D 506(c).",
+};
+
+const whyInvestCards = [
+  {
+    title: "Unit Economics That Stand Up",
+    description:
+      "One ton of biomass ($25 feedstock) yields 103 gal of bio-oil ($412) + 400 lbs of biochar ($70) + 45Z federal credits ($103) + carbon credits ($30) = $615 of revenue per ton — a 24× input-to-output ratio before operating costs.",
+  },
+  {
+    title: "Patented Fast Pyrolysis",
+    description:
+      "U.S. Patent 9,121,644 and Canadian Patent 2,832,550 cover our moving-bed thermal reactor. A U.S. utility application (18/672,256) is pending on the full fast pyrolysis system.",
+  },
+  {
+    title: "Customers Already in Place",
+    description:
+      "Signed supply agreement with a Baltimore fuel distributor for municipal boiler use. Confidential LOI from a carbon-credit buyer using bio-oil to plug depleted oil wells. Feedstock supply contracted.",
+  },
+  {
+    title: "150+ Years of Plant Execution",
+    description:
+      "CEO Raj Kathuria and CTO Phil Badger — inventor of the patented reactor — lead iNBIO, supported by an eight-person engineering services team across process, mechanical, electrical, instrumentation, piping, civil, and rotary disciplines.",
+  },
+];
+
+const steps = [
+  { number: "01", title: "Request an Invitation", description: "Sign up below or contact us to receive an invitation to our private investment round on WeFunder." },
+  { number: "02", title: "Review the Offering", description: "Access our offering details, financials, and use-of-funds plan. Ask questions directly with our team." },
+  { number: "03", title: "Invest Directly", description: "Complete your investment through WeFunder and become part of the clean energy transition. Receive regular updates as we grow." },
+];
+
+const stats = [
+  { value: "$3M", label: "Raising Now" },
+  { value: "24×", label: "Revenue-to-Feedstock Ratio" },
+  { value: "Q4 2026", label: "Pilot Commissioning" },
+  { value: "75 TPD", label: "Commercial Plant Engineered" },
+];
+
+// NOTE: Full JSX body preserved in git history at the commit prior to 2026-06-01.
+// Key public-solicitation elements that made this incompatible with 506(b):
+//   - Hero: "iNBIO is raising $3M via convertible note under Regulation D 506(c)..."
+//   - Published deal terms: Convertible Note / $3,000,000 / 7% / 2-yr / 20% discount + use-of-funds table
+//   - CTAs: "Request Investment Details", "View Pitch Deck", "Get Started"
+//   - Email-capture funnel: <InvestEmailForm /> under "Stay Updated on Our Raise"
+//   - Public pitch deck downloads (HTML/PDF/PPTX) + "Reg D 506(c) · Accredited investors only"
+//   - InvestFAQ covering offering type, who-can-invest, deal terms, returns
+// Restore the full file from git (path: src/app/invest/page.tsx) rather than this summary
+// if reusing, to avoid losing markup. The data arrays above are the exact original copy.
