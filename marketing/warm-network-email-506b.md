@@ -1,91 +1,79 @@
-# Warm-Network Email — Reg D 506(b) Private Round
+# Warm-Network Email — Reg D 506(b) Private Round (VERSION OF RECORD)
 
 > **For:** Raj's direct outreach to people he personally knows (pre-existing relationships).
 > **Exemption:** Reg D **Rule 506(b)** — private, **no general solicitation**. See guardrails at bottom.
-> **NOT legal advice — confirm with counsel/WeFunder before sending to a broad list.**
-> Drafted 2026-06-01.
+> **NOT legal advice — confirm with counsel/WeFunder.** Finalized 2026-06-02.
 
 ---
 
-## Subject line (pick one)
+## Subject line
 
-1. `Sharing something with you privately — iNBIO is opening a small investment round`
-2. `A personal note — what I've been building, and a chance to be part of it`
-3. `Wanted you to hear this from me first — iNBIO's private raise`
+`Following up from our conversation — iNBIO's private round`
 
-*(Avoid hype/"invest now"/return claims in the subject — keep it personal, since this is a private
-relationship-based offer, not a public ad.)*
-
----
+*(Use a personal subject. Do NOT use a broadcast-style subject like "Funding opportunity for a
+cleantech company" — it undercuts the private, relationship-based framing when sent to many people.)*
 
 ## Body
 
-Hi [First Name],
+Good to be back in touch. As someone I know and trust, I wanted to share this with you directly:
+**International BioRefineries, LLC** (inbio.net) — our cleantech company converting biomass waste into
+biochar and bio-oil — has opened a **private fundraising round under Regulation D, Rule 506(b)**. This
+round funds our next stage of growth.
 
-I wanted to reach out personally. For the past few years I've been building **International
-BioRefineries (iNBIO)** — we convert biomass waste (forestry and agricultural residues) into
-biochar, bio-oil, and renewable fuels using fast pyrolysis. After a lot of heads-down work, we've
-opened a **private investment round**, and I'm sharing it directly with people I know and trust
-before anything else.
+Because this is a private offering, I'm only sharing it with people I have a relationship with. If
+you'd like to look, the details and offering materials are here (a private link):
 
-This is a private offering under **Regulation D, Rule 506(b)**. It's hosted on WeFunder, where you
-can review the details and the offering materials at your own pace:
+https://wefunder.com/international.biorefineries?invite_token=M9cQci
 
-**[Paste your private WeFunder link here]**
+The round is a convertible note: 7% interest, with a 20% discount on conversion into equity at our
+next qualified financing round.
 
-A few honest notes, because I'd rather you have the full picture:
+Full terms, financials, and risk factors are in the offering documents on that page — please read
+them before deciding anything.
 
-- This is an **early-stage, private, illiquid investment.** It carries real risk, including the
-  possible loss of your entire investment.
-- I'm **not promising any return.** Everything material is in the offering documents — please read
-  them before deciding anything.
-- If this isn't the right fit for you, there's genuinely no pressure. Even a reply with a question or
-  a thought means a lot to me.
+A few honest notes: this is an early-stage, private, illiquid investment that carries real risk,
+including the possible loss of your entire investment. I'm not promising any return, and there's
+genuinely no pressure if it isn't the right fit.
 
-If you'd like to talk it through, just reply and we'll set up a call — I'm answering every message
-personally.
+Happy to walk you through our plans on a call anytime.
 
-Thank you for being someone I can share this with.
+Regards,
 
-Raj Kathuria
-Founder & CEO, International BioRefineries
-Raj@inbio.net
+--
+Raj Kathuria, CEO
+https://www.inbio.net
+International BioRefineries, LLC
+31901 Tri-County Way, Suite 102-B
+Salisbury, MD. 21084
++1 410-750-0263 (Office)
++1 443-739-6077  (Cell)
+(DUNS#: 092617929 & CAGE Code: 8NGM1)
+V-Card
 
----
+*Securities are offered by International BioRefineries, LLC under Rule 506(b) of Regulation D. This
+message is intended only for an individual with whom I have a pre-existing relationship and is not a
+public offer or general solicitation. It is not an offer to sell or a solicitation of an offer to buy
+any security; any offer is made solely through the official offering materials. Investing in
+early-stage companies involves significant risk, including illiquidity and the possible total loss of
+capital. This is not investment advice.*
 
-*This message is intended only for individuals with whom I have a pre-existing, substantive
-relationship and is not a public offer or general solicitation. It is not an offer to sell or a
-solicitation of an offer to buy any security; any offer is made solely through the official offering
-materials. Securities are offered under Rule 506(b) of Regulation D and have not been registered with
-the SEC. Investing in early-stage companies involves significant risk, including illiquidity and the
-possible total loss of capital. This is not investment advice; please consult your own advisors.*
+[Existing confidentiality footer follows — keep as-is.]
 
 ---
 
 ## ⚠️ Compliance guardrails — read before sending (506(b) = NO general solicitation)
 
-506(b) is the **private** Reg D exemption. Unlike 506(c), it **prohibits general solicitation and
-public advertising.** Breaking that rule can blow the exemption for the **entire round** — it's a
-one-way door. So:
+1. **Send ONLY to pre-existing, substantive relationships** — people Raj actually knows. Screen every
+   recipient with `who-can-i-email-checklist.md`. The "someone I know and trust" / "people I have a
+   relationship with" lines in the body MUST be true for each recipient. ❌ No purchased/scraped lists,
+   cold "prospective investors," or publicly-collected newsletter signups.
+2. **Send individually or via BCC** — never a visible group To/CC; don't make it read as a mass blast.
+3. **Keep the WeFunder link private** — confirm with WeFunder the deal page isn't publicly indexed and
+   that each investor completes their own onboarding/qualification through the platform.
+4. **Keep a record** of who was emailed and why each qualifies (the relationship).
+5. **Do NOT post this email, the link, or the offer publicly** (LinkedIn feed, X, forums, the website)
+   and do NOT use LinkedIn InMail / Premium prospecting to reach people outside the network — both are
+   general solicitation, prohibited under 506(b).
 
-1. **Send ONLY to people you actually know** — a pre-existing, substantive relationship (you know
-   enough about them to gauge they could be a fit). ✅ Personal/professional contacts, past
-   colleagues, customers, advisors. ❌ Purchased/scraped lists, cold contacts, "anyone who ever
-   emailed me," strangers.
-2. **Send it privately** — individually, or via **BCC** so it doesn't read as a public blast. Do
-   **not** post this link or this text publicly (no LinkedIn post, no website, no Twitter/X, no
-   forwarding to lists).
-3. **Keep the WeFunder link private** — for a 506(b) raise the offering page should be the private/
-   unlisted link, not a publicly indexed page.
-4. **No projections, no guaranteed/【safe】 language** — let the offering documents carry the numbers.
-5. **Non-accredited investors:** 506(b) technically allows up to 35 non-accredited *sophisticated*
-   investors, **but** if any participate you must give them formal disclosure documents — most issuers
-   restrict 506(b) to **accredited only** to avoid that burden. **Confirm with WeFunder/counsel how
-   your round is set** before non-accredited contacts invest.
-
-**These public marketing assets CANNOT run during the 506(b) round** (they are general solicitation):
-- ❌ `ad-copy.md` — all paid Facebook / Instagram / Google / LinkedIn / Reddit ads
-- ❌ `linkedin-content.md` — the public 20-post raise-announcement series
-- ❌ `pitch-emails.md` press pitches (9–12) that publicly announce the raise
-
-Hold those for the later **506(c) and/or Reg CF** phase, when public solicitation becomes allowed.
+**Off-table for this round (general solicitation):** `ad-copy.md` (paid ads), `linkedin-content.md`
+(public post series), `pitch-emails.md` press pitches #9–12. Shelve until a future Reg CF phase.
