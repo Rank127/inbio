@@ -49,7 +49,7 @@ I welcome the chance to discuss our application further.
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 ---
@@ -83,7 +83,7 @@ I would be glad to share our deck or answer any questions.
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 ---
@@ -114,7 +114,7 @@ We are raising via Reg CF on WeFunder: https://inbio.net/invest. Happy to presen
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 ---
@@ -149,7 +149,7 @@ I would welcome 15 minutes to walk through our model.
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 ---
@@ -181,7 +181,7 @@ We are also raising via Reg CF on WeFunder to complement non-dilutive funding. M
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Salisbury, MD
 Raj@inbio.net | https://inbio.net
 
@@ -214,7 +214,7 @@ We are a Salisbury, MD company and are currently raising via Reg CF on WeFunder.
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Salisbury, MD
 Raj@inbio.net | https://inbio.net
 
@@ -248,7 +248,7 @@ We would also welcome any other opportunities to engage with CEBN's network. Tha
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 ---
@@ -279,7 +279,7 @@ iNBIO is based in Salisbury, MD and is currently raising capital via Reg CF on W
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 ---
@@ -310,7 +310,7 @@ CEO Raj Kathuria is available for an interview. More at https://inbio.net/invest
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net
 
 *Note: This is a press pitch, not an advertisement. Do not include investment solicitation language. The WeFunder link is provided for editorial reference only.*
@@ -345,7 +345,7 @@ CEO Raj Kathuria is available for interview. Background at https://inbio.net.
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net
 
 *Note: Press pitch only. Not an investment solicitation.*
@@ -374,7 +374,7 @@ CEO Raj Kathuria, based in Salisbury, MD, is available for an interview. More at
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net
 
 *Note: Press pitch only. Not an investment solicitation.*
@@ -407,7 +407,7 @@ CEO Raj Kathuria is available for interview. Details at https://inbio.net/invest
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net
 
 *Note: Press pitch only. Not an investment solicitation.*
@@ -473,7 +473,7 @@ I have always valued your perspective, and I appreciate any support you can offe
 
 Thank you,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net/invest
 
 *Investing in startups involves risk, including the possible loss of your entire investment. This email is not an offer to sell securities. The offering is made only through the official offering page on WeFunder.*
@@ -504,7 +504,7 @@ Thank you for your time.
 
 Best regards,
 Raj Kathuria
-CEO, International BioRefineries, Inc.
+CEO, International BioRefineries, LLC
 Raj@inbio.net | https://inbio.net/invest
 
 ---

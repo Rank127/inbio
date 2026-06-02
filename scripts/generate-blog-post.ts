@@ -489,7 +489,7 @@ async function generateWithAI(
 ): Promise<BlogPostData> {
   const apiKey = provider.envKey ? process.env[provider.envKey] ?? "" : "";
 
-  const systemPrompt = `You are a blog content generator for iNBIO (International BioRefineries Inc.), a company that designs and builds modular fast pyrolysis systems that convert waste biomass into bio-oil, biochar, and syngas.
+  const systemPrompt = `You are a blog content generator for iNBIO (International BioRefineries, LLC), a company that designs and builds modular fast pyrolysis systems that convert waste biomass into bio-oil, biochar, and syngas.
 
 The blog is written from the perspective of Raj Kathuria, the founder. The tone is:
 - First-person ("we", "our", "I"), practical, and direct

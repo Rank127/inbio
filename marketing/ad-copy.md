@@ -1,6 +1,6 @@
 # iNBIO Reg CF Crowdfunding Campaign -- Ad Copy
 
-**Company:** International BioRefineries, Inc. (iNBIO) -- Salisbury, MD
+**Company:** International BioRefineries, LLC (iNBIO) -- Salisbury, MD
 **Raise Platform:** WeFunder (Regulation Crowdfunding)
 **WeFunder URL:** https://wefunder.com/investor-warmup
 **Landing Page:** https://inbio.net/invest
@@ -532,8 +532,8 @@ Every advertisement for a Reg CF offering should include or link to the followin
 
 ### For Google Ads (on landing page -- inbio.net/invest):
 
-> *International BioRefineries, Inc. is conducting a Regulation Crowdfunding offering through WeFunder Portal LLC. The SEC does not pass upon the merits of securities offered or the terms of the offering. Investing involves risk, including the possible loss of your entire investment. Past performance is not indicative of future results. This is not investment advice.*
+> *International BioRefineries, LLC is conducting a Regulation Crowdfunding offering through WeFunder Portal LLC. The SEC does not pass upon the merits of securities offered or the terms of the offering. Investing involves risk, including the possible loss of your entire investment. Past performance is not indicative of future results. This is not investment advice.*
 
 ### For Email Campaigns (footer of every email):
 
-> *International BioRefineries, Inc. ("iNBIO") is conducting a securities offering pursuant to Regulation Crowdfunding (Reg CF) through WeFunder Portal LLC, a FINRA-registered funding portal. This email is not an offer to sell or solicitation to buy securities. All investment decisions should be based on the offering materials available at https://wefunder.com/investor-warmup. Investing in startups and early-stage companies involves significant risk, including illiquidity and the potential total loss of invested capital. This is not investment advice. Please consult a qualified financial advisor before investing.*
+> *International BioRefineries, LLC ("iNBIO") is conducting a securities offering pursuant to Regulation Crowdfunding (Reg CF) through WeFunder Portal LLC, a FINRA-registered funding portal. This email is not an offer to sell or solicitation to buy securities. All investment decisions should be based on the offering materials available at https://wefunder.com/investor-warmup. Investing in startups and early-stage companies involves significant risk, including illiquidity and the potential total loss of invested capital. This is not investment advice. Please consult a qualified financial advisor before investing.*

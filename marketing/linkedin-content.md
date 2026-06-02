@@ -3,7 +3,7 @@
 
 **Campaign Duration:** 4 weeks (20 posts, 5 per week)
 **Platform:** LinkedIn
-**Author:** Raj Kathuria, CEO of International BioRefineries, Inc. (iNBIO)
+**Author:** Raj Kathuria, CEO of International BioRefineries, LLC (iNBIO)
 
 > **Compliance Note:** All posts avoid guaranteed returns, hype language, and forward-looking financial promises. Language is kept factual and educational. Always include the WeFunder or invest page link in the FIRST COMMENT, not in the post body, to avoid LinkedIn suppressing reach.
 

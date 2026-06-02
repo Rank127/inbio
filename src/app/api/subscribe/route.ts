@@ -68,7 +68,7 @@ async function sendWelcomeEmail(
         </p>
       </div>
       <div style="background:#F5F5F5;padding:20px 24px;font-size:12px;color:#9E9E9E;text-align:center">
-        <p style="margin:0">International BioRefineries, Inc. | 31901 Tri-County Way, Suite 102B | Salisbury, MD 21804</p>
+        <p style="margin:0">International BioRefineries, LLC | 31901 Tri-County Way, Suite 102B | Salisbury, MD 21804</p>
         <p style="margin:8px 0 0"><a href="{{unsubscribe_url}}" style="color:#9E9E9E">Unsubscribe</a></p>
       </div>
     </div>

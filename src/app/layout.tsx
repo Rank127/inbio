@@ -60,7 +60,7 @@ export default function RootLayout({
           data={{
             "@context": "https://schema.org",
             "@type": "Organization",
-            name: "International BioRefineries, Inc.",
+            name: "International BioRefineries, LLC",
             alternateName: "iNBIO",
             url: "https://inbio.net",
             email: "Raj@inbio.net",

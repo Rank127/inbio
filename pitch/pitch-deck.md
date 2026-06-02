@@ -1,6 +1,6 @@
 # iNBIO — Reg D 506(c) Investor Pitch Deck
 
-**International BioRefineries, Inc.**
+**International BioRefineries, LLC**
 Raising $3M under Regulation D 506(c) — Accredited Investors Only
 Draft v1 — 2026-04-24
 

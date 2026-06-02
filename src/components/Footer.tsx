@@ -38,7 +38,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">iNBIO</h3>
             <p className="text-sm text-white/80 mb-4">
-              International BioRefineries, Inc.
+              International BioRefineries, LLC
             </p>
             <address className="text-sm text-white/70 not-italic leading-relaxed">
               31901 Tri-County Way
@@ -88,7 +88,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/20 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/50">
-            &copy; {new Date().getFullYear()} International BioRefineries, Inc. All rights reserved.
+            &copy; {new Date().getFullYear()} International BioRefineries, LLC. All rights reserved.
           </p>
           <p className="text-xs text-white/50">
             Converting biomass waste into clean energy &amp; carbon-negative materials.

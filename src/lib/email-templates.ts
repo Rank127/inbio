@@ -82,7 +82,7 @@ function wrapLayout(bodyContent: string): string {
         <!-- Footer -->
         <tr>
           <td style="background-color:${BG_LIGHT};padding:24px 32px;border-top:1px solid ${BORDER};text-align:center;font-size:12px;color:${TEXT_SECONDARY};line-height:1.6;">
-            <p style="margin:0 0 8px;">International BioRefineries, Inc. | 31901 Tri-County Way, Suite 102B | Salisbury, MD 21804</p>
+            <p style="margin:0 0 8px;">International BioRefineries, LLC | 31901 Tri-County Way, Suite 102B | Salisbury, MD 21804</p>
             <p style="margin:0 0 8px;">
               <a href="${WEBSITE_URL}" style="color:${GREEN_LIGHT};text-decoration:underline;">inbio.net</a>
             </p>
