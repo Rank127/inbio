@@ -69,7 +69,7 @@ const PROVIDERS: Record<ProviderName, ProviderConfig> = {
     name: "Anthropic Claude",
     envKey: "ANTHROPIC_API_KEY",
     endpoint: "https://api.anthropic.com/v1/messages",
-    model: "claude-sonnet-4-20250514",
+    model: "claude-sonnet-4-6",
     costPerPost: "~$0.02",
     freeTier: false,
     buildRequest: (sys, user, key) => ({
@@ -82,8 +82,8 @@ const PROVIDERS: Record<ProviderName, ProviderConfig> = {
           "anthropic-version": "2023-06-01",
         },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
-          max_tokens: 4096,
+          model: "claude-sonnet-4-6",
+          max_tokens: 8192,
           system: sys,
           messages: [{ role: "user", content: user }],
         }),

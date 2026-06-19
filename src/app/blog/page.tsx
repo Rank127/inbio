@@ -10,6 +10,15 @@ export const metadata: Metadata = {
 
 const blogPosts = [
   {
+    slug: "biochar-market-growth-2026",
+    title:
+      "Biochar Market Growth in 2026: What the Numbers Actually Mean",
+    excerpt:
+      "The biochar market is projected to cross $1.3 billion globally in 2026 — but the headline number hides a lot of nuance. Here&apos;s what&apos;s actually driving demand, which applications are paying premium prices, and where we see the real opportunity for producers.",
+    date: "2026-06-18",
+    category: "Business",
+  },
+    {
     slug: "biochar-in-concrete",
     title:
       "Holcim Just Proved Biochar Concrete Works at Scale — Here's What It Means",
