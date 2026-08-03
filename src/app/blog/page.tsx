@@ -10,6 +10,16 @@ export const metadata: Metadata = {
 
 const blogPosts = [
   {
+    slug: "modular-pyrolysis-systems",
+    title: "Why We Build Pyrolysis Plants in Shipping Containers",
+    excerpt:
+      "A stick-built pyrolysis plant takes two to three years to go from a signed contract to a running reactor. Our containerized systems ship in a fraction of that time &mdash; here&apos;s why we build in 40-foot modules and where it pays off.",
+    date: "2026-08-03",
+    category: "Technology",
+    image: "/images/iStock-1185246772-768x512.jpg",
+    imageAlt: "Modular containerized fast pyrolysis system in a 40-foot shipping container",
+  },
+  {
     slug: "biochar-market-growth-2026",
     title:
       "Biochar Market Growth in 2026: What the Numbers Actually Mean",
@@ -17,6 +27,8 @@ const blogPosts = [
       "The biochar market is projected to cross $1.3 billion globally in 2026 — but the headline number hides a lot of nuance. Here&apos;s what&apos;s actually driving demand, which applications are paying premium prices, and where we see the real opportunity for producers.",
     date: "2026-06-18",
     category: "Business",
+    image: "/images/iStock-1312764772-1-768x400.jpg",
+    imageAlt: "Biochar market growth and demand trends in 2026",
   },
     {
     slug: "biochar-in-concrete",
