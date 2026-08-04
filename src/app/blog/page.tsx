@@ -14,6 +14,16 @@ export const revalidate = 300;
 
 const blogPosts = [
   {
+    slug: "biochar-environmental-remediation",
+    title: "Biochar for Environmental Remediation: What Actually Works",
+    excerpt:
+      "Biochar doesn&apos;t destroy contaminants &mdash; it binds them in place. That distinction is everything. Here&apos;s where biochar remediation genuinely works on heavy metals and water, where it doesn&apos;t, and why the specific biochar matters.",
+    date: "2026-08-04",
+    category: "Technology",
+    image: "/images/iStock-671710122-768x509.jpg",
+    imageAlt: "Biochar applied to soil for environmental remediation of contaminants",
+  },
+  {
     slug: "choosing-feedstock-pyrolysis",
     title: "How to Choose a Feedstock for Your Pyrolysis Plant",
     excerpt:
