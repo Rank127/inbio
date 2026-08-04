@@ -14,6 +14,16 @@ export const revalidate = 300;
 
 const blogPosts = [
   {
+    slug: "choosing-feedstock-pyrolysis",
+    title: "How to Choose a Feedstock for Your Pyrolysis Plant",
+    excerpt:
+      "Almost every failed pyrolysis project fails for the same reason: the feedstock. Here&apos;s how we score a feedstock across moisture, particle size, ash, contamination, supply reliability, and cost &mdash; before anyone sizes a reactor.",
+    date: "2026-08-04",
+    category: "Technology",
+    image: "/images/photo-1553621070-ef4cd7347074-768x327.jpg",
+    imageAlt: "Biomass feedstock being prepared for fast pyrolysis conversion",
+  },
+  {
     slug: "modular-pyrolysis-systems",
     title: "Why We Build Pyrolysis Plants in Shipping Containers",
     excerpt:
