@@ -8,6 +8,10 @@ export const metadata: Metadata = {
     "Read the latest articles on fast pyrolysis, biochar science, biofuel innovation, and sustainable biomass energy from International BioRefineries experts.",
 };
 
+// Revalidate the blog index every 5 minutes so newly published posts appear
+// without a manual CDN purge (previously emitted a 1-year s-maxage cache header).
+export const revalidate = 300;
+
 const blogPosts = [
   {
     slug: "modular-pyrolysis-systems",
