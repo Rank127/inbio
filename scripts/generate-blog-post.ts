@@ -573,11 +573,74 @@ Important:
 // File generation — create the Next.js page.tsx
 // ---------------------------------------------------------------------------
 
+// Curated featured-image pool. Each entry pairs a listing-card crop (~768w)
+// with a full-width detail crop (scaled). Alts describe the actual image so
+// they stay accurate regardless of post topic — review/swap in the generated
+// files if a more specific image fits the post better.
+const IMAGE_POOL: { listing: string; scaled: string; alt: string }[] = [
+  {
+    listing: "/images/iStock-1185246772-768x512.jpg",
+    scaled: "/images/iStock-1185246772-scaled.jpg",
+    alt: "Industrial biomass processing facility",
+  },
+  {
+    listing: "/images/iStock-1312764772-1-768x400.jpg",
+    scaled: "/images/iStock-1312764772-1-scaled.jpg",
+    alt: "Sustainable plant growth representing carbon sequestration",
+  },
+  {
+    listing: "/images/iStock-1312764772-2-768x400.jpg",
+    scaled: "/images/iStock-1312764772-2-scaled.jpg",
+    alt: "Renewable biomass energy technology",
+  },
+  {
+    listing: "/images/iStock-1345835865-1-768x409.jpg",
+    scaled: "/images/iStock-1345835865-1-scaled.jpg",
+    alt: "Biofuel refined from biomass through pyrolysis",
+  },
+  {
+    listing: "/images/iStock-671710122-768x509.jpg",
+    scaled: "/images/iStock-671710122-scaled.jpg",
+    alt: "Biochar-enriched soil supporting plant growth",
+  },
+  {
+    listing: "/images/iStock-1063777306-1-768x512.jpg",
+    scaled: "/images/iStock-1063777306-1-scaled.jpg",
+    alt: "Biochar production and market analysis",
+  },
+  {
+    listing: "/images/iStock-1180272394-768x576.jpg",
+    scaled: "/images/iStock-1180272394-scaled.jpg",
+    alt: "Sustainable agriculture and soil amendment",
+  },
+  {
+    listing: "/images/iStock-482901353-768x511.jpg",
+    scaled: "/images/iStock-482901353-scaled.jpg",
+    alt: "Biomass feedstock and organic waste ready for conversion",
+  },
+  {
+    listing: "/images/photo-1553621070-ef4cd7347074-768x327.jpg",
+    scaled: "/images/photo-1553621070-ef4cd7347074-scaled.jpg",
+    alt: "Biomass converted to biochar through fast pyrolysis",
+  },
+];
+
+// Deterministically pick a pool image from the slug, so the listing card and
+// the detail-page featured image always resolve to the same file.
+function pickImage(slug: string): { listing: string; scaled: string; alt: string } {
+  let hash = 0;
+  for (let i = 0; i < slug.length; i++) {
+    hash = (hash * 31 + slug.charCodeAt(i)) >>> 0;
+  }
+  return IMAGE_POOL[hash % IMAGE_POOL.length];
+}
+
 function buildPageContent(
   post: BlogPostData,
   relatedPosts: { slug: string; title: string; category: string }[]
 ): string {
   const dateFormatted = formatDateHuman(post.date);
+  const img = pickImage(post.slug);
 
   const sectionsJSX = post.sections
     .map((section) => {
@@ -627,6 +690,7 @@ ${paragraphs}`;
       .join("");
 
   return `import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -672,8 +736,16 @@ export default function ${funcName}() {
       {/* Article */}
       <article className="py-12 sm:py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="mb-10 rounded-xl bg-surface-dark border border-border h-64 sm:h-80 flex items-center justify-center">
-            <p className="text-text-lighter text-sm">Featured image: ${post.title}</p>
+          {/* Featured image */}
+          <div className="mb-10 rounded-xl overflow-hidden">
+            <Image
+              src="${img.scaled}"
+              alt="${img.alt}"
+              width={1200}
+              height={630}
+              className="w-full h-auto object-cover rounded-xl"
+              priority
+            />
           </div>
 
           <div className="prose prose-lg max-w-none">
@@ -718,6 +790,7 @@ ${relatedPostsJSX}
 function addPostToIndex(post: BlogPostData): void {
   let src = fs.readFileSync(BLOG_INDEX_FILE, "utf-8");
 
+  const img = pickImage(post.slug);
   const newEntry = `  {
     slug: "${post.slug}",
     title:
@@ -726,6 +799,8 @@ function addPostToIndex(post: BlogPostData): void {
       "${post.excerpt}",
     date: "${post.date}",
     category: "${post.category}",
+    image: "${img.listing}",
+    imageAlt: "${img.alt}",
   },\n  `;
 
   const insertPoint = "const blogPosts = [\n";
