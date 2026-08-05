@@ -16,6 +16,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// Site-wide ISR: re-generate every page on a 5-minute window instead of
+// caching prerendered HTML for a year. Without this, Hostinger's HCDN edge
+// pins static pages with s-maxage=31536000 and shared Header/Footer changes
+// (e.g. adding a nav link) never appear until a manual CDN purge.
+export const revalidate = 300;
+
 export const metadata: Metadata = {
   title: {
     default: "Biomass to Energy via Fast Pyrolysis | iNBIO",
