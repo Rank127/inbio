@@ -22,16 +22,239 @@ type NewsItem = {
   title: string;
   summary: string;
   category: string;
+  region?: string;
   sources: NewsSource[];
   related?: { label: string; href: string };
 };
 
 type NewsDigest = {
   date: string; // ISO yyyy-mm-dd
+  title?: string;
   items: NewsItem[];
 };
 
 const digests: NewsDigest[] = [
+  {
+    date: "2026-08-05",
+    title: "Global Funding & Investment",
+    items: [
+      {
+        title: "India's Varaha Raises $20M to Scale Carbon Removal",
+        category: "Funding",
+        region: "India",
+        summary:
+          "Carbon-removal developer Varaha secured $20 million as the first tranche of a $45M Series B led by WestBridge Capital, funding measurement, R&D, and international expansion. Varaha runs biochar, afforestation, regenerative-agriculture, and enhanced-rock-weathering projects and holds offtake agreements with Microsoft, Google, and Lufthansa — following a $30M Mirova investment in late 2025.",
+        sources: [
+          {
+            name: "TechCrunch",
+            url: "https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/",
+          },
+          {
+            name: "ESG Today",
+            url: "https://www.esgtoday.com/carbon-removal-project-developer-varaha-raises-20-million/",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+      {
+        title:
+          "ProClime & Japan's Cadira to Mobilize $10M for Seven Indian Biochar Plants",
+        category: "Project Finance",
+        region: "India",
+        summary:
+          "India-based developer ProClime signed an MoU with Japan's Cadira Capital Management to mobilize an initial $10 million to build seven biochar facilities across six Indian states, converting invasive-species, agri-residue, and forest waste into carbon-removal credits, soil-amendment biochar, and bio-oil. The plants are projected to generate roughly 35,000 CDR credits annually, certified under Puro.earth and Isometric.",
+        sources: [
+          {
+            name: "Carbon Herald",
+            url: "https://carbonherald.com/proclime-and-cadira-to-mobilize-global-investment-into-india-based-biochar/",
+          },
+          {
+            name: "ANI News",
+            url: "https://aninews.in/news/business/proclime-and-cadira-partner-on-india-biochar-carbon-removal20260803182617/",
+          },
+        ],
+        related: {
+          label: "Build + Operate a Plant",
+          href: "/build-operate-plant",
+        },
+      },
+      {
+        title:
+          "Equilibrium & Altitude Sign 180,000-Tonne Biochar Removal Deal in India",
+        category: "Offtake",
+        region: "India",
+        summary:
+          "India-based developer Equilibrium and Swiss financier Altitude signed an eight-year offtake for roughly 180,000 tonnes of biochar carbon removal, reported at about $25 million. The agreement funds scaling of Equilibrium's Maharashtra production from ~15,000 to ~22,500 tCO₂e per year — a clear example of long-term demand underwriting new Indian plant construction.",
+        sources: [
+          {
+            name: "EnkiAI",
+            url: "https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+      {
+        title:
+          "Japan's Green Carbon Nears First Isometric-Certified Credits from Indian Plants",
+        category: "Offtake",
+        region: "India",
+        summary:
+          "Japan's Green Carbon passed an Isometric audit for its Kapadvanj (Gujarat) industrial biochar facility — a first for a Japanese company — advancing toward credit issuance in August 2026. Four Indian plants, run with partners The Varhad Group and Excellent Enfab, are expected to supply roughly 300,000 tonnes of high-quality CDR credits over ten years.",
+        sources: [
+          {
+            name: "Green Carbon, Inc.",
+            url: "https://green-carbon.co.jp/en/engreencarbon-isometric/",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+      {
+        title: "EIB & Eni Sign €500M to Convert Sannazzaro Refinery into a Biorefinery",
+        category: "Project Finance",
+        region: "Italy / EU",
+        summary:
+          "The European Investment Bank and Eni signed a 15-year, €500 million loan to convert units of Eni's Sannazzaro refinery into a biorefinery using Ecofining technology, plus a pre-treatment plant for used cooking oils, animal fats, and agri-food waste. From 2028 it will produce roughly 550,000 tonnes a year of HVO diesel and SAF biojet — the second such EIB–Eni deal after a €500M Livorno agreement in 2025.",
+        sources: [
+          {
+            name: "Eni",
+            url: "https://www.eni.com/en-IT/media/press-release/2026/04/eib-eni-sign--500-million-financing-for-biorefinery-sannazzaro-burgondi.html",
+          },
+          {
+            name: "Biodiesel Magazine",
+            url: "https://biodieselmagazine.com/articles/eib-and-eni-sign-500-million-in-financing-for-new-biorefinery-in-sannazzaro-de-burgondi",
+          },
+        ],
+        related: { label: "Biofuel Applications", href: "/biofuel-applications" },
+      },
+      {
+        title: "Exomad Green & Senken Sign 105,000-Tonne Biochar Removal Deal for Aviation",
+        category: "Offtake",
+        region: "Bolivia",
+        summary:
+          "Bolivia-based Exomad Green — one of the world's largest durable-CDR suppliers — agreed to deliver 105,000 tonnes of permanent biochar carbon removal to Berlin's Senken over 2026–2028, targeting aviation buyers and bringing the two firms' total contracted volume to nearly $30 million. Exomad expects to deliver roughly 300,000 tonnes of CO₂ removal in 2026.",
+        sources: [
+          {
+            name: "ESG Today",
+            url: "https://www.esgtoday.com/exomad-green-senken-sign-105000-tonne-carbon-removal-agreement-to-target-aviation-sector/",
+          },
+          {
+            name: "Decarbonfuse",
+            url: "https://decarbonfuse.com/posts/exomad-green-and-senken-partner-on-105-000-tonne-biochar-carbon-removal-deal-for-aviation",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+      {
+        title: "CHAR Technologies to Acquire Québec Biocarbon Assets",
+        category: "M&A",
+        region: "Canada",
+        summary:
+          "Canadian biocarbon firm CHAR Technologies announced a planned acquisition of biocarbon production assets in Québec — a facility, IP, and a 62,500-tonne offtake — to expand its high-temperature pyrolysis biochar and biocoal-pellet business, part of a broader consolidation wave among North American biochar producers.",
+        sources: [
+          {
+            name: "ACCESS Newswire",
+            url: "https://www.accessnewswire.com/newsroom/en/metals-and-mining/char-tech-announces-planned-acquisition-of-biocarbon-assets-in-québec-including-6-1158238",
+          },
+        ],
+        related: { label: "OEM Equipment", href: "/oem-equipment" },
+      },
+      {
+        title: "BioCarbon Australia Wins AU$4.8M ARENA Grant for First Commercial Plant",
+        category: "Grant/Policy",
+        region: "Australia",
+        summary:
+          "BioCarbon Australia secured AU$4.8 million from the Australian Renewable Energy Agency (ARENA) to move from pilot to commercial scale at Bulahdelah, NSW, producing biochar for steelmaking after successful 3,000-tonne steel trials.",
+        sources: [
+          {
+            name: "Bioenergy International",
+            url: "https://bioenergyinternational.com/biocarbon-secures-au4-8m-arena-support-for-first-commercial-biochar-project/",
+          },
+        ],
+        related: { label: "Biochar Applications", href: "/biochar-applications" },
+      },
+      {
+        title: "Edinburgh's Carbogenics Closes $3M Investment-Plus-Grant Round",
+        category: "Funding",
+        region: "United Kingdom",
+        summary:
+          "Carbogenics raised $3 million in combined equity and grant funding to scale its CreChar biochar product and expand into the US and UK. Backers included Dangerous Ventures, Green Angel Ventures, Scottish Enterprise, and the University of Edinburgh's venture fund, with grants from Innovate UK and New Mexico state bodies.",
+        sources: [
+          {
+            name: "Bioenergy News",
+            url: "https://www.bioenergy-news.com/news/edinburgh-biochar-firm-carbogenics-secures-3-million-to-scale-carbon-removal-technology/",
+          },
+        ],
+        related: { label: "Biochar", href: "/biochar" },
+      },
+      {
+        title: "Oikocredit Lends NetZero $2.5M for Brazil Biochar Expansion",
+        category: "Project Finance",
+        region: "Brazil",
+        summary:
+          "Impact investor Oikocredit made a first disbursement of $2.5 million to biochar producer NetZero to scale mid-size production in rural Brazil, which dominates Latin American biochar volume aided by its Bio-Inputs Law incentives. NetZero previously raised roughly $19.5M from STOA in 2024.",
+        sources: [
+          {
+            name: "Oikocredit",
+            url: "https://www.oikocredit.org/news/oikocredit-partners-with-biochar-producer-netzero-to-scale-operations-in-brazil/",
+          },
+          {
+            name: "QCIntel",
+            url: "https://www.qcintel.com/carbon/article/non-profit-to-lend-netzero-2-5m-for-brazil-biochar-projects-25397.html",
+          },
+        ],
+        related: {
+          label: "Build + Operate a Plant",
+          href: "/build-operate-plant",
+        },
+      },
+      {
+        title: "Uganda Launches $12M 'Nile Char' — Africa's First Industrial Biochar Plant",
+        category: "Project Finance",
+        region: "Uganda",
+        summary:
+          "A $12 million project is backing Africa's first large-scale industrial biochar carbon-removal and biochar-fertilizer facility, funded by Stack Carbon Investments (Uganda), Jiaxing Tongao (China), TerraCapX (Norway), and Greenchar Climate Solutions (Singapore). Capacity is about 30 tonnes of biochar per day, processing roughly 10 million tonnes of agri-waste over 20 years. Operations are targeted for Q3 2026.",
+        sources: [
+          {
+            name: "Nordic Climate Finance Summit",
+            url: "https://www.ncfsummit.com/news/uganda-to-launch-first-ever-industrial-biochar-carbon-removal-and-biochar-based-fertilizer-production-project",
+          },
+        ],
+        related: { label: "Build + Operate a Plant", href: "/build-operate-plant" },
+      },
+      {
+        title: "Canada Commits C$7M to Greater Victoria Biochar Project",
+        category: "Grant/Policy",
+        region: "Canada",
+        summary:
+          "The Capital Regional District received C$7 million from a federal infrastructure fund to introduce biochar/carbonization technology — proposed for the Hartland Landfill — converting biosolids into stable, carbon-sequestering biochar. Detailed plans and proponent selection go to the board in 2027.",
+        sources: [
+          {
+            name: "Victoria News",
+            url: "https://vicnews.com/2026/07/30/feds-announce-7m-in-funding-for-biochar-project-in-greater-victoria/",
+          },
+        ],
+        related: { label: "Biochar Applications", href: "/biochar-applications" },
+      },
+      {
+        title: "EU Adopts First CRCF Biochar Certification Methodology",
+        category: "Grant/Policy",
+        region: "European Union",
+        summary:
+          "The European Commission adopted the first delegated act under the Carbon Removal Certification Framework (CRCF), establishing methodologies for permanent removals including biochar carbon capture. Commission analysis estimates €2.4–6.7 billion in purchases may be needed over 2025–2030 to hit a 5 Mt/yr industrial-removals target, with the first CRCF units expected in late 2026/2027 — a major demand signal for biochar financing.",
+        sources: [
+          {
+            name: "European Commission",
+            url: "https://climate.ec.europa.eu/news-other-reads/news/eu-sets-worlds-first-voluntary-standard-permanent-carbon-removals-2026-02-03_en",
+          },
+          {
+            name: "Carbon Credits",
+            url: "https://carboncredits.com/eu-sets-global-benchmark-for-permanent-carbon-removals-and-carbon-farming/",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+    ],
+  },
   {
     date: "2026-04-07",
     items: [
@@ -188,6 +411,11 @@ const categoryColors: Record<string, string> = {
   Policy: "bg-accent/10 text-accent",
   Stormwater: "bg-primary/10 text-primary",
   Biofuels: "bg-accent/10 text-accent",
+  Funding: "bg-accent/10 text-accent",
+  "Project Finance": "bg-accent/10 text-accent",
+  Offtake: "bg-primary/10 text-primary",
+  "M&A": "bg-primary/10 text-primary",
+  "Grant/Policy": "bg-accent/10 text-accent",
 };
 
 function formatDate(dateStr: string) {
@@ -217,9 +445,10 @@ export default function NewsPage() {
               <span className="text-accent-light">Biochar &amp; Pyrolysis</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-white/85 max-w-2xl leading-relaxed">
-              A curated read on the developments that actually matter across the
-              biochar, carbon credit, and biomass energy markets — with sources,
-              so you can dig in yourself.
+              A curated read on the funding, deals, and developments that
+              actually matter across the global biochar, carbon credit, and
+              biomass energy markets — from India to the EU to the Americas,
+              with sources so you can dig in yourself.
             </p>
             {latest && (
               <p className="mt-4 text-sm text-white/60">
@@ -237,7 +466,7 @@ export default function NewsPage() {
             <div key={digest.date} className="mb-16 last:mb-0">
               <div className="flex items-center gap-4 mb-8">
                 <h2 className="text-2xl sm:text-3xl font-bold text-text">
-                  News Digest
+                  {digest.title ?? "News Digest"}
                 </h2>
                 <span className="text-sm font-medium text-text-lighter">
                   <time dateTime={digest.date}>{formatDate(digest.date)}</time>
@@ -250,7 +479,7 @@ export default function NewsPage() {
                     key={item.title}
                     className="flex flex-col bg-surface rounded-xl border border-border p-6 hover:shadow-lg transition-shadow"
                   >
-                    <div className="mb-3">
+                    <div className="mb-3 flex flex-wrap items-center gap-2">
                       <span
                         className={`inline-block px-3 py-1 text-xs font-semibold rounded-full ${
                           categoryColors[item.category] ||
@@ -259,6 +488,31 @@ export default function NewsPage() {
                       >
                         {item.category}
                       </span>
+                      {item.region && (
+                        <span className="inline-flex items-center gap-1 px-3 py-1 text-xs font-semibold rounded-full bg-border/60 text-text-light">
+                          <svg
+                            className="w-3 h-3"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                            aria-hidden="true"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M17.657 16.657L13.414 20.9a2 2 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                            />
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                            />
+                          </svg>
+                          {item.region}
+                        </span>
+                      )}
                     </div>
 
                     <h3 className="text-lg font-bold text-text leading-snug">
