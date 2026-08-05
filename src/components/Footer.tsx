@@ -24,6 +24,7 @@ const footerSections = [
     links: [
       { label: "About iNBIO", href: "/about" },
       { label: "Blog", href: "/blog" },
+      { label: "News", href: "/news" },
       { label: "Contact", href: "/contact" },
     ],
   },

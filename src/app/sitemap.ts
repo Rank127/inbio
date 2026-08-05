@@ -96,6 +96,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
 
+    // News index
+    {
+      url: `${BASE_URL}/news`,
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
+
     // Quote / intake forms
     {
       url: `${BASE_URL}/quote-products`,
