@@ -14,6 +14,28 @@ export const revalidate = 300;
 
 const blogPosts = [
   {
+    slug: "how-biochar-plants-get-financed",
+    title:
+      "How Biochar Plants Get Financed in 2026: The Offtake-First Playbook",
+    excerpt:
+      "In 2026, biochar plants get built offtake-first — a long-term carbon-removal purchase agreement underwrites construction, the way Equilibrium's ~$25M, 180,000-tonne deal with Altitude did. Here's how the model works and how we help a company go from idea to a financed, running plant.",
+    date: "2026-08-05",
+    category: "Business",
+    image: "/images/iStock-1180272394-768x576.jpg",
+    imageAlt: "Financing a new biochar and pyrolysis plant",
+  },
+  {
+    slug: "india-biochar-funding-wave",
+    title:
+      "India's Biochar Boom Is a Blueprint: What the 2026 Funding Wave Means for Producers Everywhere",
+    excerpt:
+      "Capital is pouring into Indian biochar in 2026 — Varaha's $20M raise, ProClime and Cadira's seven-plant push, and more. But the demand tailwinds are global. Here's what's driving it and how a company anywhere can build capacity and monetize output to ride the same wave.",
+    date: "2026-08-05",
+    category: "Business",
+    image: "/images/iStock-482901353-768x511.jpg",
+    imageAlt: "Global biochar market growth and production",
+  },
+  {
     slug: "biochar-environmental-remediation",
     title: "Biochar for Environmental Remediation: What Actually Works",
     excerpt:
