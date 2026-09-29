@@ -89,7 +89,15 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/20 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/50">
-            &copy; {new Date().getFullYear()} International BioRefineries, LLC. All rights reserved.
+            &copy; {new Date().getFullYear()} International BioRefineries, LLC. All rights reserved. ·{" "}
+            <a
+              href="https://rank1its.com"
+              target="_blank"
+              rel="noopener"
+              className="underline hover:text-accent-light transition-colors"
+            >
+              Built by Rank1 ITS
+            </a>
           </p>
           <p className="text-xs text-white/50">
             Converting biomass waste into clean energy &amp; carbon-negative materials.
