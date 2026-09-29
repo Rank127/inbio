@@ -40,3 +40,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# DNS zone exports (contain DKIM keys / mail config — keep out of the repo)
+inbio.net.txt
+*.zone
