@@ -14,6 +14,28 @@ export const revalidate = 300;
 
 const blogPosts = [
   {
+    slug: "biochar-as-a-service",
+    title:
+      "Biochar-as-a-Service: The Model Behind 2026's Newest Funding Rounds",
+    excerpt:
+      "September 2026's biochar raises — BIG's $1.5M pre-seed and PyroCCS's growth round — share one bet: put the pyrolysis plant where the biomass already is, and run it as a service. Here's why co-located, modular production is winning, and how any operation with a waste stream can use it.",
+    date: "2026-09-29",
+    category: "Business",
+    image: "/images/iStock-1185246772-768x512.jpg",
+    imageAlt: "Modular containerized pyrolysis system deployed at a processing site",
+  },
+  {
+    slug: "durable-cdr-price-floor",
+    title:
+      "Durable Carbon Removal Just Found a Price Floor — What It Means for New Producers",
+    excerpt:
+      "Durable CDR prices have stabilized near $150/tonne while 500,000-tonne biochar offtakes land through 2028. A firmer floor plus multi-year demand is exactly what makes new plant construction bankable — here's the read for producers weighing a build.",
+    date: "2026-09-29",
+    category: "Carbon Markets",
+    image: "/images/iStock-1312764772-1-768x400.jpg",
+    imageAlt: "Durable carbon removal market pricing and demand trends in 2026",
+  },
+  {
     slug: "how-biochar-plants-get-financed",
     title:
       "How Biochar Plants Get Financed in 2026: The Offtake-First Playbook",

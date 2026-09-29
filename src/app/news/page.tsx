@@ -35,6 +35,130 @@ type NewsDigest = {
 
 const digests: NewsDigest[] = [
   {
+    date: "2026-09-29",
+    title: "Funding Rounds, Mega-Offtakes & Market Signals",
+    items: [
+      {
+        title:
+          "Biochar Industrial Group Raises $1.5M to Put Pyrolysis Inside the Factory",
+        category: "Funding",
+        region: "Sub-Saharan Africa",
+        summary:
+          "Africa-focused developer Biochar Industrial Group (BIG) closed a $1.5 million pre-seed round to scale a factory-integrated model: co-locating modular biochar units inside food-processing plants so agricultural residue is converted on-site — cutting transport and supply-chain risk while generating durable carbon-removal credits. It's a compact template for building capacity right where the feedstock already is.",
+        sources: [
+          {
+            name: "Biochar Today",
+            url: "https://biochartoday.com/news/biochar-industrial-group-secures-1-5m-pre-seed-funding-to-expand-factory-integrated-carbon-removal-in-sub-saharan-africa/",
+          },
+          {
+            name: "Carbon Herald",
+            url: "https://carbonherald.com/biochar-industrial-group-to-scale-biochar-as-a-service-with-new-1-5m-funding/",
+          },
+          {
+            name: "BusinessDay",
+            url: "https://businessday.ng/news/article/biochar-industrial-secures-1-5m-pre-seed-to-scale-africas-industrial-carbon-removal/",
+          },
+        ],
+        related: { label: "Build + Operate a Plant", href: "/build-operate-plant" },
+      },
+      {
+        title:
+          "Germany's PyroCCS Secures Growth Funding for Modular Pyrolysis Across the Global South",
+        category: "Funding",
+        region: "Germany / Global South",
+        summary:
+          "PyroCCS GmbH closed its first external funding round to manufacture and deploy its modular Gravity Series pyrolysis units and expand industrial biocarbon, biofuel, and carbon-removal projects in Namibia, India, and across sub-Saharan Africa and Asia. The modular design is built for rapid field assembly near biomass sources to cut raw-material transport costs — the same logic that drives containerized systems.",
+        sources: [
+          {
+            name: "Biochar Today",
+            url: "https://biochartoday.com/news/pyroccs-secures-growth-funding-to-scale-pyrolysis-infrastructure-and-industrial-bioproduct-offtake-globally/",
+          },
+          {
+            name: "Carbon Herald",
+            url: "https://carbonherald.com/pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain/",
+          },
+        ],
+        related: { label: "Modular Systems", href: "/modular-systems" },
+      },
+      {
+        title:
+          "Exomad Green & Supercritical Ink Up to 500,000-Tonne Biochar Removal Deal Through 2028",
+        category: "Offtake",
+        region: "Bolivia",
+        summary:
+          "Bolivia's Exomad Green — among the world's largest durable-CDR suppliers — signed a three-year agreement with London marketplace Supercritical for up to 500,000 tonnes of Puro.earth-certified biochar carbon removal, locking in the rest of Exomad's 2026 inventory plus forward allocations through 2028. Exomad has produced more than 320,000 tonnes of CDR to date and has a third Bolivian facility under construction.",
+        sources: [
+          {
+            name: "ESG Today",
+            url: "https://www.esgtoday.com/exomad-green-supercritical-sign-500000-ton-biochar-carbon-removal-agreement/",
+          },
+          {
+            name: "Carbon Herald",
+            url: "https://carbonherald.com/exomad-green-and-supercritical-ink-a-major-new-deal-for-up-to-500000-tonnes-of-biochar-cdr/",
+          },
+          {
+            name: "Biochar Today",
+            url: "https://biochartoday.com/news/exomad-green-and-supercritical-secure-500000-tonne-biochar-offtake-agreement-through-2028/",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+      {
+        title:
+          "Boeing Buys a 20,000-Tonne Biochar + Enhanced-Weathering Removal Portfolio",
+        category: "Offtake",
+        region: "Global",
+        summary:
+          "Boeing, working with Supercritical, purchased 20,000 tonnes of durable carbon removal from six suppliers — Exomad Green, Ground Up, InPlanet, NetZero, Varaha, and PlanBoo — spanning biochar and enhanced rock weathering across Brazil, Bolivia, Namibia, and India. The portfolio was selected from 200+ projects screened on a 118-point scientific framework and will offset residual Scope 3 business-travel emissions.",
+        sources: [
+          {
+            name: "ESG Today",
+            url: "https://www.esgtoday.com/boeing-buys-20000-ton-portfolio-of-biochar-erw-carbon-removals/",
+          },
+          {
+            name: "Decarbonfuse",
+            url: "https://decarbonfuse.com/posts/boeing-buys-20-000-ton-portfolio-of-biochar-erw-carbon-removals/",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+      {
+        title:
+          "New 2026–2036 Outlook: Biochar Was 86% of Global CDR Deliveries, and ~$15B of Investment Is Needed",
+        category: "Market",
+        region: "Global",
+        summary:
+          "A market outlook published September 14 projects biochar demand across carbon removal, soil health, construction, steelmaking, water treatment, and energy storage through 2036, estimating roughly $15.2 billion of investment will be required to meet that growth. It notes biochar represented about 86% of worldwide durable-CDR deliveries in 2024 — a measure of how central pyrolysis-based removal has become.",
+        sources: [
+          {
+            name: "GlobeNewswire",
+            url: "https://www.globenewswire.com/news-release/2026/09/14/3360816/28124/en/global-biochar-market-outlook-2026-2036-carbon-removal-soil-health-and-circular-economy-demand-fuel-new-growth-opportunities.html",
+          },
+        ],
+        related: { label: "Build + Operate a Plant", href: "/build-operate-plant" },
+      },
+      {
+        title:
+          "Durable Carbon-Removal Prices Stabilize Near $150/Tonne as the Buyer–Seller Gap Narrows",
+        category: "Market",
+        region: "Global",
+        summary:
+          "Durable CDR pricing has settled around $150 per tonne of CO₂e, with high-integrity permanent-removal credits still commanding a premium, as the long-standing gap between what buyers will pay and what sellers ask slowly closes. A firmer price floor plus multi-year mega-offtakes make it materially easier for new producers to underwrite plant construction.",
+        sources: [
+          {
+            name: "Carbon Credits",
+            url: "https://carboncredits.com/the-ultimate-guide-to-biochar-the-black-gold-fueling-durable-carbon-removal-market/",
+          },
+          {
+            name: "Reccessary",
+            url: "https://www.reccessary.com/en/news/cdr-credit-prices-defy-expectations-market-gap-narrows",
+          },
+        ],
+        related: { label: "Carbon Credits", href: "/carbon-credits" },
+      },
+    ],
+  },
+  {
     date: "2026-08-05",
     title: "Global Funding & Investment",
     items: [

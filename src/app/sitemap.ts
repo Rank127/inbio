@@ -140,6 +140,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     // Blog posts
     {
+      url: `${BASE_URL}/blog/biochar-as-a-service`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.6,
+    },
+    {
+      url: `${BASE_URL}/blog/durable-cdr-price-floor`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.6,
+    },
+    {
       url: `${BASE_URL}/blog/what-is-fast-pyrolysis`,
       lastModified: now,
       changeFrequency: 'monthly',
