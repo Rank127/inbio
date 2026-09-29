@@ -1,5 +1,16 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+
+// Self-referencing canonical for the homepage. Resolved against metadataBase
+// (set in layout.tsx) -> https://inbio.net. Kept per-page rather than in the
+// root layout, because a canonical in the layout would be inherited by every
+// route and resolve to the base URL, wrongly pointing all pages at the homepage.
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+};
 
 const serviceCards = [
   {

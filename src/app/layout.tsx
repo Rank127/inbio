@@ -49,6 +49,14 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  // Google Search Console verification (HTML-tag method).
+  // Placeholder: paste the token from GSC's "HTML tag" option into
+  // NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION (see .env.example). Until that env var
+  // is set, no verification <meta> is emitted — nothing bogus ships to prod.
+  // (Domain-property/DNS verification is separate and needs no tag here.)
+  verification: {
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION,
+  },
 };
 
 export default function RootLayout({
